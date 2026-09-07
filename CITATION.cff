@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this audit package, cite the repository owner and the upstream EFMW formalization sources."
+title: "EFMW Post-156 Theorem & Canonical Zoo Audit"
+type: software
+authors:
+  - family-names: Wright
+    given-names: Matthew Chenoweth
+date-released: 2026-09-07
+version: 0.1.0
