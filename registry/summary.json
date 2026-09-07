@@ -1,0 +1,18 @@
+{
+  "audit_date": "2026-09-07",
+  "canonical_source_equations": 102,
+  "aristotle_frozen_baseline": 156,
+  "post_baseline_repository_backed_promoted": 20,
+  "repository_backed_promoted_total": 176,
+  "new_derived_lean_pending": 5,
+  "working_total_including_pending": 181,
+  "new_fundamental_laws_promoted": 0,
+  "strong_candidate_physical_relations": [
+    "EFMW scalar propagation relation",
+    "Residual-rotation Friedmann relation (curvature degeneracy unresolved)"
+  ],
+  "new_key_result": "Curvature\u2013Rotation Degeneracy: k_eff = k - Omega_U^2",
+  "lean_version": "v4.28.0",
+  "mathlib_rev": "v4.28.0",
+  "lean_candidates_compile_status": "not run in package-generation environment"
+}

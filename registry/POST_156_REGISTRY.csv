@@ -1,0 +1,26 @@
+ID,Name,Statement,Class,Status,Independent physical law?
+T157,no_exact_parameter_verification,Finite data cannot uniquely verify an exact continuous parameter under strict compatibility and continuity.,Empirical bridge / general measurement theorem,REPOSITORY-BACKED,No
+T158,measurement_discriminates,Predictions separated by more than twice the error bar cannot both fit one measurement.,Empirical bridge / general,REPOSITORY-BACKED,No
+T159,falsification_by_measurement,The finite-precision compatibility predicate is non-vacuous; some observations refute a parameter.,Non-vacuity theorem,REPOSITORY-BACKED,No
+T160,le_phaseSpeed,"Under c>0 and alpha^2<1, EFMW phase speed is at least c.",EFMW-derived scalar corollary,REPOSITORY-BACKED,No
+T161,lt_phaseSpeed,"For nonzero alpha with alpha^2<1, EFMW phase speed is strictly greater than c.",EFMW-derived scalar corollary,REPOSITORY-BACKED,No
+T162,alpha_sq_le_of_speed_measurement,A null speed measurement yields an explicit upper bound on alpha^2.,Empirical bridge,REPOSITORY-BACKED,No
+T163,alpha_eq_zero_of_exact_lightspeed,Exact luminal phase speed forces alpha=0 under the model assumptions.,EFMW-derived scalar corollary,REPOSITORY-BACKED,No
+T164,phaseSpeed_gap,A coupling bounded away from zero implies a definite phase-speed gap from c.,EFMW-derived scalar corollary,REPOSITORY-BACKED,No
+T165,speed_experiment_discriminates,Sufficient precision separates alpha=0 from |alpha|>=epsilon.,Empirical bridge,REPOSITORY-BACKED,No
+T166,decisive_precision_exists,A finite positive precision exists that can discriminate the separated scalar hypotheses.,Empirical bridge,REPOSITORY-BACKED,No
+T167,OmegaU_sq_le_of_hubble_measurement,A null Hubble-rate result bounds Omega_U^2 <= delta a^2.,Empirical bridge,REPOSITORY-BACKED,No
+T168,OmegaU_eq_zero_of_exact_hubble,Exact agreement with baseline Friedmann expansion forces Omega_U=0 in the formalized model.,EFMW-derived cosmology corollary,REPOSITORY-BACKED,No
+T169,physical_test_asymmetry,Finite-precision experiments can refute/bound but cannot uniquely verify exact continuous parameters.,Epistemic synthesis,REPOSITORY-BACKED,No
+T170,gradient_bridge,If dD=dU-lambda dR then -dD=-dU+lambda dR.,Internal EFMW derivation,REPOSITORY-BACKED,No
+T171,approximate_gradient_bridge,Bridge mismatch equals the explicit residual -epsilon dQ.,Internal EFMW derivation,REPOSITORY-BACKED,No
+T172,discrete_fixed_point,The ME-072-style affine update fixes x when target=beta*x.,Internal systems theorem,REPOSITORY-BACKED,No
+T173,perturbation_propagation,Affine perturbations propagate by multiplier (1-alpha*beta).,Internal systems theorem,REPOSITORY-BACKED,No
+T174,alarm_translation_invariant,Equal shifts of signal and threshold preserve alarm truth value.,Standard operational theorem,REPOSITORY-BACKED,No
+T175,equal_score_not_state_equality,Equal scalarized scores need not imply equal underlying states.,Identifiability counterexample,REPOSITORY-BACKED,No
+T176,omega_zero_regularizers,Collapse-Omega objective reduces to base loss when regularizers are zero.,Internal EFMW reduction,REPOSITORY-BACKED,No
+T177,phaseSpeed_neg,"Scalar phase speed is invariant under alpha -> -alpha; speed identifies |alpha|, not sign.",New identifiability theorem,DERIVED — LEAN PENDING,No
+T178,real_wave_admissibility,A nontrivial real plane-wave dispersion solution requires alpha^2<1.,New scalar-sector theorem,DERIVED — LEAN PENDING,No
+T179,phaseSpeed_inversion,Exact model speed v implies alpha^2 = 1-(c/v)^2.,New inverse/identifiability theorem,DERIVED — LEAN PENDING,No
+T180,friedmann_rotation_sign_degeneracy,The Friedmann prediction is invariant under Omega_U -> -Omega_U.,New cosmological identifiability theorem,DERIVED — LEAN PENDING,No
+T181,friedmann_rotation_curvature_degeneracy,Constant residual rotation is exactly degenerate with k_eff=k-Omega_U^2 in the current Friedmann expression.,New cosmological degeneracy theorem,DERIVED — LEAN PENDING,No
