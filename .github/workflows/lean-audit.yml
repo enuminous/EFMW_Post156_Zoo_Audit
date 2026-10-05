@@ -1,0 +1,43 @@
+name: Lean and FieldSpace audit
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check exact source and mutation controls
+        run: |
+          python3 scripts/audit_fieldspace.py
+          python3 scripts/test_fieldspace_audit.py
+      - name: Install elan
+        run: |
+          curl -fsSL https://raw.githubusercontent.com/leanprover/elan/v4.2.4/elan-init.sh -o /tmp/elan-init.sh
+          sh /tmp/elan-init.sh -y --no-modify-path --default-toolchain none
+          echo "$HOME/.elan/bin" >> "$GITHUB_PATH"
+      - name: Resolve pinned dependencies and get Mathlib cache
+        run: |
+          lake update
+          lake exe cache get
+      - name: Compile and audit theorem dependencies
+        shell: bash
+        run: |
+          set -euo pipefail
+          mkdir -p results/lean
+          lean --version | tee results/lean/version.log
+          lake build 2>&1 | tee results/lean/build.log
+          lake env lean lean/ProofAudit.lean 2>&1 | tee results/lean/axioms.log
+          python3 scripts/check_axioms.py results/lean/axioms.log
+      - name: Preserve verification evidence
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: audit-evidence
+          path: |
+            results/
+            lake-manifest.json

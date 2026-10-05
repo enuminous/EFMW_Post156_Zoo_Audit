@@ -1,0 +1,21 @@
+import EFMWPost156Audit.DerivedCandidates
+import EFMWPost156Audit.FieldSpaceClosure
+
+#print axioms EFMWPost156Audit.phaseSpeed_neg
+#print axioms EFMWPost156Audit.real_wave_admissibility
+#print axioms EFMWPost156Audit.phaseSpeed_inversion
+#print axioms EFMWPost156Audit.friedmann_rotation_sign_degeneracy
+#print axioms EFMWPost156Audit.friedmann_rotation_curvature_degeneracy
+#print axioms EFMWPost156Audit.FieldSpaceClosure.mixedCurrent_null_slice
+#print axioms EFMWPost156Audit.FieldSpaceClosure.mixedStress_pair_restriction
+#print axioms EFMWPost156Audit.FieldSpaceClosure.mixedStress_chart_independent
+#print axioms EFMWPost156Audit.FieldSpaceClosure.mixedCurrent_nontrivial
+#print axioms EFMWPost156Audit.FieldSpaceClosure.zeroPaddedChart_shared_compatible
+#print axioms EFMWPost156Audit.FieldSpaceClosure.zeroPaddedChart_not_gluingCompatible
+#print axioms EFMWPost156Audit.FieldSpaceClosure.zeroPaddedChart_no_full_extension
+#print axioms EFMWPost156Audit.FieldSpaceClosure.shared_compatibility_insufficient
+#print axioms EFMWPost156Audit.FieldSpaceClosure.vacuum_stress_overlap_iff
+#print axioms EFMWPost156Audit.FieldSpaceClosure.vacuum_zero_required
+#print axioms FieldSpace.scalar_current_extra_equation
+#print axioms FieldSpace.linear_profile_obstruction
+#print axioms FieldSpace.fieldSpace_atlas_gluing

@@ -1,0 +1,30 @@
+{
+  "source_commit": "7e60205d2370c335ebe2cafe89d6e0bbe842ba01",
+  "source_git_blob": "ac6313fe4a2b02a28ac8fb34519c5f96f6ea2bd8",
+  "source_sha256": "7e263c783d20b8c4556b4bbb631d4bc8a0e49aded7450ecf1b3ed78e3ebff451",
+  "charts": 165,
+  "inventory": {
+    "einstein": 45,
+    "gauge_dynamics": 90,
+    "bianchi": 90,
+    "scalar": 360
+  },
+  "shared_pair_overlaps": 1980,
+  "overlap_categories": {
+    "current": 612,
+    "explicit": 1008,
+    "stress": 288,
+    "stress_and_current": 72
+  },
+  "compared_scalar_gauge_components": 3600,
+  "explicit_mismatches": 0,
+  "mixed_support_closure": "candidate_completion_only",
+  "global_unique_reconstruction": "not_established_for_source",
+  "additional_obligations": [
+    "Specify input and output restriction maps; shared-component equality is weaker than full-vector equality.",
+    "Specify scalar vacuum stress V(0) or a consistent subtraction rule.",
+    "Keep a common background metric/derivative convention across charts.",
+    "Specify pure-sector supports of J_E, J_M, J_S and gauge/curvature invariants.",
+    "Resolve conservation constraints independently of support closure."
+  ]
+}
