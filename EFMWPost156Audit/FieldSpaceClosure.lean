@@ -72,6 +72,7 @@ theorem zeroPaddedChart_not_gluingCompatible :
     (by decide) (by decide) (fun _ => (1 : ℚ))
   have ht := congrFun heq Sector.T
   norm_num [zeroPaddedChart, FieldSpace.restrict] at ht
+  exact (by decide : Sector.T ≠ Sector.I) (ht (by decide) (by decide))
 
 /-- The generic gluing theorem cannot supply a full-vector extension of this
 zero-padded encoding, even though every shared-component comparison passes. -/
