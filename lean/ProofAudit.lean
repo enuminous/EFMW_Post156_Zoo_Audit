@@ -1,5 +1,6 @@
 import EFMWPost156Audit.DerivedCandidates
 import EFMWPost156Audit.FieldSpaceClosure
+import EFMWPost156Audit.ProjectedGluing
 
 #print axioms EFMWPost156Audit.phaseSpeed_neg
 #print axioms EFMWPost156Audit.real_wave_admissibility
@@ -19,3 +20,18 @@ import EFMWPost156Audit.FieldSpaceClosure
 #print axioms FieldSpace.scalar_current_extra_equation
 #print axioms FieldSpace.linear_profile_obstruction
 #print axioms FieldSpace.fieldSpace_atlas_gluing
+
+#print axioms EFMWPost156Audit.ProjectedGluing.projectedCompatible_iff_output_restriction
+#print axioms EFMWPost156Audit.ProjectedGluing.sum_mobius_component
+#print axioms EFMWPost156Audit.ProjectedGluing.IsComponentKBody.eq_sum_mobius
+#print axioms EFMWPost156Audit.ProjectedGluing.projectedCompatible_of_restrictsTo
+#print axioms EFMWPost156Audit.ProjectedGluing.exists_componentKBody_of_projectedCompatible
+#print axioms EFMWPost156Audit.ProjectedGluing.projected_atlas_gluing
+#print axioms EFMWPost156Audit.ProjectedGluing.projected_atlas_gluing_unique
+#print axioms EFMWPost156Audit.ProjectedGluing.fieldSpace_projected_atlas_gluing
+#print axioms EFMWPost156Audit.ProjectedGluing.zeroPaddedChart_has_unique_projected_extension
+#print axioms EFMWPost156Audit.ProjectedGluing.repairedExample_restricts
+#print axioms EFMWPost156Audit.ProjectedGluing.repair_preserves_full_vector_obstruction
+#print axioms EFMWPost156Audit.ProjectedGluing.hiddenTriplet_is_three_body
+#print axioms EFMWPost156Audit.ProjectedGluing.hiddenTriplet_projected_zero
+#print axioms EFMWPost156Audit.ProjectedGluing.ordinary_three_body_not_unique

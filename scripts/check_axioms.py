@@ -4,13 +4,18 @@ import re
 import sys
 from pathlib import Path
 text = Path(sys.argv[1]).read_text()
-reports = re.findall(r"depends on axioms: \[([^\]]*)\]", text)
-empty = len(re.findall(r'does not depend on any axioms', text))
-if len(reports) + empty != 18:
-    raise SystemExit(f'Expected 18 complete dependency reports, got {len(reports) + empty}')
+audit = Path(__file__).resolve().parents[1] / 'lean/ProofAudit.lean'
+expected = re.findall(r'^#print axioms (\S+)$', audit.read_text(), re.M)
+reports = re.findall(
+    r"'([^']+)'\s+(?:depends on axioms:\s*\[([^\]]*)\]|does not depend on any axioms)", text)
+names = [name for name, _ in reports]
+if len(names) != len(set(names)) or set(names) != set(expected):
+    raise SystemExit(f'Incomplete or duplicate dependency reports. '
+                     f'Missing: {sorted(set(expected) - set(names))}; '
+                     f'unexpected: {sorted(set(names) - set(expected))}')
 allowed = {'propext', 'Classical.choice', 'Quot.sound'}
-for report in reports:
+for _, report in reports:
     dependencies = {x.strip() for x in report.split(',') if x.strip()}
     if dependencies - allowed:
         raise SystemExit('Unexpected proof dependencies: ' + str(dependencies - allowed))
-print('PASS: 18 reports, standard foundational axioms only')
+print(f'PASS: {len(reports)} named reports, standard foundational axioms only')
