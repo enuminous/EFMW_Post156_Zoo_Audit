@@ -1,6 +1,6 @@
 # New Derivations: T177–T181
 
-These five results emerged from the post-156 Zoo audit. They are **DERIVED — LEAN PENDING** in this package.
+These five results emerged from the post-156 Zoo audit. They are now **KERNEL-CHECKED IN AUDIT REPO** as of 2026-10-05. See [verification evidence](../results/lean/VERIFICATION.md). Scientific and empirical classifications are unchanged.
 
 ## T177 — Scalar Coupling Sign Degeneracy
 

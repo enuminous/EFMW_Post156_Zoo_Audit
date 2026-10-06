@@ -82,7 +82,7 @@ and must also respect its zero-slice behavior.
 
 - **Demonstrated computationally:** the exact source inventory, overlap counts,
   explicit retained-term comparisons, and mutation controls.
-- **Formal proof targets:** support-construction lemmas, a counterexample to
+- **Kernel-checked on 2026-10-05:** support-construction lemmas, a counterexample to
   the missing predicate implication, and the vacuum-stress condition.
 - **Not established:** full source gluing, unique global physical dynamics,
   a master action, conservation closure, or empirical validation.
@@ -106,8 +106,8 @@ be used only after its actual hypothesis has been established.
 
 Lean and Mathlib are v4.28.0; the FieldSpace dependency is pinned to the SHA
 above. `.github/workflows/lean-audit.yml` performs actual compilation and
-preserves the build/dependency logs. Formal targets remain pending until a
-successful run is recorded in `results/lean/VERIFICATION.md`.
+preserves the build/dependency logs. The ten audit lemmas and five older candidates passed the build and axiom
+check; the successful run is recorded in `results/lean/VERIFICATION.md`.
 
 ## Known-result classification
 

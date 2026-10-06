@@ -19,8 +19,8 @@ T173,perturbation_propagation,Affine perturbations propagate by multiplier (1-al
 T174,alarm_translation_invariant,Equal shifts of signal and threshold preserve alarm truth value.,Standard operational theorem,REPOSITORY-BACKED,No
 T175,equal_score_not_state_equality,Equal scalarized scores need not imply equal underlying states.,Identifiability counterexample,REPOSITORY-BACKED,No
 T176,omega_zero_regularizers,Collapse-Omega objective reduces to base loss when regularizers are zero.,Internal EFMW reduction,REPOSITORY-BACKED,No
-T177,phaseSpeed_neg,"Scalar phase speed is invariant under alpha -> -alpha; speed identifies |alpha|, not sign.",New identifiability theorem,DERIVED — LEAN PENDING,No
-T178,real_wave_admissibility,A nontrivial real plane-wave dispersion solution requires alpha^2<1.,New scalar-sector theorem,DERIVED — LEAN PENDING,No
-T179,phaseSpeed_inversion,Exact model speed v implies alpha^2 = 1-(c/v)^2.,New inverse/identifiability theorem,DERIVED — LEAN PENDING,No
-T180,friedmann_rotation_sign_degeneracy,The Friedmann prediction is invariant under Omega_U -> -Omega_U.,New cosmological identifiability theorem,DERIVED — LEAN PENDING,No
-T181,friedmann_rotation_curvature_degeneracy,Constant residual rotation is exactly degenerate with k_eff=k-Omega_U^2 in the current Friedmann expression.,New cosmological degeneracy theorem,DERIVED — LEAN PENDING,No
+T177,phaseSpeed_neg,"Scalar phase speed is invariant under alpha -> -alpha; speed identifies |alpha|, not sign.",New identifiability theorem,KERNEL-CHECKED IN AUDIT REPO,No
+T178,real_wave_admissibility,A nontrivial real plane-wave dispersion solution requires alpha^2<1.,New scalar-sector theorem,KERNEL-CHECKED IN AUDIT REPO,No
+T179,phaseSpeed_inversion,Exact model speed v implies alpha^2 = 1-(c/v)^2.,New inverse/identifiability theorem,KERNEL-CHECKED IN AUDIT REPO,No
+T180,friedmann_rotation_sign_degeneracy,The Friedmann prediction is invariant under Omega_U -> -Omega_U.,New cosmological identifiability theorem,KERNEL-CHECKED IN AUDIT REPO,No
+T181,friedmann_rotation_curvature_degeneracy,Constant residual rotation is exactly degenerate with k_eff=k-Omega_U^2 in the current Friedmann expression.,New cosmological degeneracy theorem,KERNEL-CHECKED IN AUDIT REPO,No

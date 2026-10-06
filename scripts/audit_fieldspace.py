@@ -148,7 +148,7 @@ def run(output, check_hash=True, text=None):
         output.mkdir(parents=True, exist_ok=True)
         (output / 'summary.json').write_text(json.dumps(result, indent=2) + '\n')
         with (output / 'overlaps.csv').open('w', newline='') as f:
-            writer = csv.DictWriter(f, fieldnames=list(rows[0]))
+            writer = csv.DictWriter(f, fieldnames=list(rows[0]), lineterminator='\n')
             writer.writeheader()
             writer.writerows(rows)
     return result, mismatches

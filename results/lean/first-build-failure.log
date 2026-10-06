@@ -1,0 +1,19 @@
+✔ [8027/8032] Built EFMWPost156Audit.DerivedCandidates (8.1s)
+✔ [8028/8032] Built RequestProject.FieldSpace.Conservation (9.3s)
+✔ [8029/8032] Built RequestProject.FieldSpace.Basic (140s)
+✔ [8030/8032] Built RequestProject.FieldSpace.Gluing (4.6s)
+✖ [8031/8032] Building EFMWPost156Audit.FieldSpaceClosure (9.8s)
+trace: .> LEAN_PATH=/home/runner/work/EFMW_Post156_Zoo_Audit/EFMW_Post156_Zoo_Audit/.lake/packages/Cli/.lake/build/lib/lean:/home/runner/work/EFMW_Post156_Zoo_Audit/EFMW_Post156_Zoo_Audit/.lake/packages/batteries/.lake/build/lib/lean:/home/runner/work/EFMW_Post156_Zoo_Audit/EFMW_Post156_Zoo_Audit/.lake/packages/Qq/.lake/build/lib/lean:/home/runner/work/EFMW_Post156_Zoo_Audit/EFMW_Post156_Zoo_Audit/.lake/packages/aesop/.lake/build/lib/lean:/home/runner/work/EFMW_Post156_Zoo_Audit/EFMW_Post156_Zoo_Audit/.lake/packages/proofwidgets/.lake/build/lib/lean:/home/runner/work/EFMW_Post156_Zoo_Audit/EFMW_Post156_Zoo_Audit/.lake/packages/importGraph/.lake/build/lib/lean:/home/runner/work/EFMW_Post156_Zoo_Audit/EFMW_Post156_Zoo_Audit/.lake/packages/LeanSearchClient/.lake/build/lib/lean:/home/runner/work/EFMW_Post156_Zoo_Audit/EFMW_Post156_Zoo_Audit/.lake/packages/plausible/.lake/build/lib/lean:/home/runner/work/EFMW_Post156_Zoo_Audit/EFMW_Post156_Zoo_Audit/.lake/packages/mathlib/.lake/build/lib/lean:/home/runner/work/EFMW_Post156_Zoo_Audit/EFMW_Post156_Zoo_Audit/.lake/packages/RequestProject/.lake/build/lib/lean:/home/runner/work/EFMW_Post156_Zoo_Audit/EFMW_Post156_Zoo_Audit/.lake/build/lib/lean /home/runner/.elan/toolchains/leanprover--lean4---v4.28.0/bin/lean /home/runner/work/EFMW_Post156_Zoo_Audit/EFMW_Post156_Zoo_Audit/EFMWPost156Audit/FieldSpaceClosure.lean -o /home/runner/work/EFMW_Post156_Zoo_Audit/EFMW_Post156_Zoo_Audit/.lake/build/lib/lean/EFMWPost156Audit/FieldSpaceClosure.olean -i /home/runner/work/EFMW_Post156_Zoo_Audit/EFMW_Post156_Zoo_Audit/.lake/build/lib/lean/EFMWPost156Audit/FieldSpaceClosure.ilean -c /home/runner/work/EFMW_Post156_Zoo_Audit/EFMW_Post156_Zoo_Audit/.lake/build/ir/EFMWPost156Audit/FieldSpaceClosure.c --setup /home/runner/work/EFMW_Post156_Zoo_Audit/EFMW_Post156_Zoo_Audit/.lake/build/ir/EFMWPost156Audit/FieldSpaceClosure.setup.json --json
+error: EFMWPost156Audit/FieldSpaceClosure.lean:69:55: unsolved goals
+h : GluingCompatible 3 zeroPaddedChart
+heq :
+  zeroPaddedChart {Sector.F, Sector.W, Sector.T}
+      (restrict ({Sector.F, Sector.W, Sector.T} ∩ {Sector.F, Sector.W, Sector.I}) fun x => 1) =
+    zeroPaddedChart {Sector.F, Sector.W, Sector.I}
+      (restrict ({Sector.F, Sector.W, Sector.T} ∩ {Sector.F, Sector.W, Sector.I}) fun x => 1)
+ht : ¬Sector.T = Sector.F → ¬Sector.T = Sector.W → Sector.T = Sector.I
+⊢ False
+error: Lean exited with code 1
+Some required targets logged failures:
+- EFMWPost156Audit.FieldSpaceClosure
+error: build failed

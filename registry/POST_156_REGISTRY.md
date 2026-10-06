@@ -22,12 +22,12 @@
 | T174 | `alarm_translation_invariant` | Standard operational theorem | REPOSITORY-BACKED | No |
 | T175 | `equal_score_not_state_equality` | Identifiability counterexample | REPOSITORY-BACKED | No |
 | T176 | `omega_zero_regularizers` | Internal EFMW reduction | REPOSITORY-BACKED | No |
-| T177 | `phaseSpeed_neg` | New identifiability theorem | DERIVED — LEAN PENDING | No |
-| T178 | `real_wave_admissibility` | New scalar-sector theorem | DERIVED — LEAN PENDING | No |
-| T179 | `phaseSpeed_inversion` | New inverse/identifiability theorem | DERIVED — LEAN PENDING | No |
-| T180 | `friedmann_rotation_sign_degeneracy` | New cosmological identifiability theorem | DERIVED — LEAN PENDING | No |
-| T181 | `friedmann_rotation_curvature_degeneracy` | New cosmological degeneracy theorem | DERIVED — LEAN PENDING | No |
+| T177 | `phaseSpeed_neg` | New identifiability theorem | KERNEL-CHECKED IN AUDIT REPO | No |
+| T178 | `real_wave_admissibility` | New scalar-sector theorem | KERNEL-CHECKED IN AUDIT REPO | No |
+| T179 | `phaseSpeed_inversion` | New inverse/identifiability theorem | KERNEL-CHECKED IN AUDIT REPO | No |
+| T180 | `friedmann_rotation_sign_degeneracy` | New cosmological identifiability theorem | KERNEL-CHECKED IN AUDIT REPO | No |
+| T181 | `friedmann_rotation_curvature_degeneracy` | New cosmological degeneracy theorem | KERNEL-CHECKED IN AUDIT REPO | No |
 
 ## Counting note
 
-T157–T176 are repository-backed promoted results. T177–T181 are newly derived audit candidates and are **not** counted as kernel-checked until they compile in Lean.
+T157–T176 retain their earlier repository-backed status. T177–T181 passed the pinned Lean build and axiom audit on 2026-10-05; see [verification evidence](../results/lean/VERIFICATION.md). This run does not certify the whole earlier 176-entry corpus.

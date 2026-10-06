@@ -1,26 +1,22 @@
-# Lean Targets
+# Lean verification
 
-`../EFMWPost156Audit/DerivedCandidates.lean` contains self-contained theorem targets for T177–T181 using the same algebraic forms as the audited EFMW scalar and Friedmann relations.
+T177–T181 and the ten FieldSpace audit lemmas passed Lean 4.28.0 on
+2026-10-05. All 18 dependency reports (including three upstream results)
+contain only `propext`, `Classical.choice`, and `Quot.sound`.
 
-## Important status
+See [verification evidence](../results/lean/VERIFICATION.md) for the tested
+commit, CI run, exact dependencies, build logs and the preserved first failure.
 
-These five targets are included as **DERIVED — LEAN PENDING**.
+## Reproduce
 
-This ZIP was generated without a local Lean executable, so no claim is made that this file has passed `lake build` in this environment.
-
-The package pins:
-- Lean `v4.28.0`
-- Mathlib `v4.28.0`
-
-to match the inspected upstream Aristotle project.
-
-## Intended workflow
-
-```bash
+```sh
 lake update
+git diff --exit-code lake-manifest.json
+lake exe cache get
 lake build
+lake env lean lean/ProofAudit.lean > results/lean/axioms.log
+python3 scripts/check_axioms.py results/lean/axioms.log
 ```
 
-If all five compile, update their registry status from `DERIVED — LEAN PENDING` to `KERNEL-CHECKED IN AUDIT REPO`, record the commit SHA, and leave the scientific/empirical status unchanged.
-
-Formal proof still does not establish physical truth.
+The FieldSpace mixed-term construction is a proposed algebraic completion.
+Full source gluing and conservation remain unresolved; see the closure audit.

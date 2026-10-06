@@ -4,7 +4,7 @@
   "aristotle_frozen_baseline": 156,
   "post_baseline_repository_backed_promoted": 20,
   "repository_backed_promoted_total": 176,
-  "new_derived_lean_pending": 5,
+  "new_derived_lean_pending": 0,
   "working_total_including_pending": 181,
   "new_fundamental_laws_promoted": 0,
   "strong_candidate_physical_relations": [
@@ -14,5 +14,11 @@
   "new_key_result": "Curvature\u2013Rotation Degeneracy: k_eff = k - Omega_U^2",
   "lean_version": "v4.28.0",
   "mathlib_rev": "v4.28.0",
-  "lean_candidates_compile_status": "not run in package-generation environment"
+  "lean_candidates_compile_status": "PASS",
+  "verification_date": "2026-10-05",
+  "new_kernel_checked_in_audit_repo": 5,
+  "fieldspace_audit_declarations": 10,
+  "verification_commit": "b833ea5f77c55b6d021b4dc6483d456fd0b3ecfa",
+  "verification_run": "https://github.com/enuminous/EFMW_Post156_Zoo_Audit/actions/runs/37333546590",
+  "axiom_reports_checked": 18
 }

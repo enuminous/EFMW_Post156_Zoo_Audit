@@ -1,0 +1,32 @@
+'EFMWPost156Audit.phaseSpeed_neg' depends on axioms: [propext, Classical.choice, Quot.sound]
+'EFMWPost156Audit.real_wave_admissibility' depends on axioms: [propext, Classical.choice, Quot.sound]
+'EFMWPost156Audit.phaseSpeed_inversion' depends on axioms: [propext, Classical.choice, Quot.sound]
+'EFMWPost156Audit.friedmann_rotation_sign_degeneracy' depends on axioms: [propext, Classical.choice, Quot.sound]
+'EFMWPost156Audit.friedmann_rotation_curvature_degeneracy' depends on axioms: [propext, Classical.choice, Quot.sound]
+'EFMWPost156Audit.FieldSpaceClosure.mixedCurrent_null_slice' depends on axioms: [propext, Classical.choice, Quot.sound]
+'EFMWPost156Audit.FieldSpaceClosure.mixedStress_pair_restriction' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'EFMWPost156Audit.FieldSpaceClosure.mixedStress_chart_independent' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'EFMWPost156Audit.FieldSpaceClosure.mixedCurrent_nontrivial' depends on axioms: [propext, Classical.choice, Quot.sound]
+'EFMWPost156Audit.FieldSpaceClosure.zeroPaddedChart_shared_compatible' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'EFMWPost156Audit.FieldSpaceClosure.zeroPaddedChart_not_gluingCompatible' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'EFMWPost156Audit.FieldSpaceClosure.zeroPaddedChart_no_full_extension' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'EFMWPost156Audit.FieldSpaceClosure.shared_compatibility_insufficient' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'EFMWPost156Audit.FieldSpaceClosure.vacuum_stress_overlap_iff' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'EFMWPost156Audit.FieldSpaceClosure.vacuum_zero_required' depends on axioms: [propext, Classical.choice, Quot.sound]
+'FieldSpace.scalar_current_extra_equation' depends on axioms: [propext, Classical.choice, Quot.sound]
+'FieldSpace.linear_profile_obstruction' depends on axioms: [propext, Classical.choice, Quot.sound]
+'FieldSpace.fieldSpace_atlas_gluing' depends on axioms: [propext, Classical.choice, Quot.sound]

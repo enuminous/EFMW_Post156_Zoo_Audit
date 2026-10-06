@@ -25,11 +25,13 @@ Thus the present repository-backed promoted count is:
 
 `156 + 13 + 7 = 176`.
 
-## Why 181 is only a working count
+## Verification update for the 181 entries
 
-T177–T181 are new derivations from the inspected formulas. They are mathematically stated and supplied as Lean targets, but this audit package does not claim they have been kernel-checked.
+On 2026-10-05, T177–T181 passed the pinned Lean build and axiom audit.
+The correct split is 176 earlier repository-backed promoted entries plus five
+kernel-checked results in this audit repository. This run does not reverify
+all 181 entries. See `results/lean/VERIFICATION.md`.
 
-Therefore:
-
-- **176** = repository-backed promoted count
-- **181** = working count including five Lean-pending candidates
+The ten new FieldSpace declarations are listed separately: elementary support
+lemmas, counterexample corollaries and a vacuum condition. They are not
+automatically ten independent theorem families or new physical laws.

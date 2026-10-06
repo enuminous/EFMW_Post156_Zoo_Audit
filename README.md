@@ -1,5 +1,13 @@
 # EFMW Post-156 Theorem & Zoo Audit
 
+**2026-10-05 verification update:** [Lean build and axiom audit passed](https://github.com/enuminous/EFMW_Post156_Zoo_Audit/actions/runs/37333546590).
+T177–T181 are now kernel-checked in this repository. The new
+[FieldSpace closure audit](docs/FIELDSPACE_CLOSURE_AUDIT.md) adds ten checked
+lemmas covering an explicit support construction, a counterexample to the
+shared-component/full-vector implication, and a vacuum-stress condition.
+The 972 conditional overlaps are **not** promoted to full source gluing.
+See [verification evidence](results/lean/VERIFICATION.md).
+
 **Audit date:** 2026-09-07  
 **Scope:** Monolithic 102 equations; Aristotle EFMW Lean baseline; Monolithic Zoo survivor tranche; canonical 46-animal EFMW Zoo.
 
@@ -13,12 +21,17 @@ This repository freezes the current audit state after comparing the 156-theorem 
 - **156** frozen Aristotle baseline theorem count
 - **20** additional repository-backed promoted theorem families beyond that baseline
 - **176** repository-backed promoted registry entries total
-- **5** newly derived theorem candidates from the present audit, **Lean pending**
-- **181** working entries if those five candidates are included as unverified derivations
+- **5** audit results T177–T181, **kernel-checked in this repository on 2026-10-05**
+- **181** registry entries including those five checked results
+- **10** FieldSpace audit theorem declarations, recorded separately from the registry count
 
 The 181 figure must **not** be described as 181 kernel-checked theorems. The defensible split is:
 
-> **176 repository-backed promoted entries + 5 derived, Lean-pending candidates.**
+> **176 earlier repository-backed promoted entries + 5 results kernel-checked in this audit repository.**
+
+The present build does not reverify the entire earlier 176-entry corpus. The ten
+FieldSpace declarations include helper results and counterexamples; they are not
+automatically promoted as ten independent theorem families.
 
 ## Main scientific finding
 
@@ -67,7 +80,8 @@ The new Zoo pass mainly adds **identifiability and falsification structure**. Mo
 
 - **REPOSITORY-BACKED** — theorem/result exists in inspected repository source.
 - **PROMOTED** — counted as substantively distinct after helper/rephrasing deduplication.
-- **DERIVED — LEAN PENDING** — algebraically/mathematically derived in this audit but not claimed kernel-checked here.
+- **KERNEL-CHECKED IN AUDIT REPO** — accepted by the pinned Lean build with theorem dependency reports retained.
+- **DERIVED — LEAN PENDING** — a derivation awaiting that build gate; the original status of T177–T181, now superseded.
 - **CANDIDATE PHYSICAL LAW** — a model relation with distinct empirical content; not an experimentally established law of nature.
 - **STANDARD / INTERNAL** — mathematically valid consequence, but not a novel physical law.
 
