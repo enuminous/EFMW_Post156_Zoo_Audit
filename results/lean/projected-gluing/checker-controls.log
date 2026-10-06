@@ -1,0 +1,6 @@
+PASS: complete accepted
+PASS: missing rejected
+PASS: duplicate rejected
+PASS: unexpected_axiom rejected
+PASS: unexpected_theorem rejected
+PASS: stale_original rejected

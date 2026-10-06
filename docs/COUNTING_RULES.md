@@ -35,3 +35,9 @@ all 181 entries. See `results/lean/VERIFICATION.md`.
 The ten new FieldSpace declarations are listed separately: elementary support
 lemmas, counterexample corollaries and a vacuum condition. They are not
 automatically ten independent theorem families or new physical laws.
+
+The projected gluing repair adds 15 declarations (reconstruction, uniqueness,
+completion, supporting lemmas and regression counterexamples). They remain
+separate from the 181-entry registry. With the original ten, there are 25
+FieldSpace audit declarations; this does not promote 25 physical laws or
+claim 25 independent theorem families.

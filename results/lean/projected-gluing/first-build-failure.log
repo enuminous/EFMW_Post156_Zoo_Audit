@@ -1,0 +1,193 @@
+Lean (version 4.28.0, x86_64-unknown-linux-gnu, commit 7e01a1bf5c70fc6167d49c345d3bf80596e9a79b, Release)
+✔ [8027/8033] Built RequestProject.FieldSpace.Conservation (5.4s)
+✔ [8028/8033] Built EFMWPost156Audit.DerivedCandidates (5.8s)
+✔ [8029/8033] Built RequestProject.FieldSpace.Basic (100s)
+✔ [8030/8033] Built RequestProject.FieldSpace.Gluing (3.2s)
+✔ [8031/8033] Built EFMWPost156Audit.FieldSpaceClosure (7.2s)
+✖ [8032/8033] Building EFMWPost156Audit.ProjectedGluing (3.3s)
+trace: .> LEAN_PATH=/home/runner/work/EFMW_Post156_Zoo_Audit/EFMW_Post156_Zoo_Audit/.lake/packages/Cli/.lake/build/lib/lean:/home/runner/work/EFMW_Post156_Zoo_Audit/EFMW_Post156_Zoo_Audit/.lake/packages/batteries/.lake/build/lib/lean:/home/runner/work/EFMW_Post156_Zoo_Audit/EFMW_Post156_Zoo_Audit/.lake/packages/Qq/.lake/build/lib/lean:/home/runner/work/EFMW_Post156_Zoo_Audit/EFMW_Post156_Zoo_Audit/.lake/packages/aesop/.lake/build/lib/lean:/home/runner/work/EFMW_Post156_Zoo_Audit/EFMW_Post156_Zoo_Audit/.lake/packages/proofwidgets/.lake/build/lib/lean:/home/runner/work/EFMW_Post156_Zoo_Audit/EFMW_Post156_Zoo_Audit/.lake/packages/importGraph/.lake/build/lib/lean:/home/runner/work/EFMW_Post156_Zoo_Audit/EFMW_Post156_Zoo_Audit/.lake/packages/LeanSearchClient/.lake/build/lib/lean:/home/runner/work/EFMW_Post156_Zoo_Audit/EFMW_Post156_Zoo_Audit/.lake/packages/plausible/.lake/build/lib/lean:/home/runner/work/EFMW_Post156_Zoo_Audit/EFMW_Post156_Zoo_Audit/.lake/packages/mathlib/.lake/build/lib/lean:/home/runner/work/EFMW_Post156_Zoo_Audit/EFMW_Post156_Zoo_Audit/.lake/packages/RequestProject/.lake/build/lib/lean:/home/runner/work/EFMW_Post156_Zoo_Audit/EFMW_Post156_Zoo_Audit/.lake/build/lib/lean /home/runner/.elan/toolchains/leanprover--lean4---v4.28.0/bin/lean /home/runner/work/EFMW_Post156_Zoo_Audit/EFMW_Post156_Zoo_Audit/EFMWPost156Audit/ProjectedGluing.lean -o /home/runner/work/EFMW_Post156_Zoo_Audit/EFMW_Post156_Zoo_Audit/.lake/build/lib/lean/EFMWPost156Audit/ProjectedGluing.olean -i /home/runner/work/EFMW_Post156_Zoo_Audit/EFMW_Post156_Zoo_Audit/.lake/build/lib/lean/EFMWPost156Audit/ProjectedGluing.ilean -c /home/runner/work/EFMW_Post156_Zoo_Audit/EFMW_Post156_Zoo_Audit/.lake/build/ir/EFMWPost156Audit/ProjectedGluing.c --setup /home/runner/work/EFMW_Post156_Zoo_Audit/EFMW_Post156_Zoo_Audit/.lake/build/ir/EFMWPost156Audit/ProjectedGluing.setup.json --json
+error: EFMWPost156Audit/ProjectedGluing.lean:41:8: Ambiguous term
+  restrict
+Possible interpretations:
+  FieldSpace.restrict (A ∩ B) (f A (FieldSpace.restrict (A ∩ B) φ)) : ι → M
+  
+  (A ∩ B).restrict (f A (FieldSpace.restrict (A ∩ B) φ)) : ↥(A ∩ B) → M
+error: EFMWPost156Audit/ProjectedGluing.lean:42:8: Ambiguous term
+  restrict
+Possible interpretations:
+  FieldSpace.restrict (A ∩ B) (f B (FieldSpace.restrict (A ∩ B) φ)) : ι → M
+  
+  (A ∩ B).restrict (f B (FieldSpace.restrict (A ∩ B) φ)) : ↥(A ∩ B) → M
+error: EFMWPost156Audit/ProjectedGluing.lean:63:30: Unknown identifier `s`
+error: EFMWPost156Audit/ProjectedGluing.lean:87:12: Ambiguous term
+  restrict
+Possible interpretations:
+  FieldSpace.restrict A (FieldSpace.restrict (A ∩ B) φ) : ι → R
+  
+  A.restrict (FieldSpace.restrict (A ∩ B) φ) : ↥A → R
+error: EFMWPost156Audit/ProjectedGluing.lean:87:46: Ambiguous term
+  restrict
+Possible interpretations:
+  FieldSpace.restrict (A ∩ B) φ : ι → R
+  
+  (A ∩ B).restrict φ : ↥(A ∩ B) → R
+error: EFMWPost156Audit/ProjectedGluing.lean:85:31: unsolved goals
+ι : Type u_1
+R : Type u_2
+M : Type u_3
+inst✝² : DecidableEq ι
+inst✝¹ : Zero R
+inst✝ : AddCommGroup M
+k : ℕ
+F : (ι → R) → ι → M
+f : Finset ι → (ι → R) → ι → M
+hF : ProjectedRestrictsTo k F f
+A B : Finset ι
+hA : #A = k
+hB : #B = k
+φ : ι → R
+s : ι
+hs : s ∈ A ∩ B
+⊢ f A (FieldSpace.restrict (A ∩ B) φ) s = f B (FieldSpace.restrict (A ∩ B) φ) s
+error: EFMWPost156Audit/ProjectedGluing.lean:161:11: Ambiguous term
+  restrict
+Possible interpretations:
+  FieldSpace.restrict T (FieldSpace.restrict U φ) : ι → R
+  
+  T.restrict (FieldSpace.restrict U φ) : ↥T → R
+error: EFMWPost156Audit/ProjectedGluing.lean:161:39: Ambiguous term
+  restrict
+Possible interpretations:
+  FieldSpace.restrict U φ : ι → R
+  
+  U.restrict φ : ↥U → R
+error: EFMWPost156Audit/ProjectedGluing.lean:154:58: unsolved goals
+case h.h
+ι : Type u_1
+R : Type u_2
+M : Type u_3
+inst✝³ : DecidableEq ι
+inst✝² : Zero R
+inst✝¹ : AddCommGroup M
+inst✝ : Fintype ι
+k : ℕ
+hk : k ≤ Fintype.card ι
+F G : (ι → R) → ι → M
+hF : IsComponentKBody k F
+hG : IsComponentKBody k G
+h : ∀ (T : Finset ι), #T = k → ∀ (φ : ι → R), ∀ s ∈ T, F (FieldSpace.restrict T φ) s = G (FieldSpace.restrict T φ) s
+φ : ι → R
+s : ι
+S : Finset ι
+hS : S ∈ {S | #(insert s S) ≤ k}
+U : Finset ι
+hU : U ⊆ S
+T : Finset ι
+hST : insert s S ⊆ T
+hT : #T = k
+hUT : U ⊆ T
+hs : s ∈ T
+⊢ F (FieldSpace.restrict U φ) s = G (FieldSpace.restrict U φ) s
+error: EFMWPost156Audit/ProjectedGluing.lean:211:27: Invalid simp theorem: Expected a proposition, but found
+  (x_0 : Type _abstMVar.0) → (x_1 : x_0 → Type _abstMVar.1) → (s : Finset x_0) → ((i : x_0) → x_1 i) → (i : ↥s) → x_1 ↑i
+error: EFMWPost156Audit/ProjectedGluing.lean:208:4: unsolved goals
+case pos.h
+support : Finset Sector := {Sector.F, Sector.W, Sector.I}
+φ : Sector → ℚ
+s : Sector
+⊢ (if s = Sector.T then φ Sector.F * φ Sector.W * φ Sector.I else 0) =
+    if s = Sector.T then
+      FieldSpace.restrict {Sector.F, Sector.W, Sector.I} φ Sector.F *
+          FieldSpace.restrict {Sector.F, Sector.W, Sector.I} φ Sector.W *
+        FieldSpace.restrict {Sector.F, Sector.W, Sector.I} φ Sector.I
+    else 0
+error: EFMWPost156Audit/ProjectedGluing.lean:226:8: unsolved goals
+case pos
+A : Finset Sector
+hA : #A = 3
+φ : Sector → ℚ
+hs : Sector.T ∈ A
+hF : Sector.F ∈ A
+hW : Sector.W ∈ A
+hI : Sector.I ∈ A
+hsub : {Sector.F, Sector.W, Sector.I, Sector.T} ⊆ A
+hc : #{Sector.F, Sector.W, Sector.I, Sector.T} ≤ 3
+⊢ hiddenTriplet (FieldSpace.restrict A φ) Sector.T = (fun x x_1 x_2 => 0) A (FieldSpace.restrict A φ) Sector.T
+error: EFMWPost156Audit/ProjectedGluing.lean:231:31: Ambiguous term
+  restrict
+Possible interpretations:
+  FieldSpace.restrict : Finset ?m.112 → (?m.112 → ?m.113) → ?m.112 → ?m.113
+  
+  Finset.restrict : (s : Finset ?m.112) → ((i : ?m.112) → ?m.113 i) → (i : ↥s) → ?m.113 ↑i
+error: EFMWPost156Audit/ProjectedGluing.lean:231:8: unsolved goals
+case neg
+A : Finset Sector
+hA : #A = 3
+φ : Sector → ℚ
+hs : Sector.T ∈ A
+hF : Sector.F ∈ A
+hW : Sector.W ∈ A
+hI : Sector.I ∉ A
+⊢ (FieldSpace.restrict A φ Sector.F = 0 ∨ FieldSpace.restrict A φ Sector.W = 0) ∨ FieldSpace.restrict A φ Sector.I = 0
+error: EFMWPost156Audit/ProjectedGluing.lean:232:29: Ambiguous term
+  restrict
+Possible interpretations:
+  FieldSpace.restrict : Finset ?m.113 → (?m.113 → ?m.114) → ?m.113 → ?m.114
+  
+  Finset.restrict : (s : Finset ?m.113) → ((i : ?m.113) → ?m.114 i) → (i : ↥s) → ?m.114 ↑i
+error: EFMWPost156Audit/ProjectedGluing.lean:232:6: unsolved goals
+case neg
+A : Finset Sector
+hA : #A = 3
+φ : Sector → ℚ
+hs : Sector.T ∈ A
+hF : Sector.F ∈ A
+hW : Sector.W ∉ A
+⊢ (FieldSpace.restrict A φ Sector.F = 0 ∨ FieldSpace.restrict A φ Sector.W = 0) ∨ FieldSpace.restrict A φ Sector.I = 0
+error: EFMWPost156Audit/ProjectedGluing.lean:233:27: Ambiguous term
+  restrict
+Possible interpretations:
+  FieldSpace.restrict : Finset ?m.114 → (?m.114 → ?m.115) → ?m.114 → ?m.115
+  
+  Finset.restrict : (s : Finset ?m.114) → ((i : ?m.114) → ?m.115 i) → (i : ↥s) → ?m.115 ↑i
+error: EFMWPost156Audit/ProjectedGluing.lean:233:4: unsolved goals
+case neg
+A : Finset Sector
+hA : #A = 3
+φ : Sector → ℚ
+hs : Sector.T ∈ A
+hF : Sector.F ∉ A
+⊢ (FieldSpace.restrict A φ Sector.F = 0 ∨ FieldSpace.restrict A φ Sector.W = 0) ∨ FieldSpace.restrict A φ Sector.I = 0
+warning: EFMWPost156Audit/ProjectedGluing.lean:231:41: This simp argument is unused:
+  hI
+
+Hint: Omit it from the simp argument list.
+  simp [hiddenTriplet, restrict,̵ ̵h̵I̵]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+warning: EFMWPost156Audit/ProjectedGluing.lean:232:39: This simp argument is unused:
+  hW
+
+Hint: Omit it from the simp argument list.
+  simp [hiddenTriplet, restrict,̵ ̵h̵W̵]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+warning: EFMWPost156Audit/ProjectedGluing.lean:233:37: This simp argument is unused:
+  hF
+
+Hint: Omit it from the simp argument list.
+  simp [hiddenTriplet, restrict,̵ ̵h̵F̵]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+error: EFMWPost156Audit/ProjectedGluing.lean:244:34: Invalid simp theorem: Expected a proposition, but found
+  (x_0 : Type _abstMVar.0) →
+    (x_1 : x_0 → Type _abstMVar.1) → (x_2 : Type _abstMVar.2) → (((i : x_0) → x_1 i) → x_2) → Set x_0 → Prop
+error: EFMWPost156Audit/ProjectedGluing.lean:244:25: unsolved goals
+⊢ ∀ (S : Finset Sector), FieldSpace.DependsOn S fun x => 0
+error: EFMWPost156Audit/ProjectedGluing.lean:244:46: unsolved goals
+⊢ (fun x => 0) = 0
+error: Lean exited with code 1
+Some required targets logged failures:
+- EFMWPost156Audit.ProjectedGluing
+error: build failed
+##[error]Process completed with exit code 1.

@@ -15,10 +15,13 @@
   "lean_version": "v4.28.0",
   "mathlib_rev": "v4.28.0",
   "lean_candidates_compile_status": "PASS",
-  "verification_date": "2026-10-05",
+  "verification_date": "2026-10-06",
   "new_kernel_checked_in_audit_repo": 5,
-  "fieldspace_audit_declarations": 10,
-  "verification_commit": "b833ea5f77c55b6d021b4dc6483d456fd0b3ecfa",
-  "verification_run": "https://github.com/enuminous/EFMW_Post156_Zoo_Audit/actions/runs/37333546590",
-  "axiom_reports_checked": 18
+  "fieldspace_audit_declarations": 25,
+  "verification_commit": "0b8de0d44f62f72e334a6825a31a5bd9cb6a85cf",
+  "verification_run": "https://github.com/enuminous/EFMW_Post156_Zoo_Audit/actions/runs/37483623891",
+  "axiom_reports_checked": 33,
+  "projected_gluing_declarations": 15,
+  "projected_gluing_status": "KERNEL_CHECKED_CONDITIONAL_RECONSTRUCTION",
+  "source_physical_closure": "NOT_ESTABLISHED"
 }

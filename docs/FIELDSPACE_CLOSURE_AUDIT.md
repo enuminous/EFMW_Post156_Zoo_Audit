@@ -1,5 +1,11 @@
 # FieldSpace source-level closure audit
 
+**Follow-up:** the specification gap described below is addressed by the
+[projected gluing repair](PROJECTED_GLUING_REPAIR.md). It proves conditional
+reconstruction and uniqueness in an explicit component-indexed interaction
+class, plus a full-vector completion preserving observed equations. The
+physical current, stress, vacuum and conservation obligations remain open.
+
 Target: `enuminous/Einsteinian-156-Aristotle` at
 `7e60205d2370c335ebe2cafe89d6e0bbe842ba01`.
 The exact 64,859-byte source is frozen in `sources/fieldspace/` and checked
@@ -24,7 +30,7 @@ There are 3,600 scalar/gauge component comparisons and zero mismatches in the
 explicit retained terms. Stress equations are counted but not passed by a
 symbolic tensor evaluator. The current checks compare the explicit parts;
 discarding the unknown mixed current requires the proposed support completion.
-Five mutation/integrity tests exercise coefficient corruption, missing charts,
+Six mutation/integrity tests now cover the complete overlap spectrum and exercise coefficient corruption, missing charts,
 changed shared components, incorrect mixed-current support, and the frozen input.
 
 ## Proposed support completion
@@ -88,11 +94,12 @@ and must also respect its zero-slice behavior.
   a master action, conservation closure, or empirical validation.
 
 The 972 overlaps are not promoted to unconditional source-level passes.
-The next genuine closure target must specify equation-component restriction
-maps and prove the appropriate projected reconstruction theorem, or supply
-and justify full-vector completions. It must also specify vacuum conventions
-and the mixed physical objects. The existing generic full-vector theorem can
-be used only after its actual hypothesis has been established.
+The mathematical follow-up now specifies both restriction maps, proves the
+projected reconstruction theorem with a precise uniqueness class, and supplies
+compatible full-vector completions. See `PROJECTED_GLUING_REPAIR.md` and its
+execution evidence. This resolves the missing theorem at the specification
+level. Source-level closure still requires vacuum conventions, physical mixed
+objects and conservation. The old zero-padded counterexample remains valid.
 
 ## Reproduce
 
@@ -107,7 +114,9 @@ be used only after its actual hypothesis has been established.
 Lean and Mathlib are v4.28.0; the FieldSpace dependency is pinned to the SHA
 above. `.github/workflows/lean-audit.yml` performs actual compilation and
 preserves the build/dependency logs. The ten audit lemmas and five older candidates passed the build and axiom
-check; the successful run is recorded in `results/lean/VERIFICATION.md`.
+check; that historical run is recorded in `results/lean/VERIFICATION.md`.
+The projected repair has a separate execution record under
+`results/lean/projected-gluing/`.
 
 ## Known-result classification
 

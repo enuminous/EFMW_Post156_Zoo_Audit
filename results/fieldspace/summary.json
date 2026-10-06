@@ -20,8 +20,26 @@
   "explicit_mismatches": 0,
   "mixed_support_closure": "candidate_completion_only",
   "global_unique_reconstruction": "not_established_for_source",
+  "projected_gluing_theorem": "proved_conditionally_in_ProjectedGluing.lean",
+  "projected_overlap_audit": {
+    "nonempty_distinct_overlaps": 8910,
+    "overlap_sizes": {
+      "1": 6930,
+      "2": 1980
+    },
+    "empty_overlaps_vacuous": 4620,
+    "compared_scalar_gauge_components": 9900,
+    "explicit_mismatches": 0,
+    "categories": {
+      "current": 1872,
+      "explicit": 6048,
+      "stress": 918,
+      "stress_and_current": 72
+    },
+    "scope": "Explicit shared components; mixed support and tensor/vacuum obligations remain conditional."
+  },
   "additional_obligations": [
-    "Specify input and output restriction maps; shared-component equality is weaker than full-vector equality.",
+    "Instantiate the proved projected gluing theorem with physical equation maps and establish IsComponentKBody for any proposed global model.",
     "Specify scalar vacuum stress V(0) or a consistent subtraction rule.",
     "Keep a common background metric/derivative convention across charts.",
     "Specify pure-sector supports of J_E, J_M, J_S and gauge/curvature invariants.",

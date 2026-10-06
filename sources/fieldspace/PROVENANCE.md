@@ -11,7 +11,8 @@ The equation file is copied byte for byte. The audit checks its Git blob hash
 before parsing. `UPSTREAM_GLUING_AUDIT.md` and
 `UPSTREAM_GLOBAL_RECONSTRUCTION.md` preserve the upstream interpretation as
 historical inputs. Their full-source reconstruction conclusion is not adopted
-by this audit; see `docs/FIELDSPACE_CLOSURE_AUDIT.md` for the missing hypothesis.
+by this audit; see `docs/FIELDSPACE_CLOSURE_AUDIT.md` for the missing hypothesis
+and `docs/PROJECTED_GLUING_REPAIR.md` for the explicit replacement theorem.
 
 The Lean library is imported as a Git dependency at the same immutable commit.
 `lake-manifest.json` records every resolved dependency, including Mathlib

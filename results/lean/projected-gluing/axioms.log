@@ -1,0 +1,69 @@
+'EFMWPost156Audit.phaseSpeed_neg' depends on axioms: [propext, Classical.choice, Quot.sound]
+'EFMWPost156Audit.real_wave_admissibility' depends on axioms: [propext, Classical.choice, Quot.sound]
+'EFMWPost156Audit.phaseSpeed_inversion' depends on axioms: [propext, Classical.choice, Quot.sound]
+'EFMWPost156Audit.friedmann_rotation_sign_degeneracy' depends on axioms: [propext, Classical.choice, Quot.sound]
+'EFMWPost156Audit.friedmann_rotation_curvature_degeneracy' depends on axioms: [propext, Classical.choice, Quot.sound]
+'EFMWPost156Audit.FieldSpaceClosure.mixedCurrent_null_slice' depends on axioms: [propext, Classical.choice, Quot.sound]
+'EFMWPost156Audit.FieldSpaceClosure.mixedStress_pair_restriction' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'EFMWPost156Audit.FieldSpaceClosure.mixedStress_chart_independent' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'EFMWPost156Audit.FieldSpaceClosure.mixedCurrent_nontrivial' depends on axioms: [propext, Classical.choice, Quot.sound]
+'EFMWPost156Audit.FieldSpaceClosure.zeroPaddedChart_shared_compatible' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'EFMWPost156Audit.FieldSpaceClosure.zeroPaddedChart_not_gluingCompatible' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'EFMWPost156Audit.FieldSpaceClosure.zeroPaddedChart_no_full_extension' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'EFMWPost156Audit.FieldSpaceClosure.shared_compatibility_insufficient' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'EFMWPost156Audit.FieldSpaceClosure.vacuum_stress_overlap_iff' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'EFMWPost156Audit.FieldSpaceClosure.vacuum_zero_required' depends on axioms: [propext, Classical.choice, Quot.sound]
+'FieldSpace.scalar_current_extra_equation' depends on axioms: [propext, Classical.choice, Quot.sound]
+'FieldSpace.linear_profile_obstruction' depends on axioms: [propext, Classical.choice, Quot.sound]
+'FieldSpace.fieldSpace_atlas_gluing' depends on axioms: [propext, Classical.choice, Quot.sound]
+'EFMWPost156Audit.ProjectedGluing.projectedCompatible_iff_output_restriction' depends on axioms: [propext, Quot.sound]
+'EFMWPost156Audit.ProjectedGluing.sum_mobius_component' depends on axioms: [propext, Classical.choice, Quot.sound]
+'EFMWPost156Audit.ProjectedGluing.IsComponentKBody.eq_sum_mobius' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'EFMWPost156Audit.ProjectedGluing.projectedCompatible_of_restrictsTo' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'EFMWPost156Audit.ProjectedGluing.exists_componentKBody_of_projectedCompatible' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'EFMWPost156Audit.ProjectedGluing.projected_atlas_gluing' depends on axioms: [propext, Classical.choice, Quot.sound]
+'EFMWPost156Audit.ProjectedGluing.projected_atlas_gluing_unique' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'EFMWPost156Audit.ProjectedGluing.fieldSpace_projected_atlas_gluing' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'EFMWPost156Audit.ProjectedGluing.zeroPaddedChart_has_unique_projected_extension' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'EFMWPost156Audit.ProjectedGluing.repairedExample_restricts' depends on axioms: [propext, Classical.choice, Quot.sound]
+'EFMWPost156Audit.ProjectedGluing.repair_preserves_full_vector_obstruction' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'EFMWPost156Audit.ProjectedGluing.hiddenTriplet_is_three_body' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'EFMWPost156Audit.ProjectedGluing.hiddenTriplet_projected_zero' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'EFMWPost156Audit.ProjectedGluing.ordinary_three_body_not_unique' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'EFMWPost156Audit.ProjectedGluing.projected_full_vector_completion' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]

@@ -8,6 +8,17 @@ shared-component/full-vector implication, and a vacuum-stress condition.
 The 972 conditional overlaps are **not** promoted to full source gluing.
 See [verification evidence](results/lean/VERIFICATION.md).
 
+**2026-10-06 projected gluing repair — [Lean verification passed](https://github.com/enuminous/EFMW_Post156_Zoo_Audit/actions/runs/37483623891):** the
+[repair report](docs/PROJECTED_GLUING_REPAIR.md) defines restriction of both
+fields and equation components, proves reconstruction with an explicit
+interaction bound, and supplies compatible full-vector completions. It also
+preserves the old counterexample and demonstrates why ordinary three-body
+dependence alone does not give projected uniqueness. Execution evidence is
+recorded in [the repair verification record](results/lean/projected-gluing/VERIFICATION.md).
+All 15 repair declarations and 33 named dependency reports passed. The expanded
+source audit makes 9,900 explicit component comparisons with zero mismatches.
+
+
 **Audit date:** 2026-09-07  
 **Scope:** Monolithic 102 equations; Aristotle EFMW Lean baseline; Monolithic Zoo survivor tranche; canonical 46-animal EFMW Zoo.
 
@@ -23,15 +34,15 @@ This repository freezes the current audit state after comparing the 156-theorem 
 - **176** repository-backed promoted registry entries total
 - **5** audit results T177–T181, **kernel-checked in this repository on 2026-10-05**
 - **181** registry entries including those five checked results
-- **10** FieldSpace audit theorem declarations, recorded separately from the registry count
+- **25** FieldSpace audit theorem declarations (10 original + 15 projected-gluing results), recorded separately from the registry count
 
 The 181 figure must **not** be described as 181 kernel-checked theorems. The defensible split is:
 
 > **176 earlier repository-backed promoted entries + 5 results kernel-checked in this audit repository.**
 
-The present build does not reverify the entire earlier 176-entry corpus. The ten
-FieldSpace declarations include helper results and counterexamples; they are not
-automatically promoted as ten independent theorem families.
+The present build does not reverify the entire earlier 176-entry corpus. The
+FieldSpace declarations include helper results and counterexamples; they are
+not automatically promoted as independent theorem families.
 
 ## Main scientific finding
 
@@ -73,6 +84,8 @@ The new Zoo pass mainly adds **identifiability and falsification structure**. Mo
 - `docs/COUNTING_RULES.md` — anti-inflation rules
 - `sources/PROVENANCE.md` — upstream repositories/files and known SHAs
 - `EFMWPost156Audit/DerivedCandidates.lean` — Lean targets for T177–T181
+- `EFMWPost156Audit/ProjectedGluing.lean` — projected gluing, reconstruction, completion and regression proofs
+- `docs/PROJECTED_GLUING_REPAIR.md` — corrected specification and remaining obligations
 - `lean/README.md` — build status and integration notes
 - `lakefile.toml`, `lean-toolchain` — pinned to the same Lean/Mathlib version used by the upstream Aristotle project at audit time
 

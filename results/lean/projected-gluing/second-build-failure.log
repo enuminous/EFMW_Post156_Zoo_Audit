@@ -1,0 +1,68 @@
+Lean (version 4.28.0, x86_64-unknown-linux-gnu, commit 7e01a1bf5c70fc6167d49c345d3bf80596e9a79b, Release)
+✔ [8027/8033] Built RequestProject.FieldSpace.Conservation (8.1s)
+✔ [8028/8033] Built EFMWPost156Audit.DerivedCandidates (8.5s)
+✔ [8029/8033] Built RequestProject.FieldSpace.Basic (143s)
+✔ [8030/8033] Built RequestProject.FieldSpace.Gluing (4.7s)
+✔ [8031/8033] Built EFMWPost156Audit.FieldSpaceClosure (8.8s)
+✖ [8032/8033] Building EFMWPost156Audit.ProjectedGluing (4.4s)
+trace: .> LEAN_PATH=/home/runner/work/EFMW_Post156_Zoo_Audit/EFMW_Post156_Zoo_Audit/.lake/packages/Cli/.lake/build/lib/lean:/home/runner/work/EFMW_Post156_Zoo_Audit/EFMW_Post156_Zoo_Audit/.lake/packages/batteries/.lake/build/lib/lean:/home/runner/work/EFMW_Post156_Zoo_Audit/EFMW_Post156_Zoo_Audit/.lake/packages/Qq/.lake/build/lib/lean:/home/runner/work/EFMW_Post156_Zoo_Audit/EFMW_Post156_Zoo_Audit/.lake/packages/aesop/.lake/build/lib/lean:/home/runner/work/EFMW_Post156_Zoo_Audit/EFMW_Post156_Zoo_Audit/.lake/packages/proofwidgets/.lake/build/lib/lean:/home/runner/work/EFMW_Post156_Zoo_Audit/EFMW_Post156_Zoo_Audit/.lake/packages/importGraph/.lake/build/lib/lean:/home/runner/work/EFMW_Post156_Zoo_Audit/EFMW_Post156_Zoo_Audit/.lake/packages/LeanSearchClient/.lake/build/lib/lean:/home/runner/work/EFMW_Post156_Zoo_Audit/EFMW_Post156_Zoo_Audit/.lake/packages/plausible/.lake/build/lib/lean:/home/runner/work/EFMW_Post156_Zoo_Audit/EFMW_Post156_Zoo_Audit/.lake/packages/mathlib/.lake/build/lib/lean:/home/runner/work/EFMW_Post156_Zoo_Audit/EFMW_Post156_Zoo_Audit/.lake/packages/RequestProject/.lake/build/lib/lean:/home/runner/work/EFMW_Post156_Zoo_Audit/EFMW_Post156_Zoo_Audit/.lake/build/lib/lean /home/runner/.elan/toolchains/leanprover--lean4---v4.28.0/bin/lean /home/runner/work/EFMW_Post156_Zoo_Audit/EFMW_Post156_Zoo_Audit/EFMWPost156Audit/ProjectedGluing.lean -o /home/runner/work/EFMW_Post156_Zoo_Audit/EFMW_Post156_Zoo_Audit/.lake/build/lib/lean/EFMWPost156Audit/ProjectedGluing.olean -i /home/runner/work/EFMW_Post156_Zoo_Audit/EFMW_Post156_Zoo_Audit/.lake/build/lib/lean/EFMWPost156Audit/ProjectedGluing.ilean -c /home/runner/work/EFMW_Post156_Zoo_Audit/EFMW_Post156_Zoo_Audit/.lake/build/ir/EFMWPost156Audit/ProjectedGluing.c --setup /home/runner/work/EFMW_Post156_Zoo_Audit/EFMW_Post156_Zoo_Audit/.lake/build/ir/EFMWPost156Audit/ProjectedGluing.setup.json --json
+warning: EFMWPost156Audit/ProjectedGluing.lean:83:0: automatically included section variable(s) unused in theorem `EFMWPost156Audit.ProjectedGluing.projectedCompatible_of_restrictsTo`:
+  [AddCommGroup M]
+consider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:
+  omit [AddCommGroup M] in theorem ...
+
+Note: This linter can be disabled with `set_option linter.unusedSectionVars false`
+error: EFMWPost156Audit/ProjectedGluing.lean:179:8: Tactic `rewrite` failed: Did not find an occurrence of the pattern
+  FieldSpace.restrict ?U (FieldSpace.restrict ?V ?φ)
+in the target expression
+  F (FieldSpace.restrict A φ) = (fun A φ => F (FieldSpace.restrict A φ)) A (FieldSpace.restrict A φ)
+
+ι : Type u_1
+R : Type u_2
+M : Type u_3
+inst✝³ : DecidableEq ι
+inst✝² : Zero R
+inst✝¹ : AddCommGroup M
+inst✝ : Fintype ι
+k : ℕ
+hk : k ≤ Fintype.card ι
+f : Finset ι → (ι → R) → ι → M
+hf : ProjectedCompatible k f
+F : (ι → R) → ι → M
+hbody : IsComponentKBody k F
+hF : ProjectedRestrictsTo k F f
+A : Finset ι
+a✝ : #A = k
+φ : ι → R
+⊢ F (FieldSpace.restrict A φ) = (fun A φ => F (FieldSpace.restrict A φ)) A (FieldSpace.restrict A φ)
+error: EFMWPost156Audit/ProjectedGluing.lean:183:6: Tactic `rewrite` failed: Did not find an occurrence of the pattern
+  FieldSpace.restrict ?U (FieldSpace.restrict ?V ?φ)
+in the target expression
+  (fun A φ => F (FieldSpace.restrict A φ)) A (FieldSpace.restrict A φ) s = f A (FieldSpace.restrict A φ) s
+
+ι : Type u_1
+R : Type u_2
+M : Type u_3
+inst✝³ : DecidableEq ι
+inst✝² : Zero R
+inst✝¹ : AddCommGroup M
+inst✝ : Fintype ι
+k : ℕ
+hk : k ≤ Fintype.card ι
+f : Finset ι → (ι → R) → ι → M
+hf : ProjectedCompatible k f
+F : (ι → R) → ι → M
+hbody : IsComponentKBody k F
+hF : ProjectedRestrictsTo k F f
+hfull : RestrictsTo k F fun A φ => F (FieldSpace.restrict A φ)
+A : Finset ι
+hA : #A = k
+φ : ι → R
+s : ι
+hs : s ∈ A
+⊢ (fun A φ => F (FieldSpace.restrict A φ)) A (FieldSpace.restrict A φ) s = f A (FieldSpace.restrict A φ) s
+error: Lean exited with code 1
+Some required targets logged failures:
+- EFMWPost156Audit.ProjectedGluing
+error: build failed
+##[error]Process completed with exit code 1.
