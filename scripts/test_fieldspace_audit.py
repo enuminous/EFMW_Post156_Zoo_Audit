@@ -12,6 +12,18 @@ class SourceAuditTests(unittest.TestCase):
         self.assertEqual(result['compared_scalar_gauge_components'], 3600)
         self.assertEqual(failures, [])
 
+    def test_complete_projected_overlap_spectrum(self):
+        result, failures = run(None)
+        projected = result['projected_overlap_audit']
+        self.assertEqual(projected['nonempty_distinct_overlaps'], 8910)
+        self.assertEqual(projected['overlap_sizes'], {'1': 6930, '2': 1980})
+        self.assertEqual(projected['empty_overlaps_vacuous'], 4620)
+        self.assertEqual(projected['nonempty_distinct_overlaps'] +
+                         projected['empty_overlaps_vacuous'], 165 * 164 // 2)
+        self.assertEqual(projected['compared_scalar_gauge_components'], 9900)
+        self.assertEqual(projected['explicit_mismatches'], 0)
+        self.assertEqual(failures, [])
+
     def test_changed_pair_coefficient_is_detected(self):
         # Deliberately corrupt one pair term into a different coupling symbol.
         source = SOURCE.read_text().replace('λ_FW φ_W', 'λ_FT φ_W', 1)

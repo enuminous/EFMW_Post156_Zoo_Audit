@@ -35,3 +35,4 @@ import EFMWPost156Audit.ProjectedGluing
 #print axioms EFMWPost156Audit.ProjectedGluing.hiddenTriplet_is_three_body
 #print axioms EFMWPost156Audit.ProjectedGluing.hiddenTriplet_projected_zero
 #print axioms EFMWPost156Audit.ProjectedGluing.ordinary_three_body_not_unique
+#print axioms EFMWPost156Audit.ProjectedGluing.projected_full_vector_completion

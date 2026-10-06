@@ -99,12 +99,12 @@ def restrict_component(equation, shared):
     base, terms = equation
     return base, tuple(sorted(term for term, support in terms if support <= shared))
 
-def audit(charts):
+def audit(charts, shared_sizes=(2,)):
     rows = []
     comparisons = 0
     for a, b in itertools.combinations(sorted(charts, key=lambda x: ''.join(sorted(x))), 2):
         shared = a & b
-        if len(shared) != 2:
+        if len(shared) not in shared_sizes:
             continue
         stress = 'E' in shared
         current = bool(shared & set('MS'))
@@ -128,8 +128,12 @@ def run(output, check_hash=True, text=None):
         raise ValueError('Frozen source blob mismatch')
     charts, inventory = parse(data.decode())
     rows, comparisons = audit(charts)
+    projected_rows, projected_comparisons = audit(charts, shared_sizes=(1, 2))
+    spectrum = Counter(len(a & b) for a, b in itertools.combinations(charts, 2))
     counts = dict(sorted(Counter(row['category'] for row in rows).items()))
     mismatches = [row for row in rows if row['explicit_shared_components'] != 'match']
+    projected_mismatches = [row for row in projected_rows
+                           if row['explicit_shared_components'] != 'match']
     result = dict(source_commit=UPSTREAM, source_git_blob=blob,
                   source_sha256=hashlib.sha256(data).hexdigest(),
                   charts=len(charts), inventory=inventory, shared_pair_overlaps=len(rows),
@@ -137,8 +141,19 @@ def run(output, check_hash=True, text=None):
                   explicit_mismatches=len(mismatches),
                   mixed_support_closure='candidate_completion_only',
                   global_unique_reconstruction='not_established_for_source',
+                  projected_gluing_theorem='proved_conditionally_in_ProjectedGluing.lean',
+                  projected_overlap_audit=dict(
+                      nonempty_distinct_overlaps=len(projected_rows),
+                      overlap_sizes=dict(sorted(Counter(str(len(row['shared']))
+                                                       for row in projected_rows).items())),
+                      empty_overlaps_vacuous=spectrum[0],
+                      compared_scalar_gauge_components=projected_comparisons,
+                      explicit_mismatches=len(projected_mismatches),
+                      categories=dict(sorted(Counter(row['category']
+                                                     for row in projected_rows).items())),
+                      scope='Explicit shared components; mixed support and tensor/vacuum obligations remain conditional.'),
                   additional_obligations=[
-                      'Specify input and output restriction maps; shared-component equality is weaker than full-vector equality.',
+                      'Instantiate the proved projected gluing theorem with physical equation maps and establish IsComponentKBody for any proposed global model.',
                       'Specify scalar vacuum stress V(0) or a consistent subtraction rule.',
                       'Keep a common background metric/derivative convention across charts.',
                       'Specify pure-sector supports of J_E, J_M, J_S and gauge/curvature invariants.',
@@ -151,7 +166,11 @@ def run(output, check_hash=True, text=None):
             writer = csv.DictWriter(f, fieldnames=list(rows[0]), lineterminator='\n')
             writer.writeheader()
             writer.writerows(rows)
-    return result, mismatches
+        with (output / 'projected_overlaps.csv').open('w', newline='') as f:
+            writer = csv.DictWriter(f, fieldnames=list(projected_rows[0]), lineterminator='\n')
+            writer.writeheader()
+            writer.writerows(projected_rows)
+    return result, projected_mismatches
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
