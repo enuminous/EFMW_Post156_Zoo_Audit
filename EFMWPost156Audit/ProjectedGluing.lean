@@ -3,7 +3,7 @@ import EFMWPost156Audit.FieldSpaceClosure
 /-!
 # Gluing with equation-component restriction
 
-Input fields and output equations both FieldSpace.restrict to an overlap. The uniqueness
+Input fields and output equations both restrict to an overlap. The uniqueness
 class counts an equation's own sector among the allowed k sectors. This is a
 deliberate replacement specification, not a proof of the stronger zero-padded
 full-vector claim rejected in FieldSpaceClosure.
@@ -176,10 +176,14 @@ theorem projected_full_vector_completion [Fintype ι] {k : ℕ}
   obtain ⟨F, hbody, hF⟩ := exists_componentKBody_of_projectedCompatible hk hf
   have hfull : FieldSpace.RestrictsTo k F (fun A φ => F (FieldSpace.restrict A φ)) := by
     intro A _ φ
+    change F (FieldSpace.restrict A φ) =
+      F (FieldSpace.restrict A (FieldSpace.restrict A φ))
     rw [restrict_restrict, inter_self]
   refine ⟨F, fun A φ => F (FieldSpace.restrict A φ), hbody, hF, hfull,
     FieldSpace.gluingCompatible_of_restrictsTo hfull, ?_⟩
   intro A hA φ s hs
+  change F (FieldSpace.restrict A (FieldSpace.restrict A φ)) s =
+    f A (FieldSpace.restrict A φ) s
   rw [restrict_restrict, inter_self]
   exact hF A hA φ s hs
 
