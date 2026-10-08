@@ -1,0 +1,37 @@
+{
+  "applicability": {
+    "accepted": 0,
+    "inapplicable": 0,
+    "proposed": 1,
+    "unknown": 774179
+  },
+  "axes": {
+    "animals": 46,
+    "equations": 102,
+    "triplets": 165
+  },
+  "catalog_digest": "1418aab06229545a9501780af0312eaf25a78fd0308db19a279e2935b6a60766",
+  "computed_slots": 46,
+  "criterion_outcomes": {
+    "met": 1,
+    "not_evaluated": 1,
+    "not_met": 2,
+    "not_specified": 44
+  },
+  "declared_research_groups": 0,
+  "head": "66df195f3a08e556469c045808eba8224f0e081fc1bdc7997e486db82b82ea9b",
+  "kernel_adapters": 46,
+  "new_formal_proofs": 0,
+  "notice": "Slots, kernels, runs, caller-declared groups, proofs and physical laws are different counts. No scientific promotion is implemented.",
+  "plans": 48,
+  "potential_slots": 774180,
+  "research_runs": 0,
+  "run_statuses": {
+    "computed": 47,
+    "error": 1
+  },
+  "runs": 48,
+  "scientific_promotions": 0,
+  "synthetic_runs": 48,
+  "version": "0.1.0"
+}

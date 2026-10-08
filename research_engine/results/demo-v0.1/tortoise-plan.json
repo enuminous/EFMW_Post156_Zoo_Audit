@@ -1,0 +1,43 @@
+{
+  "assumptions": [
+    "Inputs are software fixtures",
+    "The slot assignment is illustrative and has no validated physical adapter"
+  ],
+  "baseline": "Frozen selected Zoo operation and conventional arithmetic, not an experimental baseline.",
+  "context": {
+    "frozen_before_outcome": {
+      "declared": false,
+      "source": "Synthetic software fixture; obligation not established"
+    },
+    "independent_outcome": {
+      "declared": false,
+      "source": "Synthetic software fixture; obligation not established"
+    },
+    "matched_information": {
+      "declared": false,
+      "source": "Synthetic software fixture; obligation not established"
+    },
+    "no_target_leakage": {
+      "declared": false,
+      "source": "Synthetic software fixture; obligation not established"
+    }
+  },
+  "criterion": {
+    "metric": "gain",
+    "operator": "gt",
+    "value": 0
+  },
+  "evidence_group": "synthetic-kernel-fixtures-v1",
+  "falsifier": "A numerical mismatch or failed declared criterion rejects this fixture expectation.",
+  "hypothesis": "Software fixture for the frozen TORTOISE operation; no physical hypothesis tested.",
+  "input_sha256": "0939302324da414cf4dc869928ba2ae19b1e8ecf7e63af64b355e1408d0c25e3",
+  "known_result": "Previously specified Zoo kernel; no new scientific result or novelty claimed.",
+  "limitations": [
+    "No scientific applicability established",
+    "No prospective or empirical validation",
+    "No formal equivalence proof"
+  ],
+  "mode": "synthetic",
+  "slot": "ME-002/FS-EFM/TORTOISE",
+  "variables": "Supplied synthetic numbers in kernel-native units; no measured EFMW fields."
+}

@@ -1,0 +1,65 @@
+[
+  {
+    "repository": "enuminous/Monolithic_102_EFMW",
+    "commit": "26a3c057a80f4c60566a543427d6d85fc1aa349f",
+    "upstream_path": "equations.json",
+    "local_path": "research_engine/data/equations.json",
+    "sha256": "7956e5610f419f9b0f0cf08599630b9ce9a81380294175fa8e10a98220122b9b"
+  },
+  {
+    "repository": "enuminous/Monolithic-102-Zoo-Lean4",
+    "commit": "05e6d093e1d22c9fded9ee3d2f10b0d56d53e256",
+    "upstream_path": "zoo/equation-audit.json",
+    "local_path": "research_engine/data/prior-equation-audit.json",
+    "sha256": "0b2b2c055c0d7c3d855713fbe74968456dad4aa6ee6ee6751ef7b7c3f233cabe"
+  },
+  {
+    "repository": "enuminous/Monolithic-Zoo-Lean4",
+    "commit": "94e0a9e2550a8fe62b03dc8213e3e3942c30899b",
+    "upstream_path": "coverage.json",
+    "local_path": "research_engine/data/zoo-coverage.json",
+    "sha256": "5735ef2763a44cb20e64b525389ef2813be153786ab5de21b6798cc4e6ce03a2"
+  },
+  {
+    "repository": "enuminous/Monolithic-Zoo-Lean4",
+    "commit": "94e0a9e2550a8fe62b03dc8213e3e3942c30899b",
+    "upstream_path": "ranked-components.json",
+    "local_path": "research_engine/data/zoo-ranked-components.json",
+    "sha256": "8f18393969b9f13bc2ff793f7f59f162e373e43996411000cc1154028c9f23f1"
+  },
+  {
+    "repository": "enuminous/Monolithic-Zoo-Lean4",
+    "commit": "94e0a9e2550a8fe62b03dc8213e3e3942c30899b",
+    "upstream_path": "reference-fixtures.json",
+    "local_path": "research_engine/data/zoo-reference-fixtures.json",
+    "sha256": "a51e132db03b833b3d386ad67b496c5327f711950c9438df4bd552053ecfa4c0"
+  },
+  {
+    "repository": "enuminous/Monolithic-Zoo-Lean4",
+    "commit": "94e0a9e2550a8fe62b03dc8213e3e3942c30899b",
+    "upstream_path": "LICENSE",
+    "local_path": "research_engine/data/zoo-LICENSE",
+    "sha256": "e52e910d00ebbdbe13ab378f0f2973612a66ca5dcff6d3934ec2391a89857a68"
+  },
+  {
+    "repository": "enuminous/Monolithic-Zoo-Lean4",
+    "commit": "94e0a9e2550a8fe62b03dc8213e3e3942c30899b",
+    "upstream_path": "selected *.lean and scope documentation",
+    "local_path": "research_engine/data/zoo-specifications.json",
+    "sha256": "2efa4731a456bad2945cf329c692fa0cd43dac1f7b1e8e5877ebfb2b5ee6b484",
+    "encoding": "filename-to-exact-UTF-8-content JSON bundle"
+  },
+  {
+    "repository": "enuminous/Einsteinian-156-Aristotle",
+    "commit": "7e60205d2370c335ebe2cafe89d6e0bbe842ba01",
+    "upstream_path": "EFMW_165_field_equations.txt",
+    "local_path": "sources/fieldspace/EFMW_165_field_equations.txt",
+    "sha256": "7e263c783d20b8c4556b4bbb631d4bc8a0e49aded7450ecf1b3ed78e3ebff451"
+  },
+  {
+    "derived_from": "sources/fieldspace/EFMW_165_field_equations.txt",
+    "local_path": "research_engine/data/triplets.json",
+    "sha256": "8412da7542f43fe941998f6fa5f4126e3e87cba29a4bcb87e9c7cd5c673db707",
+    "transformation": "Sorted sector IDs; preserved source headings, statement lines and order."
+  }
+]

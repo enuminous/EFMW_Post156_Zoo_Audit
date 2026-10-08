@@ -1,5 +1,14 @@
 # EFMW Post-156 Theorem & Zoo Audit
 
+**New: [EFMW research engine v0.1](research_engine/README.md)** connects the frozen
+102-equation, 165-triplet and 46-animal catalogs into **774,180 potential evaluation
+slots**. It includes 46 selected Python kernel adapters, an explicit applicability
+registry, a hash-linked evidence ledger, a CLI and a
+[standalone dashboard](research_engine/results/demo-v0.1/index.html) (download and
+open locally). The preserved demonstration is synthetic: 48 attempts, 47 computed
+outputs, two unmet criteria and one rejected input. No scientific mapping has yet
+been accepted and no new law or formal proof is promoted by this engine.
+
 **2026-10-05 verification update:** [Lean build and axiom audit passed](https://github.com/enuminous/EFMW_Post156_Zoo_Audit/actions/runs/37333546590).
 T177–T181 are now kernel-checked in this repository. The new
 [FieldSpace closure audit](docs/FIELDSPACE_CLOSURE_AUDIT.md) adds ten checked

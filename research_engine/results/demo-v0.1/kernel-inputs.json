@@ -1,0 +1,1319 @@
+{
+  "ANT": {
+    "columns": [
+      [
+        0,
+        1,
+        1,
+        3
+      ],
+      [
+        0,
+        1,
+        1,
+        3
+      ],
+      [
+        0,
+        1,
+        1,
+        3
+      ],
+      [
+        0,
+        1,
+        1,
+        3
+      ],
+      [
+        0,
+        1,
+        1,
+        3
+      ],
+      [
+        0,
+        1,
+        1,
+        3
+      ],
+      [
+        0,
+        1,
+        1,
+        3
+      ],
+      [
+        0,
+        1,
+        1,
+        3
+      ],
+      [
+        0,
+        1,
+        1,
+        3
+      ],
+      [
+        0,
+        1,
+        1,
+        3
+      ],
+      [
+        0,
+        1,
+        1,
+        3
+      ]
+    ],
+    "horizons": 1,
+    "rows": 4
+  },
+  "AXOLOTL": {
+    "adapted_function": 0.8,
+    "cost": 0.3,
+    "damaged_function": 0.2,
+    "invariant_retention": 1,
+    "reference_function": 1,
+    "transformation": 0.3
+  },
+  "BAT": {
+    "gain": 0.01,
+    "incremental_brier": 0.1,
+    "placebo_brier": 0.2,
+    "placebo_gain": 0.02
+  },
+  "BEAVER": {
+    "bounded": true,
+    "collateral": 0.1,
+    "effectiveness": 0.1,
+    "rollback_verified": false,
+    "verification": 1
+  },
+  "BISON": {
+    "capacity": 3,
+    "demand": 10,
+    "queue": 2,
+    "queue_limit": 5
+  },
+  "BONOBO": {
+    "efficiency": 0.8,
+    "fairness_dispersion": 0.1,
+    "gains": [
+      0.2,
+      -0.1
+    ],
+    "resolution": 0.8,
+    "stability": 0.9
+  },
+  "BUTTERFLY": {
+    "base": 0.1,
+    "gain": 0.5,
+    "incoming": 0,
+    "state": 1.2,
+    "threshold": 1
+  },
+  "CAT": {
+    "ablated": 0.3,
+    "full": 0.2
+  },
+  "CHAMELEON": {
+    "between": 1,
+    "distance": 2,
+    "expected_adaptation": 0.5,
+    "within": 0
+  },
+  "COBRA": {
+    "confidence": 0.9,
+    "context_gap": 0.2,
+    "divergence": 0.8,
+    "goal_delta": 0,
+    "previous": 0,
+    "proxy_delta": 0,
+    "violation": 0.3
+  },
+  "CRAB": {
+    "columns": [
+      [
+        0,
+        1,
+        1,
+        3
+      ],
+      [
+        0,
+        1,
+        1,
+        3
+      ],
+      [
+        0,
+        1,
+        1,
+        3
+      ],
+      [
+        0,
+        1,
+        1,
+        3
+      ],
+      [
+        0,
+        1,
+        1,
+        3
+      ],
+      [
+        0,
+        1,
+        1,
+        3
+      ],
+      [
+        0,
+        1,
+        1,
+        3
+      ],
+      [
+        0,
+        1,
+        1,
+        3
+      ],
+      [
+        0,
+        1,
+        1,
+        3
+      ],
+      [
+        0,
+        1,
+        1,
+        3
+      ]
+    ],
+    "horizons": 1,
+    "rows": 4
+  },
+  "CROCODILE": {
+    "control_post": 3,
+    "control_pre": 2,
+    "treated_post": 4,
+    "treated_pre": 1
+  },
+  "DOLPHIN": {
+    "columns": [
+      [
+        0,
+        1,
+        1,
+        3
+      ],
+      [
+        0,
+        1,
+        1,
+        3
+      ],
+      [
+        0,
+        1,
+        1,
+        3
+      ],
+      [
+        0,
+        1,
+        1,
+        3
+      ],
+      [
+        0,
+        1,
+        1,
+        3
+      ],
+      [
+        0,
+        1,
+        1,
+        3
+      ],
+      [
+        0,
+        1,
+        1,
+        3
+      ],
+      [
+        0,
+        1,
+        1,
+        3
+      ],
+      [
+        0,
+        1,
+        1,
+        3
+      ],
+      [
+        0,
+        1,
+        1,
+        3
+      ],
+      [
+        0,
+        1,
+        1,
+        3
+      ]
+    ],
+    "horizons": 1,
+    "rows": 4
+  },
+  "DRAGON": {
+    "columns": [
+      [
+        0,
+        1,
+        1,
+        3
+      ],
+      [
+        0,
+        1,
+        1,
+        3
+      ],
+      [
+        0,
+        1,
+        1,
+        3
+      ],
+      [
+        0,
+        1,
+        1,
+        3
+      ],
+      [
+        0,
+        1,
+        1,
+        3
+      ],
+      [
+        0,
+        1,
+        1,
+        3
+      ],
+      [
+        0,
+        1,
+        1,
+        3
+      ],
+      [
+        0,
+        1,
+        1,
+        3
+      ],
+      [
+        0,
+        1,
+        1,
+        3
+      ],
+      [
+        0,
+        1,
+        1,
+        3
+      ],
+      [
+        0,
+        1,
+        1,
+        3
+      ]
+    ],
+    "horizons": 1,
+    "rows": 4
+  },
+  "EAGLE": {
+    "columns": [
+      [
+        0,
+        1,
+        1,
+        3
+      ],
+      [
+        0,
+        1,
+        1,
+        3
+      ],
+      [
+        0,
+        1,
+        1,
+        3
+      ],
+      [
+        0,
+        1,
+        1,
+        3
+      ],
+      [
+        0,
+        1,
+        1,
+        3
+      ],
+      [
+        0,
+        1,
+        1,
+        3
+      ],
+      [
+        0,
+        1,
+        1,
+        3
+      ],
+      [
+        0,
+        1,
+        1,
+        3
+      ]
+    ],
+    "horizons": 1,
+    "rows": 4
+  },
+  "ELEPHANT": {
+    "events": [
+      {
+        "id": 1,
+        "provenance": "synthetic original",
+        "status": "superseded",
+        "supersedes": null,
+        "time": 1
+      },
+      {
+        "id": 2,
+        "provenance": "synthetic revision",
+        "status": "active",
+        "supersedes": 1,
+        "time": 2
+      }
+    ],
+    "fuel": 3,
+    "start": 2
+  },
+  "FALCON": {
+    "alarm_time": 2,
+    "delay": 1,
+    "event_time": 1,
+    "hazard_time": 3
+  },
+  "FOX": {
+    "columns": [
+      [
+        0,
+        1,
+        1,
+        3
+      ],
+      [
+        0,
+        1,
+        1,
+        3
+      ],
+      [
+        0,
+        1,
+        1,
+        3
+      ],
+      [
+        0,
+        1,
+        1,
+        3
+      ],
+      [
+        0,
+        1,
+        1,
+        3
+      ],
+      [
+        0,
+        1,
+        1,
+        3
+      ],
+      [
+        0,
+        1,
+        1,
+        3
+      ],
+      [
+        0,
+        1,
+        1,
+        3
+      ],
+      [
+        0,
+        1,
+        1,
+        3
+      ],
+      [
+        0,
+        1,
+        1,
+        3
+      ]
+    ],
+    "horizons": 1,
+    "rows": 4
+  },
+  "GECKO": {
+    "columns": [
+      [
+        0,
+        1,
+        1,
+        3
+      ],
+      [
+        0,
+        1,
+        1,
+        3
+      ],
+      [
+        0,
+        1,
+        1,
+        3
+      ],
+      [
+        0,
+        1,
+        1,
+        3
+      ],
+      [
+        0,
+        1,
+        1,
+        3
+      ],
+      [
+        0,
+        1,
+        1,
+        3
+      ],
+      [
+        0,
+        1,
+        1,
+        3
+      ],
+      [
+        0,
+        1,
+        1,
+        3
+      ]
+    ],
+    "horizons": 1,
+    "rows": 4
+  },
+  "HEDGEHOG": {
+    "development": [
+      "development-a"
+    ],
+    "habitat_support": false,
+    "heldout": [
+      "heldout-b"
+    ],
+    "median_gain": 0.003,
+    "win_rate": 0.7
+  },
+  "HIVE": {
+    "columns": [
+      [
+        0,
+        1,
+        1,
+        3
+      ],
+      [
+        0,
+        1,
+        1,
+        3
+      ],
+      [
+        0,
+        1,
+        1,
+        3
+      ],
+      [
+        0,
+        1,
+        1,
+        3
+      ],
+      [
+        0,
+        1,
+        1,
+        3
+      ],
+      [
+        0,
+        1,
+        1,
+        3
+      ],
+      [
+        0,
+        1,
+        1,
+        3
+      ],
+      [
+        0,
+        1,
+        1,
+        3
+      ],
+      [
+        0,
+        1,
+        1,
+        3
+      ]
+    ],
+    "horizons": 1,
+    "rows": 4
+  },
+  "HORSE": {
+    "attention": 0.7,
+    "fatigue": 0.2,
+    "workload": 0.8
+  },
+  "JELLYFISH": {
+    "alpha": 0.5,
+    "base_weight": 0.4,
+    "confidence": 0.8,
+    "health": 0.9,
+    "incoming": 0.2,
+    "stress": 0.5,
+    "stress_gain": 0.2
+  },
+  "LYNX": {
+    "distance": 2,
+    "rarity": 2,
+    "rediscovery": 0.5,
+    "replication": 0.8,
+    "yield_score": 0.9
+  },
+  "MAGPIE": {
+    "coherence": 0.9,
+    "contradiction": 0.3,
+    "corroboration": 0.6,
+    "direct_support": 0.8,
+    "provenance": 0.7,
+    "unresolved_provenance": 0.1,
+    "unsupported_inference": 0.2
+  },
+  "MANTIS": {
+    "ready": false,
+    "z_autocorrelation": 3,
+    "z_curvature": 3,
+    "z_variance": 3
+  },
+  "MOLE": {
+    "coverage": 0.8,
+    "indicators_present": true,
+    "latent_degradation": 0.7,
+    "surface_health": 0.9
+  },
+  "MOTH": {
+    "columns": [
+      [
+        0,
+        1,
+        1,
+        3
+      ],
+      [
+        0,
+        1,
+        1,
+        3
+      ],
+      [
+        0,
+        1,
+        1,
+        3
+      ],
+      [
+        0,
+        1,
+        1,
+        3
+      ],
+      [
+        0,
+        1,
+        1,
+        3
+      ],
+      [
+        0,
+        1,
+        1,
+        3
+      ],
+      [
+        0,
+        1,
+        1,
+        3
+      ]
+    ],
+    "horizons": 1,
+    "rows": 4
+  },
+  "OCTOPUS": {
+    "columns": [
+      [
+        0,
+        1,
+        1,
+        3
+      ],
+      [
+        0,
+        1,
+        1,
+        3
+      ],
+      [
+        0,
+        1,
+        1,
+        3
+      ],
+      [
+        0,
+        1,
+        1,
+        3
+      ],
+      [
+        0,
+        1,
+        1,
+        3
+      ],
+      [
+        0,
+        1,
+        1,
+        3
+      ]
+    ],
+    "horizons": 1,
+    "rows": 4
+  },
+  "ORCA": {
+    "ack": true,
+    "dependency_complete": true,
+    "ownership_clear": true,
+    "payload_complete": false
+  },
+  "OWL": {
+    "columns": [
+      [
+        0,
+        1,
+        1,
+        3
+      ],
+      [
+        0,
+        1,
+        1,
+        3
+      ],
+      [
+        0,
+        1,
+        1,
+        3
+      ],
+      [
+        0,
+        1,
+        1,
+        3
+      ],
+      [
+        0,
+        1,
+        1,
+        3
+      ],
+      [
+        0,
+        1,
+        1,
+        3
+      ]
+    ],
+    "horizons": 1,
+    "rows": 4
+  },
+  "PENGUIN": {
+    "columns": [
+      [
+        0,
+        1,
+        1,
+        3
+      ],
+      [
+        0,
+        1,
+        1,
+        3
+      ],
+      [
+        0,
+        1,
+        1,
+        3
+      ],
+      [
+        0,
+        1,
+        1,
+        3
+      ],
+      [
+        0,
+        1,
+        1,
+        3
+      ],
+      [
+        0,
+        1,
+        1,
+        3
+      ],
+      [
+        0,
+        1,
+        1,
+        3
+      ],
+      [
+        0,
+        1,
+        1,
+        3
+      ],
+      [
+        0,
+        1,
+        1,
+        3
+      ],
+      [
+        0,
+        1,
+        1,
+        3
+      ]
+    ],
+    "horizons": 1,
+    "rows": 4
+  },
+  "PHOENIX": {
+    "capability": 0.8,
+    "fidelity": 0.5,
+    "hold": 2,
+    "integrity": 1,
+    "scores": [
+      0.9,
+      0.95
+    ],
+    "start": 0,
+    "threshold": 0.8
+  },
+  "PULSE": {
+    "columns": [
+      [
+        0,
+        1,
+        1,
+        3
+      ],
+      [
+        0,
+        1,
+        1,
+        3
+      ],
+      [
+        0,
+        1,
+        1,
+        3
+      ],
+      [
+        0,
+        1,
+        1,
+        3
+      ],
+      [
+        0,
+        1,
+        1,
+        3
+      ],
+      [
+        0,
+        1,
+        1,
+        3
+      ],
+      [
+        0,
+        1,
+        1,
+        3
+      ],
+      [
+        0,
+        1,
+        1,
+        3
+      ],
+      [
+        0,
+        1,
+        1,
+        3
+      ],
+      [
+        0,
+        1,
+        1,
+        3
+      ],
+      [
+        0,
+        1,
+        1,
+        3
+      ],
+      [
+        0,
+        1,
+        1,
+        3
+      ]
+    ],
+    "horizons": 1,
+    "rows": 4
+  },
+  "RAVEN": {
+    "columns": [
+      [
+        0,
+        1,
+        1,
+        3
+      ],
+      [
+        0,
+        1,
+        1,
+        3
+      ],
+      [
+        0,
+        1,
+        1,
+        3
+      ],
+      [
+        0,
+        1,
+        1,
+        3
+      ],
+      [
+        0,
+        1,
+        1,
+        3
+      ],
+      [
+        0,
+        1,
+        1,
+        3
+      ],
+      [
+        0,
+        1,
+        1,
+        3
+      ]
+    ],
+    "horizons": 1,
+    "rows": 4
+  },
+  "RHINO": {
+    "after": 1,
+    "baseline": 2
+  },
+  "SALMON": {
+    "fuel": 1,
+    "incoming_weights": [
+      0.25,
+      0.25
+    ],
+    "parents": {
+      "0": [
+        1
+      ]
+    },
+    "start": 0,
+    "weight": 2
+  },
+  "SHARK": {
+    "columns": [
+      [
+        0,
+        1,
+        1,
+        3
+      ],
+      [
+        0,
+        1,
+        1,
+        3
+      ],
+      [
+        0,
+        1,
+        1,
+        3
+      ],
+      [
+        0,
+        1,
+        1,
+        3
+      ],
+      [
+        0,
+        1,
+        1,
+        3
+      ],
+      [
+        0,
+        1,
+        1,
+        3
+      ],
+      [
+        0,
+        1,
+        1,
+        3
+      ],
+      [
+        0,
+        1,
+        1,
+        3
+      ],
+      [
+        0,
+        1,
+        1,
+        3
+      ],
+      [
+        0,
+        1,
+        1,
+        3
+      ],
+      [
+        0,
+        1,
+        1,
+        3
+      ],
+      [
+        0,
+        1,
+        1,
+        3
+      ],
+      [
+        0,
+        1,
+        1,
+        3
+      ]
+    ],
+    "horizons": 1,
+    "rows": 4
+  },
+  "SHEPHERD": {
+    "columns": [
+      [
+        0,
+        1,
+        1,
+        3
+      ],
+      [
+        0,
+        1,
+        1,
+        3
+      ],
+      [
+        0,
+        1,
+        1,
+        3
+      ],
+      [
+        0,
+        1,
+        1,
+        3
+      ],
+      [
+        0,
+        1,
+        1,
+        3
+      ],
+      [
+        0,
+        1,
+        1,
+        3
+      ],
+      [
+        0,
+        1,
+        1,
+        3
+      ],
+      [
+        0,
+        1,
+        1,
+        3
+      ],
+      [
+        0,
+        1,
+        1,
+        3
+      ],
+      [
+        0,
+        1,
+        1,
+        3
+      ],
+      [
+        0,
+        1,
+        1,
+        3
+      ],
+      [
+        0,
+        1,
+        1,
+        3
+      ]
+    ],
+    "horizons": 1,
+    "rows": 4
+  },
+  "SPIDER": {
+    "columns": [
+      [
+        0,
+        1,
+        1,
+        3
+      ],
+      [
+        0,
+        1,
+        1,
+        3
+      ],
+      [
+        0,
+        1,
+        1,
+        3
+      ],
+      [
+        0,
+        1,
+        1,
+        3
+      ],
+      [
+        0,
+        1,
+        1,
+        3
+      ],
+      [
+        0,
+        1,
+        1,
+        3
+      ],
+      [
+        0,
+        1,
+        1,
+        3
+      ],
+      [
+        0,
+        1,
+        1,
+        3
+      ],
+      [
+        0,
+        1,
+        1,
+        3
+      ],
+      [
+        0,
+        1,
+        1,
+        3
+      ]
+    ],
+    "horizons": 1,
+    "rows": 4
+  },
+  "TERMITE": {
+    "bias": 0.1,
+    "state": 0.2,
+    "susceptibility": 0.5,
+    "total_weight": 1,
+    "weighted_sum": 0.8
+  },
+  "TORTOISE": {
+    "candidate_brier": 0.12,
+    "control_brier": 0.14
+  },
+  "TURTLE": {
+    "evidence_groups": [
+      {
+        "applicable": true,
+        "id": "one-shared-source",
+        "polarity": "positive",
+        "veto_on_failure": false
+      },
+      {
+        "applicable": true,
+        "id": "one-shared-source",
+        "polarity": "positive",
+        "veto_on_failure": false
+      },
+      {
+        "applicable": true,
+        "id": "one-shared-source",
+        "polarity": "positive",
+        "veto_on_failure": false
+      }
+    ],
+    "invariant_score": 0.9
+  },
+  "WEASEL": {
+    "budget": 1,
+    "findings": [
+      {
+        "changed_keys": 1,
+        "cost": 0.2,
+        "reproducibility": 1,
+        "severity": 2
+      },
+      {
+        "changed_keys": 2,
+        "cost": 0.1,
+        "reproducibility": 1,
+        "severity": 3
+      }
+    ]
+  },
+  "WHALE": {
+    "baseline": 1,
+    "values": [
+      1,
+      2,
+      4
+    ],
+    "window": 1
+  },
+  "WOLF": {
+    "instantaneous": 1,
+    "previous": 0,
+    "rho": 0.85
+  }
+}

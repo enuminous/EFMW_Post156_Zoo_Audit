@@ -1,0 +1,63 @@
+name: EFMW research engine
+on:
+  push:
+    paths:
+      - 'research_engine/**'
+      - 'sources/fieldspace/**'
+      - 'scripts/audit_fieldspace.py'
+      - '.github/workflows/research-engine.yml'
+  pull_request:
+    paths:
+      - 'research_engine/**'
+      - 'sources/fieldspace/**'
+      - 'scripts/audit_fieldspace.py'
+      - '.github/workflows/research-engine.yml'
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  python:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    strategy:
+      matrix:
+        python: ['3.10', '3.12']
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: ${{ matrix.python }}
+      - name: Catalog, upstream fixtures and failure controls
+        run: python -m unittest discover -s research_engine/tests -v
+      - name: Verify preserved demonstration evidence
+        run: python -m research_engine --ledger research_engine/results/demo-v0.1/demo-ledger.jsonl verify
+      - name: Reproduce demonstration in a fresh directory
+        run: python -m research_engine.examples.demo --output "$RUNNER_TEMP/efmw-demo"
+      - name: Preserve run records and dashboard
+        uses: actions/upload-artifact@v4
+        with:
+          name: efmw-research-engine-python-${{ matrix.python }}
+          path: ${{ runner.temp }}/efmw-demo
+  dashboard:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Install pinned browser test tools outside the project
+        run: |
+          npm install --prefix "$RUNNER_TEMP/efmw-ui" playwright@1.51.1
+          "$RUNNER_TEMP/efmw-ui/node_modules/.bin/playwright" install --with-deps chromium --only-shell
+      - name: Exercise the standalone dashboard
+        env:
+          NODE_PATH: ${{ runner.temp }}/efmw-ui/node_modules
+        run: |
+          mkdir -p "$RUNNER_TEMP/efmw-ui-results"
+          node research_engine/tests/dashboard.cjs research_engine/results/demo-v0.1/index.html "$RUNNER_TEMP/efmw-ui-results"
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: efmw-dashboard-screenshots
+          path: ${{ runner.temp }}/efmw-ui-results

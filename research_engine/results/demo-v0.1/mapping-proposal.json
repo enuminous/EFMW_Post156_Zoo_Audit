@@ -1,0 +1,25 @@
+{
+  "adapter": {
+    "equation_role": "Candidate scalar propagation predictor from ME-002",
+    "measurements": {
+      "candidate_brier": "Dimensionless Brier score of a specified ME-002-derived binary forecast on heldout outcomes; predictor and outcomes not yet supplied",
+      "control_brier": "Dimensionless Brier score of a matched conventional forecast on exactly the same outcomes; baseline not yet supplied"
+    },
+    "triplet_role": "Scalar F component of FS-EFM; gauge/gravity components impose separate obligations"
+  },
+  "assumptions": [
+    "Explicit definition of φ ↔ φ_F and all units is required",
+    "A common background metric and derivative convention must be fixed",
+    "Source, mass, nonminimal and interaction terms must be reconciled",
+    "Score computation and matched outcomes require independent verification"
+  ],
+  "evidence_sources": [
+    "https://github.com/enuminous/Monolithic_102_EFMW/blob/26a3c057a80f4c60566a543427d6d85fc1aa349f/equations.json",
+    "sources/fieldspace/EFMW_165_field_equations.txt",
+    "research_engine/data/zoo-specifications.json:Tortoise.lean"
+  ],
+  "reason": "Candidate scalar propagation experiment: identify Monolithic φ with φ_F on an explicitly fixed background. A physical measurement adapter and review are still missing.",
+  "reviewer": "engine author; proposal only",
+  "slot": "ME-002/FS-EFM/TORTOISE",
+  "status": "proposed"
+}
