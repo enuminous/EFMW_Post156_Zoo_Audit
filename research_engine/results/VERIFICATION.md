@@ -40,15 +40,23 @@ Repeated copies in TURTLE's example remain one group and yield `insufficient`.
 
 ## Browser verification
 
-Local browser execution was unavailable: the environment had no Chromium binary
-and the attempted browser download returned an invalid archive. Static checks
-passed; this is not presented as a successful local browser render.
+**Passed in [GitHub Actions run 37714223807](https://github.com/enuminous/EFMW_Post156_Zoo_Audit/actions/runs/37714223807)**
+on implementation commit `317379c6416fab8df79b854a12d67cc1c7782865`.
+All three jobs succeeded: Python 3.10, Python 3.12 and the dashboard browser test.
+Both Python jobs verified the preserved ledger and independently regenerated the
+demonstration in a fresh directory.
 
-The new `EFMW research engine` GitHub Actions workflow separately runs Python
-3.10/3.12 tests and a pinned Playwright browser check. The browser check exercises
-all three catalog selectors, mapping changes, search, the 48-row ledger, retained
-errors, JSON download, sources, mobile-width overflow and JavaScript errors, and
-retains desktop/mobile screenshots. Its remote result is recorded after execution.
+The headless browser check confirmed all 102/165/46 selectors, mapping changes,
+search, the 48-row ledger, retained errors, JSON download, source records,
+mobile-width overflow and absence of JavaScript errors. It retained
+[desktop/mobile screenshots](https://github.com/enuminous/EFMW_Post156_Zoo_Audit/actions/runs/37714223807/artifacts/11523321111).
+The artifact has GitHub's stated expiry of 2027-01-06; the workflow can regenerate
+it. [github-ci.json](github-ci.json) preserves job IDs, the browser success output,
+tested commit, executable digest and screenshot archive digest.
+
+Local static checks also passed. The successful browser execution was remote:
+local Chromium was unavailable and its attempted download returned an invalid
+archive. No successful local browser render is claimed.
 
 ## Scope
 

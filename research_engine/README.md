@@ -52,6 +52,12 @@ storage format remains the original JSONL ledger.
 | Accepted scientific applicability mappings | 0 |
 | New formal proofs / scientific promotions | 0 / 0 |
 
+[GitHub Actions verification passed](https://github.com/enuminous/EFMW_Post156_Zoo_Audit/actions/runs/37714223807)
+on Python 3.10 and 3.12, including fresh demo reproduction. The separate headless
+browser job passed search, selectors, ledger inspection, download and mobile
+layout checks. The tested implementation and artifact digests are recorded in
+[github-ci.json](results/github-ci.json).
+
 The tests also check the complete Cartesian count, 585 source statements, rank
 ties and shape errors, prospective-ranking rejection, placebo/veto precedence,
 duplicate evidence groups, parameter types, changed inputs and mappings, altered

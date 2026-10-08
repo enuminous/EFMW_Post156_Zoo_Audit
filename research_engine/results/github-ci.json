@@ -1,0 +1,31 @@
+{
+  "tested_commit": "317379c6416fab8df79b854a12d67cc1c7782865",
+  "engine_digest": "533152b89d52c1812fdcaa9f5c4bcb8d2b0cc01842e6be1e33cfc6812c9af2e0",
+  "workflow_run": 37714223807,
+  "workflow_url": "https://github.com/enuminous/EFMW_Post156_Zoo_Audit/actions/runs/37714223807",
+  "jobs": [
+    {
+      "name": "python (3.10)",
+      "id": 113106894838,
+      "conclusion": "success"
+    },
+    {
+      "name": "python (3.12)",
+      "id": 113106894704,
+      "conclusion": "success"
+    },
+    {
+      "name": "dashboard",
+      "id": 113106894526,
+      "conclusion": "success"
+    }
+  ],
+  "browser_check_output": "2026-10-08T01:42:32.6014189Z PASS: 102/165/46 selectors; mappings; search; 48 runs; retained error; download; sources; mobile width; no JS errors.",
+  "screenshots": {
+    "artifact_id": 11523321111,
+    "url": "https://github.com/enuminous/EFMW_Post156_Zoo_Audit/actions/runs/37714223807/artifacts/11523321111",
+    "sha256": "95262d826ed9770d0096ba5457869f2756beff1a9cc379b4b3ae6b4978b409fb",
+    "expires_at": "2027-01-06T01:42:02Z"
+  },
+  "scope": "Python 3.10 and 3.12 tests, frozen demo verification and independent demo rerun; headless desktop/mobile dashboard behavior. No new Lean equivalence or physical validation."
+}
