@@ -1,5 +1,21 @@
 # EFMW Post-156 Theorem & Zoo Audit
 
+<!-- ENUMINOUS-NETWORK:START -->
+**eNuminous network:** [All repositories](https://enuminous.github.io/EFMW/repositories.html) · [EFMW](https://enuminous.github.io/EFMW/) · [102 equations](https://github.com/enuminous/Monolithic_102_EFMW) · [165 triplets](https://enuminous.github.io/FieldSpace/) · [Zoo](https://enuminous.github.io/Tortoise/) · [Lean](https://enuminous.github.io/Aristotle-102-Monolithic-Lean/) · [Engine](https://enuminous.github.io/Archimedes-Engine/) · [Papers](https://enuminous.github.io/medium/papers-essays-index.html) · [Audit](https://github.com/enuminous/EFMW_Post156_Zoo_Audit/blob/main/portfolio/INTERLOCK_AUDIT.md)
+
+[Repository](https://github.com/enuminous/EFMW_Post156_Zoo_Audit) · This repository is linked through its source; GitHub Pages is not enabled.
+
+<details>
+<summary>Repository indexes (1)</summary>
+
+- [research_engine/results/demo-v0.1/index.html](https://github.com/enuminous/EFMW_Post156_Zoo_Audit/blob/main/research_engine/results/demo-v0.1/index.html)
+
+</details>
+<!-- ENUMINOUS-NETWORK:END -->
+
+**Repository network audit (2026-10-10):** [All-repository integration report](portfolio/INTERLOCK_AUDIT.md), [public directory](https://enuminous.github.io/EFMW/repositories.html), and [navigation maintenance](portfolio/README.md). This pass checks navigation, source paths, publication status and recorded CI; it does not revalidate the scientific corpus.
+
+
 **New: [EFMW research engine v0.1](research_engine/README.md)** connects the frozen
 102-equation, 165-triplet and 46-animal catalogs into **774,180 potential evaluation
 slots**. It includes 46 selected Python kernel adapters, an explicit applicability

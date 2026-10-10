@@ -1,0 +1,4 @@
+{
+  "status": "rollout-in-progress",
+  "scope": "Public commit receipts are added after the guarded branch updates complete."
+}
