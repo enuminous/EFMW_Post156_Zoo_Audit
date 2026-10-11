@@ -36,8 +36,10 @@ Historical hashes and change classifications are recorded in [findings.json](fin
 
 ## Stragglers requiring further work
 
-- [EFMW-Axioms](https://github.com/enuminous/EFMW-Axioms/actions/runs/37555311743): `Build formalization` failed; later checks were skipped.
-- [EFMW-Constants-Problem](https://github.com/enuminous/EFMW-Constants-Problem/actions/runs/37558093921): `Build formalization` failed; later checks were skipped.
+- `Archimedes-Field-Lab`: two publication lanes need consolidation. During rollout the live entrypoint briefly served unbuilt `/src/main.js`, failing to resolve `three`, although the saved pre-rollout page used built assets. Re-running the built-artifact deployment (run 38096838502, attempt 2) restored `/assets/index-BKmPkL6D.js`. Its menu and layout are verified: controls start 12 pixels below the bar. Full simulation interaction could not be tested because the cloud browser reports WebGL disabled. The current entrypoint is repaired; select one publication pipeline to prevent recurrence. Exact Pages settings were not accessible through the connector.
+
+- [EFMW-Axioms](https://github.com/enuminous/EFMW-Axioms/actions/runs/38096860283): `Build formalization` failed; later checks were skipped.
+- [EFMW-Constants-Problem](https://github.com/enuminous/EFMW-Constants-Problem/actions/runs/38096862058): `Build formalization` failed; later checks were skipped.
 - `meta-meme/README.md` references `glossary.md`, which is absent from its tree. No reliable replacement was found, so the original link is recorded as unresolved rather than inventing content.
 - HTML entrypoints exist without GitHub Pages enabled in **`Alchemy-of-Emergence`, `EFMW_Post156_Zoo_Audit`, `monster`, `oph-lab`, `papers`**. The directory routes these to source. No hosting or visibility settings were changed.
 - The external ChatGPT-hosted Atlas returned an access error in this environment. Its live content could not be verified; the GitHub-hosted directory is independently usable.
@@ -50,6 +52,14 @@ Before the changes, **24 of 25 enabled Pages roots returned HTTP 200**; `Aristot
 All 107 root README blocks and all tracked HTML entry indexes are checked for a single shared menu, real source destinations and portable symlink targets. New navigation is idempotent. Pages are checked again after rollout; [rollout.json](rollout.json) records commit receipts and [verification.json](verification.json) records the checks actually completed. A commit receipt is not by itself a live-deployment receipt.
 
 Recorded CI is the latest run per observed workflow among up to 20 default-branch runs for repositories with root workflow definitions. A successful Pages deployment is not a Lean proof result. The two Lean failures remain explicit. Proof files, mathematical definitions, experimental data and acceptance criteria are outside this navigation change.
+
+## Rollout verification
+
+All **107 guarded branch updates** were published and their heads verified. All **25 Pages roots** now return HTTP 200 with the shared menu, including the repaired `Aristotle_EFMW_Lean` entrypoint. The directory, writing catalog and nested 3D entrypoint also pass HTTP/menu checks: **28 routes checked**. All 28 serve the narrow-layout dropdown correction.
+
+The maintenance script reports no changes on all 107 prepared checkouts. Static checks pass for 107 root README blocks, 110 HTML presentations, 73 portable symlinks, 59 distinct navigation destinations and 44 changed checksum entries. The live directory search returns the matching Cadence repository, and its dropdown exposes 25 Pages destinations within the observed desktop viewport. Local Chromium was unavailable, and no mobile browser rendering pass was completed. HTTP 200 and a working menu do not establish that each application runs; the temporary Field Lab source/bundle mismatch above demonstrates this distinction.
+
+The two Lean workflows failed again on the new commits. Their failure remains an open repair item. The audit research-engine and Lean/FieldSpace workflows both succeeded on the presentation revision. See the exact observations in [verification.json](verification.json).
 
 ## Repository ledger
 

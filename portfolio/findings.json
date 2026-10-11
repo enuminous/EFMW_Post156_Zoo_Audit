@@ -4318,7 +4318,7 @@
       "path": "index.html",
       "recorded_before": "76b8e31866cac5cdf0c36b2ef1b4291f30f0d279493af2787a54e99ed68a075d",
       "actual_before": "76b8e31866cac5cdf0c36b2ef1b4291f30f0d279493af2787a54e99ed68a075d",
-      "actual_after": "b5ba2ac137669d831512beb58d81d02de5f4e61daa58746eb405645bfb8d3895",
+      "actual_after": "849d1917ac656f8cede345db7632cf2fd22db1897e366606a631217de0721fff",
       "action": "refresh-changed-file-entry",
       "preexisting_mismatch": false
     },
@@ -4328,7 +4328,7 @@
       "path": "world3d/index.html",
       "recorded_before": "fde2270d675bd85865c3958a0c6e7709371106cb3d7721e324e2cc9b236f90f4",
       "actual_before": "fde2270d675bd85865c3958a0c6e7709371106cb3d7721e324e2cc9b236f90f4",
-      "actual_after": "15abd097bedcb6ebfc19d4469ddac8d55f2f0466d7b62d0e2baede07d7eef46a",
+      "actual_after": "d045ca01b9449935edd5cc54181d633f4ee1ee17f2ce9a3b6a3b6582850b0d33",
       "action": "refresh-changed-file-entry",
       "preexisting_mismatch": false
     },
@@ -4348,7 +4348,7 @@
       "path": "index.html",
       "recorded_before": "a28ce1a85136f3b5464739fc7ab18bcba24525f5b170130b6c3ed55d13edbefe",
       "actual_before": "5a2006acc54a6f79423bc73c4c59416af68ef892dc88bfa554055cf4c453f668",
-      "actual_after": "313bb89d28829d96cb62bbe503cda09718cd0bb47ee7365c5dee4fefb4af4a89",
+      "actual_after": "a252d4e6076b3256d81a3e29f31c1639fa8e312dba0ae9c57ea5b17a0a53f1b3",
       "action": "refresh-changed-file-entry",
       "preexisting_mismatch": true
     },
@@ -4398,7 +4398,7 @@
       "path": "index.html",
       "recorded_before": "549cff176b4385ea44b5f91777706cf2fdd7172555ec8a6a1d371826890d590e",
       "actual_before": "549cff176b4385ea44b5f91777706cf2fdd7172555ec8a6a1d371826890d590e",
-      "actual_after": "b5400768c932dd5ae617ecc22f5a257f1cb7d6e304d925cce5981545e35c59ba",
+      "actual_after": "f0c4f9272fdfd78b7ceb9dd3ff7d0c9c26c7c62bf7acd101a3c620cb8f129939",
       "action": "refresh-changed-file-entry",
       "preexisting_mismatch": false
     },
@@ -4468,7 +4468,7 @@
       "path": "research_engine/dashboard.html",
       "recorded_before": "010417c7ec551ed175b6ebd08b3a6011eb607f54b40646e9ebd57a0943d55048",
       "actual_before": "010417c7ec551ed175b6ebd08b3a6011eb607f54b40646e9ebd57a0943d55048",
-      "actual_after": "36d0a62f7754e14caa90653470d59562ed69da4a2bff18ecb975bfc9f1179923",
+      "actual_after": "984204a0519c300ab8ef8860d83246651a323c46b3d263ed00a60b902897d7a4",
       "action": "refresh-changed-file-entry",
       "preexisting_mismatch": false
     },
@@ -4478,7 +4478,7 @@
       "path": "research_engine/results/demo-v0.1/index.html",
       "recorded_before": "7693d972cc73b40c89b9b38cc5c444e618c7b9f8eb3069dbd542204ae3495ac7",
       "actual_before": "7693d972cc73b40c89b9b38cc5c444e618c7b9f8eb3069dbd542204ae3495ac7",
-      "actual_after": "0bee84d35d69f963ab5bcf08c1fd779f219da534456fda9b0f311c1ac5471fc0",
+      "actual_after": "36a917998d303f81cd4bbf3703f653980cd63175adde4e5d9e509937eeabf560",
       "action": "refresh-changed-file-entry",
       "preexisting_mismatch": false
     },
@@ -4728,7 +4728,7 @@
       "path": "index.html",
       "recorded_before": "7b028aefa340c60e6a2175cfcccc7e322d2c956a63e21e605bf57fbd669d95ae",
       "actual_before": "ed4ee6ba33f54339ed6c5ca2ef9fe2bb967f039f0514d1cb05413b951e46f9d4",
-      "actual_after": "fda478c53da9aaf1801e6c7d330d125606623ead2f1ec53e52a6d262071b212b",
+      "actual_after": "0818c78ecf1da53fd12bcd9f447ea0bb5ffd41e36a872bd647ae9ba5895e96e1",
       "action": "refresh-changed-file-entry",
       "preexisting_mismatch": true
     },
@@ -4956,5 +4956,56 @@
       "path": "SHA256SUMS.txt",
       "repair": "Removed the self-checksum entry from the current inventory."
     }
-  ]
+  ],
+  "after_rollout": {
+    "root_readmes": 107,
+    "public_navigation_repos": 106,
+    "pages_roots": 25,
+    "roots_with_http_200_and_menu": 25,
+    "remaining_confirmed_findings": [
+      {
+        "repo": "EFMW-Axioms",
+        "kind": "failing-lean-workflow",
+        "url": "https://github.com/enuminous/EFMW-Axioms/actions/runs/38096860283"
+      },
+      {
+        "repo": "EFMW-Constants-Problem",
+        "kind": "failing-lean-workflow",
+        "url": "https://github.com/enuminous/EFMW-Constants-Problem/actions/runs/38096862058"
+      },
+      {
+        "repo": "meta-meme",
+        "path": "README.md",
+        "kind": "missing-local-path",
+        "url": "glossary.md"
+      },
+      {
+        "repo": "Archimedes-Field-Lab",
+        "kind": "publication-lanes-need-consolidation",
+        "evidence": {
+          "url": "https://enuminous.github.io/Archimedes-Field-Lab/",
+          "navigation_present": true,
+          "application_status": "built-entrypoint-restored",
+          "regression_observed_during_rollout": true,
+          "before_rollout_module": "/Archimedes-Field-Lab/assets/index-C8idc9Nf.js",
+          "intermediate_module": "/Archimedes-Field-Lab/src/main.js",
+          "restored_module": "/Archimedes-Field-Lab/assets/index-BKmPkL6D.js",
+          "recovery": {
+            "run_id": 38096838502,
+            "attempt": 2,
+            "conclusion": "success",
+            "rerun_job_id": 114344409754
+          },
+          "layout": {
+            "menu_bottom": 51.1875,
+            "controls_top": 63.1875,
+            "canvas_width": 1363,
+            "passed": true
+          },
+          "runtime_validation": "The browser reports WebGL disabled, so full simulation interaction was not verified.",
+          "remaining_integration_issue": "Both a built-artifact deployment workflow and a separate Pages build lane run; consolidate publication to prevent another source/bundle mismatch. Exact Pages settings were not accessible through the connector."
+        }
+      }
+    ]
+  }
 }

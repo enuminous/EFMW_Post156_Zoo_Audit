@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-10-10T23:47:02.828983+00:00",
+  "checked_at_utc": "2026-10-11T00:03:49.312Z",
   "static": {
     "html_files": 110,
     "root_readmes": 107,
@@ -12,5 +12,1096 @@
     "status": "not_run_locally",
     "reason": "No local Chromium; browser download endpoints returned Site Unavailable."
   },
-  "scope": "Source and navigation checks; no whole-portfolio proof, security or scientific validation."
+  "scope": "Source and navigation checks; no whole-portfolio proof, security or scientific validation.",
+  "branch_heads": {
+    "checked": 107,
+    "matched": 107,
+    "public_receipts": [
+      {
+        "repo": "Alchemy-of-Emergence",
+        "expected": "843b69d52c3754b974fbf9d67675856e53b088d7",
+        "actual": "843b69d52c3754b974fbf9d67675856e53b088d7",
+        "match": true
+      },
+      {
+        "repo": "Ant",
+        "expected": "9eefd8fb36d9f04aca0e1a2786b6fac4012530f1",
+        "actual": "9eefd8fb36d9f04aca0e1a2786b6fac4012530f1",
+        "match": true
+      },
+      {
+        "repo": "Archimedes-3D",
+        "expected": "e82cd68fbb1e1ea95cfde9612f8b3f888dee9a38",
+        "actual": "e82cd68fbb1e1ea95cfde9612f8b3f888dee9a38",
+        "match": true
+      },
+      {
+        "repo": "Archimedes-Engine",
+        "expected": "a5ba9759405c271326b59923ff93fe5d47d8b852",
+        "actual": "a5ba9759405c271326b59923ff93fe5d47d8b852",
+        "match": true
+      },
+      {
+        "repo": "Archimedes-Field-Lab",
+        "expected": "0aa7a6b1b940d295904e1008a85495b29782b985",
+        "actual": "0aa7a6b1b940d295904e1008a85495b29782b985",
+        "match": true
+      },
+      {
+        "repo": "Aristotle_EFMW_Lean",
+        "expected": "c44699f0f47a3255366b4f60922df2a73226a36e",
+        "actual": "c44699f0f47a3255366b4f60922df2a73226a36e",
+        "match": true
+      },
+      {
+        "repo": "Aristotle-102-Monolithic-Lean",
+        "expected": "1837cfe25fc93d5606cc3abd45407199f70f7418",
+        "actual": "1837cfe25fc93d5606cc3abd45407199f70f7418",
+        "match": true
+      },
+      {
+        "repo": "Aristotle-165-Einsteinian-Tensors",
+        "expected": "6464e03e2a431c1d8b2c3616d846e142ab23072d",
+        "actual": "6464e03e2a431c1d8b2c3616d846e142ab23072d",
+        "match": true
+      },
+      {
+        "repo": "Aristotle-Agreement-and-Surprise-Global-Equalibrium-from-Local-Repair",
+        "expected": "dc35a1e2584e3aa57452c919140365b5b582ef07",
+        "actual": "dc35a1e2584e3aa57452c919140365b5b582ef07",
+        "match": true
+      },
+      {
+        "repo": "Avenue5",
+        "expected": "bf6d80b4efec6faf028a68dd3a28c9b5c38bf3f3",
+        "actual": "bf6d80b4efec6faf028a68dd3a28c9b5c38bf3f3",
+        "match": true
+      },
+      {
+        "repo": "Axolotl",
+        "expected": "66052bbb5e53ccc1968f4bc53ea3c023a5997fe1",
+        "actual": "66052bbb5e53ccc1968f4bc53ea3c023a5997fe1",
+        "match": true
+      },
+      {
+        "repo": "BackroomsProtocol-EFMW-Analysis",
+        "expected": "e39cc8f57be4deac19dbedc8696a8ae57c68cc20",
+        "actual": "e39cc8f57be4deac19dbedc8696a8ae57c68cc20",
+        "match": true
+      },
+      {
+        "repo": "Bat",
+        "expected": "a502c08cc5226905ca2377d4db93eff7df3a8700",
+        "actual": "a502c08cc5226905ca2377d4db93eff7df3a8700",
+        "match": true
+      },
+      {
+        "repo": "Beaver",
+        "expected": "2714700f071d9688dee4adcfd3097bdabeca2b28",
+        "actual": "2714700f071d9688dee4adcfd3097bdabeca2b28",
+        "match": true
+      },
+      {
+        "repo": "Bison",
+        "expected": "1120e1131c1c57e5c4a4d8d27c61a4ea7383ebca",
+        "actual": "1120e1131c1c57e5c4a4d8d27c61a4ea7383ebca",
+        "match": true
+      },
+      {
+        "repo": "Bonobo",
+        "expected": "ab564e18519eaec45119b6ce5408a4edeab7684b",
+        "actual": "ab564e18519eaec45119b6ce5408a4edeab7684b",
+        "match": true
+      },
+      {
+        "repo": "Borges-Library-CollapseOmega",
+        "expected": "216416af963a7fc1b9211b27f14519977ec1516b",
+        "actual": "216416af963a7fc1b9211b27f14519977ec1516b",
+        "match": true
+      },
+      {
+        "repo": "Butterfly",
+        "expected": "7c0d4b44d9ecd6aa6c3e3ade66f8f1a24a459c86",
+        "actual": "7c0d4b44d9ecd6aa6c3e3ade66f8f1a24a459c86",
+        "match": true
+      },
+      {
+        "repo": "Cadence-Zoo-Evidence",
+        "expected": "72c507f45e79c03b34da3708761c357d26e3c98b",
+        "actual": "72c507f45e79c03b34da3708761c357d26e3c98b",
+        "match": true
+      },
+      {
+        "repo": "Cat",
+        "expected": "efb298eb3d9792a4013fa0d45c2e9ef5e046e05c",
+        "actual": "efb298eb3d9792a4013fa0d45c2e9ef5e046e05c",
+        "match": true
+      },
+      {
+        "repo": "Chameleon",
+        "expected": "8f19a3e36041041a9ca51230a44087add11f9702",
+        "actual": "8f19a3e36041041a9ca51230a44087add11f9702",
+        "match": true
+      },
+      {
+        "repo": "Chimera",
+        "expected": "96380ad9754e11bd8997c3bc7afe732a1121830c",
+        "actual": "96380ad9754e11bd8997c3bc7afe732a1121830c",
+        "match": true
+      },
+      {
+        "repo": "Circus",
+        "expected": "d6ffb129a4614915b32faeaeafc5efea52484388",
+        "actual": "d6ffb129a4614915b32faeaeafc5efea52484388",
+        "match": true
+      },
+      {
+        "repo": "Cobra",
+        "expected": "06e34d69e15d7bbaaceb792e6937980b4eaa1069",
+        "actual": "06e34d69e15d7bbaaceb792e6937980b4eaa1069",
+        "match": true
+      },
+      {
+        "repo": "Coherence-Prediction-Engine",
+        "expected": "4f4999f7caaeb0f45fab746baf727ee4154fd900",
+        "actual": "4f4999f7caaeb0f45fab746baf727ee4154fd900",
+        "match": true
+      },
+      {
+        "repo": "Crab",
+        "expected": "7f9b90eb71f33aaf3e1f773b02bad8fa99922fe5",
+        "actual": "7f9b90eb71f33aaf3e1f773b02bad8fa99922fe5",
+        "match": true
+      },
+      {
+        "repo": "Crocodile",
+        "expected": "567f03acddae8f644f8f86c45009fd078e7e8778",
+        "actual": "567f03acddae8f644f8f86c45009fd078e7e8778",
+        "match": true
+      },
+      {
+        "repo": "DePIN",
+        "expected": "4545aab31fa659bf090e6d7dfb4725f310d22a28",
+        "actual": "4545aab31fa659bf090e6d7dfb4725f310d22a28",
+        "match": true
+      },
+      {
+        "repo": "docs",
+        "expected": "a463475c3302082a0a06d65fbbf1d98dfe5027f9",
+        "actual": "a463475c3302082a0a06d65fbbf1d98dfe5027f9",
+        "match": true
+      },
+      {
+        "repo": "Dolphin",
+        "expected": "97baea81e4c63803d2d643d7ed5960a0f27f7f8c",
+        "actual": "97baea81e4c63803d2d643d7ed5960a0f27f7f8c",
+        "match": true
+      },
+      {
+        "repo": "Dragon",
+        "expected": "ff3c9a15fa7091996e761e019c396bbf0d0046bb",
+        "actual": "ff3c9a15fa7091996e761e019c396bbf0d0046bb",
+        "match": true
+      },
+      {
+        "repo": "Eagle",
+        "expected": "53b839907b0fbf7cf71a8ad370096c14675cf53e",
+        "actual": "53b839907b0fbf7cf71a8ad370096c14675cf53e",
+        "match": true
+      },
+      {
+        "repo": "EFMW",
+        "expected": "e574aaa6ab9142879ceb1b688d848f409a2ee650",
+        "actual": "e574aaa6ab9142879ceb1b688d848f409a2ee650",
+        "match": true
+      },
+      {
+        "repo": "EFMW_Post156_Zoo_Audit",
+        "expected": "50cbc89407be2d847598a19adb98418ee6e2cc00",
+        "actual": "50cbc89407be2d847598a19adb98418ee6e2cc00",
+        "match": true
+      },
+      {
+        "repo": "EFMW-108-Minute-Tests",
+        "expected": "8dc2a64ffc9f7c381d0c21ff677ccbaa316c6165",
+        "actual": "8dc2a64ffc9f7c381d0c21ff677ccbaa316c6165",
+        "match": true
+      },
+      {
+        "repo": "EFMW-Axioms",
+        "expected": "0da0cc1e5532c1a638922bfbff8c015ec88a7141",
+        "actual": "0da0cc1e5532c1a638922bfbff8c015ec88a7141",
+        "match": true
+      },
+      {
+        "repo": "EFMW-Constants-Problem",
+        "expected": "b7bc07ec244f783c76cd6f03dff648894881c6bf",
+        "actual": "b7bc07ec244f783c76cd6f03dff648894881c6bf",
+        "match": true
+      },
+      {
+        "repo": "EFMW-CTX-001b",
+        "expected": "5219abf2c3d78e41b3082299f29d311d8fea4ef7",
+        "actual": "5219abf2c3d78e41b3082299f29d311d8fea4ef7",
+        "match": true
+      },
+      {
+        "repo": "efmw-equation-review",
+        "expected": "e26fd8c7036708a1b25239d8a68ee1b8f0ac3362",
+        "actual": "e26fd8c7036708a1b25239d8a68ee1b8f0ac3362",
+        "match": true
+      },
+      {
+        "repo": "EFMW-EXP-001",
+        "expected": "e14ea2aebf438f5006b62a7e8d1380efb6388119",
+        "actual": "e14ea2aebf438f5006b62a7e8d1380efb6388119",
+        "match": true
+      },
+      {
+        "repo": "EFMW-FULL",
+        "expected": "0aff737b2d69fff7c83e05d44b9aa2d0385ec798",
+        "actual": "0aff737b2d69fff7c83e05d44b9aa2d0385ec798",
+        "match": true
+      },
+      {
+        "repo": "EFMW-Neutron-Star-Glitch-Resonance",
+        "expected": "1ddae6d146bd5b978c14727b73c4ac5ae9fd003a",
+        "actual": "1ddae6d146bd5b978c14727b73c4ac5ae9fd003a",
+        "match": true
+      },
+      {
+        "repo": "efmw-research-cache",
+        "expected": "f1b47acc4f2b475d51191162d4a3936e5496825f",
+        "actual": "f1b47acc4f2b475d51191162d4a3936e5496825f",
+        "match": true
+      },
+      {
+        "repo": "EFMW-Safety-001",
+        "expected": "9dfdfcd3164b9ee10488afaaeab443049bad07fd",
+        "actual": "9dfdfcd3164b9ee10488afaaeab443049bad07fd",
+        "match": true
+      },
+      {
+        "repo": "EFMW-Scientific-Claims",
+        "expected": "fc6a0b6f84c846284f08f088118bc33f15329e41",
+        "actual": "fc6a0b6f84c846284f08f088118bc33f15329e41",
+        "match": true
+      },
+      {
+        "repo": "Einsteinian-156-Aristotle",
+        "expected": "6235537e8f5ad4b0f2ae712c7b954e458a9e140a",
+        "actual": "6235537e8f5ad4b0f2ae712c7b954e458a9e140a",
+        "match": true
+      },
+      {
+        "repo": "Elephant",
+        "expected": "07d7d37e371547c8c905b4099f53d47f6430a55e",
+        "actual": "07d7d37e371547c8c905b4099f53d47f6430a55e",
+        "match": true
+      },
+      {
+        "repo": "Emergentology",
+        "expected": "d79228b413a3ae3a67633ed9b7f78b9a6227adc1",
+        "actual": "d79228b413a3ae3a67633ed9b7f78b9a6227adc1",
+        "match": true
+      },
+      {
+        "repo": "Falcon",
+        "expected": "736c467427997298b7dc47be51f10019cab01131",
+        "actual": "736c467427997298b7dc47be51f10019cab01131",
+        "match": true
+      },
+      {
+        "repo": "fieldcore",
+        "expected": "94a20c330e56cd2a99400590c7c45dc185979b5a",
+        "actual": "94a20c330e56cd2a99400590c7c45dc185979b5a",
+        "match": true
+      },
+      {
+        "repo": "FieldSpace",
+        "expected": "320a5c43e4a900784e2ef8fba72c4e6180df5f0d",
+        "actual": "320a5c43e4a900784e2ef8fba72c4e6180df5f0d",
+        "match": true
+      },
+      {
+        "repo": "Fox",
+        "expected": "c50de5aecb3c65deff1b05aefe05a75c250cd898",
+        "actual": "c50de5aecb3c65deff1b05aefe05a75c250cd898",
+        "match": true
+      },
+      {
+        "repo": "Gecko",
+        "expected": "68cfd1948069ea6863ad0249a8fe71c5edd87d93",
+        "actual": "68cfd1948069ea6863ad0249a8fe71c5edd87d93",
+        "match": true
+      },
+      {
+        "repo": "Harlequinn",
+        "expected": "72be3bf5d01ba08729e88085d2bca817c96cdfba",
+        "actual": "72be3bf5d01ba08729e88085d2bca817c96cdfba",
+        "match": true
+      },
+      {
+        "repo": "Hedgehog",
+        "expected": "b5231154f22f36c952b4315ee627dc277b03c806",
+        "actual": "b5231154f22f36c952b4315ee627dc277b03c806",
+        "match": true
+      },
+      {
+        "repo": "Hive",
+        "expected": "2a9949d101dcc39ab4e58d8dea97501cbe44a778",
+        "actual": "2a9949d101dcc39ab4e58d8dea97501cbe44a778",
+        "match": true
+      },
+      {
+        "repo": "Horse",
+        "expected": "ca17131274eb4d9b9f9ab872cbda21f0a80bd85f",
+        "actual": "ca17131274eb4d9b9f9ab872cbda21f0a80bd85f",
+        "match": true
+      },
+      {
+        "repo": "Jellyfish",
+        "expected": "67480b2043ff7fb75f88b4af1a9b78bd58adcd64",
+        "actual": "67480b2043ff7fb75f88b4af1a9b78bd58adcd64",
+        "match": true
+      },
+      {
+        "repo": "JEV-EFMW-Syncretic-Layer",
+        "expected": "3cbf5a92ef6413b3ab50279cc2d00627a1157fc2",
+        "actual": "3cbf5a92ef6413b3ab50279cc2d00627a1157fc2",
+        "match": true
+      },
+      {
+        "repo": "lean-worker",
+        "expected": "f642f955e14aee579f9b533fd7b72b52efa9d01a",
+        "actual": "f642f955e14aee579f9b533fd7b72b52efa9d01a",
+        "match": true
+      },
+      {
+        "repo": "Ligo_EFMW_Search",
+        "expected": "44b11e0d7d542f11ce999d7df37d0907551f28f2",
+        "actual": "44b11e0d7d542f11ce999d7df37d0907551f28f2",
+        "match": true
+      },
+      {
+        "repo": "Lynx",
+        "expected": "db67c4a4547cb61d79ac05d40b0458b81e2ae0e1",
+        "actual": "db67c4a4547cb61d79ac05d40b0458b81e2ae0e1",
+        "match": true
+      },
+      {
+        "repo": "Magpie",
+        "expected": "eff45f4882bc58282651a613790ec8326dc5ac9b",
+        "actual": "eff45f4882bc58282651a613790ec8326dc5ac9b",
+        "match": true
+      },
+      {
+        "repo": "Mantis",
+        "expected": "0cac9b6131529744ef582018c9d83bc1ffea0ea8",
+        "actual": "0cac9b6131529744ef582018c9d83bc1ffea0ea8",
+        "match": true
+      },
+      {
+        "repo": "Mathematics-and-Elite-Squad-Dynamics",
+        "expected": "c1f66e5cc5eee78ee1c78d0a772700fd75f9bc65",
+        "actual": "c1f66e5cc5eee78ee1c78d0a772700fd75f9bc65",
+        "match": true
+      },
+      {
+        "repo": "medium",
+        "expected": "d501f8c2829483a4d996fca758aef94d9de73434",
+        "actual": "d501f8c2829483a4d996fca758aef94d9de73434",
+        "match": true
+      },
+      {
+        "repo": "Medium2",
+        "expected": "4efa8bb743e06c52a7e7a397e61f431799e67a54",
+        "actual": "4efa8bb743e06c52a7e7a397e61f431799e67a54",
+        "match": true
+      },
+      {
+        "repo": "Medium3",
+        "expected": "0a8a9c87dbf81ccecd22ab12e9ee0f7c8eced4ab",
+        "actual": "0a8a9c87dbf81ccecd22ab12e9ee0f7c8eced4ab",
+        "match": true
+      },
+      {
+        "repo": "meta-meme",
+        "expected": "7c0694fddfad60ce9511816fd19325044014d254",
+        "actual": "7c0694fddfad60ce9511816fd19325044014d254",
+        "match": true
+      },
+      {
+        "repo": "Mole",
+        "expected": "93bcd94b9315930850e5f6d3c8834405e7da629b",
+        "actual": "93bcd94b9315930850e5f6d3c8834405e7da629b",
+        "match": true
+      },
+      {
+        "repo": "Monlithic_EFMW_102_Lean4",
+        "expected": "7d2226860109eb8308a84b51acfddd71cd94cd24",
+        "actual": "7d2226860109eb8308a84b51acfddd71cd94cd24",
+        "match": true
+      },
+      {
+        "repo": "Monolithic_102_EFMW",
+        "expected": "a0a5e4cee36296856560ea44e5eb77d7c357da33",
+        "actual": "a0a5e4cee36296856560ea44e5eb77d7c357da33",
+        "match": true
+      },
+      {
+        "repo": "Monolithic_Zoo_Run",
+        "expected": "8e8ab2fd8d3f79cfb0ed0043ceadd66ab14a2208",
+        "actual": "8e8ab2fd8d3f79cfb0ed0043ceadd66ab14a2208",
+        "match": true
+      },
+      {
+        "repo": "Monolithic-102-Zoo-Lean4",
+        "expected": "17702d570893e1f006fea97714213847cc415d57",
+        "actual": "17702d570893e1f006fea97714213847cc415d57",
+        "match": true
+      },
+      {
+        "repo": "Monolithic-Zoo-Lean4",
+        "expected": "8e9a109b7f10522b2c8f92c892c718f939cff578",
+        "actual": "8e9a109b7f10522b2c8f92c892c718f939cff578",
+        "match": true
+      },
+      {
+        "repo": "monster",
+        "expected": "120db9ec9a9470edc9d2db8df560beccdc3c54a4",
+        "actual": "120db9ec9a9470edc9d2db8df560beccdc3c54a4",
+        "match": true
+      },
+      {
+        "repo": "Moth",
+        "expected": "221723f898969ae2a3fe709af2c83c0e6816a40d",
+        "actual": "221723f898969ae2a3fe709af2c83c0e6816a40d",
+        "match": true
+      },
+      {
+        "repo": "MultiValuedClassicalAction-Lean4",
+        "expected": "c875cb9aa612ac43b456e344c0cf00f35187ccff",
+        "actual": "c875cb9aa612ac43b456e344c0cf00f35187ccff",
+        "match": true
+      },
+      {
+        "repo": "Nightengale",
+        "expected": "206d173bc081215e869cd67ae2a3aecd76231970",
+        "actual": "206d173bc081215e869cd67ae2a3aecd76231970",
+        "match": true
+      },
+      {
+        "repo": "Nightengale-Full-Zoo-Audit",
+        "expected": "17a10ffa443110fb46beb994d104bfdb71dab18b",
+        "actual": "17a10ffa443110fb46beb994d104bfdb71dab18b",
+        "match": true
+      },
+      {
+        "repo": "Octopus",
+        "expected": "ea21acb6330e32512e3f226f01f70598554eaac8",
+        "actual": "ea21acb6330e32512e3f226f01f70598554eaac8",
+        "match": true
+      },
+      {
+        "repo": "OpenAI-math",
+        "expected": "5e1a1152c35008422e5f56691c424ab68880538a",
+        "actual": "5e1a1152c35008422e5f56691c424ab68880538a",
+        "match": true
+      },
+      {
+        "repo": "oph-lab",
+        "expected": "ab97f4bfe814b36d373f52976d96610febabf9a2",
+        "actual": "ab97f4bfe814b36d373f52976d96610febabf9a2",
+        "match": true
+      },
+      {
+        "repo": "Orca",
+        "expected": "fa4117505e5836e3036bf26b97908cf09d7e3a05",
+        "actual": "fa4117505e5836e3036bf26b97908cf09d7e3a05",
+        "match": true
+      },
+      {
+        "repo": "Owl",
+        "expected": "592c59d0bcaad71c36668c2811b5f018985a974b",
+        "actual": "592c59d0bcaad71c36668c2811b5f018985a974b",
+        "match": true
+      },
+      {
+        "repo": "papers",
+        "expected": "bdcfa9d73760482ed0dc199abb72be7771e9f848",
+        "actual": "bdcfa9d73760482ed0dc199abb72be7771e9f848",
+        "match": true
+      },
+      {
+        "repo": "Penguin",
+        "expected": "78a49a59131ccf546cbc54dd9537e03608a7d8f7",
+        "actual": "78a49a59131ccf546cbc54dd9537e03608a7d8f7",
+        "match": true
+      },
+      {
+        "repo": "Phoenix",
+        "expected": "88b070c3900d5ce933db62278273cde95cd57824",
+        "actual": "88b070c3900d5ce933db62278273cde95cd57824",
+        "match": true
+      },
+      {
+        "repo": "Pulse",
+        "expected": "7b5bae2bbca46c5799512fc52d781552b498ed4a",
+        "actual": "7b5bae2bbca46c5799512fc52d781552b498ed4a",
+        "match": true
+      },
+      {
+        "repo": "Raven",
+        "expected": "3b0cc6b7c6acfe8030a217f3aa26fdf046699499",
+        "actual": "3b0cc6b7c6acfe8030a217f3aa26fdf046699499",
+        "match": true
+      },
+      {
+        "repo": "Rhino",
+        "expected": "a6aa9c86d6dcb371131d16afa006976e2d473f50",
+        "actual": "a6aa9c86d6dcb371131d16afa006976e2d473f50",
+        "match": true
+      },
+      {
+        "repo": "Salmon",
+        "expected": "4926a368f3caf0fe39cc0827cb6e21a0e59052c1",
+        "actual": "4926a368f3caf0fe39cc0827cb6e21a0e59052c1",
+        "match": true
+      },
+      {
+        "repo": "Shark",
+        "expected": "36bfea23c75b5ebd4c373fc26e58831429296da7",
+        "actual": "36bfea23c75b5ebd4c373fc26e58831429296da7",
+        "match": true
+      },
+      {
+        "repo": "Shepherd",
+        "expected": "dd08e72715ded5f1cd373bb69081d9e4dd637278",
+        "actual": "dd08e72715ded5f1cd373bb69081d9e4dd637278",
+        "match": true
+      },
+      {
+        "repo": "simself",
+        "expected": "03f0372b895fdfd42bed0ba1172c63425da7b3fb",
+        "actual": "03f0372b895fdfd42bed0ba1172c63425da7b3fb",
+        "match": true
+      },
+      {
+        "repo": "Spider",
+        "expected": "6d3b7e2ddfb2a704b387d78906dbcf38b3462bb6",
+        "actual": "6d3b7e2ddfb2a704b387d78906dbcf38b3462bb6",
+        "match": true
+      },
+      {
+        "repo": "Termite",
+        "expected": "12cc38092ae05d9e9478aba4717789ab290f96ff",
+        "actual": "12cc38092ae05d9e9478aba4717789ab290f96ff",
+        "match": true
+      },
+      {
+        "repo": "Tortoise",
+        "expected": "fd666832597db99b3b31eabf817d57e9a7afdaaa",
+        "actual": "fd666832597db99b3b31eabf817d57e9a7afdaaa",
+        "match": true
+      },
+      {
+        "repo": "Turtle",
+        "expected": "7b803e28033e3dc38fbb9ad2ad65e86df56e13fd",
+        "actual": "7b803e28033e3dc38fbb9ad2ad65e86df56e13fd",
+        "match": true
+      },
+      {
+        "repo": "Universal-Cognitive-Attractor",
+        "expected": "af4669beec43c9c1bf6502193049ed43de2c9e89",
+        "actual": "af4669beec43c9c1bf6502193049ed43de2c9e89",
+        "match": true
+      },
+      {
+        "repo": "Verbinski-Protocol",
+        "expected": "ddcef706c2ddd4848e9a8a52951313530d95cc3a",
+        "actual": "ddcef706c2ddd4848e9a8a52951313530d95cc3a",
+        "match": true
+      },
+      {
+        "repo": "Weasel",
+        "expected": "b006f9487f87484a25ae2f7ae6e3de26d8dc3d01",
+        "actual": "b006f9487f87484a25ae2f7ae6e3de26d8dc3d01",
+        "match": true
+      },
+      {
+        "repo": "Whale",
+        "expected": "dae40a9866798fe1cbf86ab2b94344ccb6a5d526",
+        "actual": "dae40a9866798fe1cbf86ab2b94344ccb6a5d526",
+        "match": true
+      },
+      {
+        "repo": "Wolf",
+        "expected": "0f3800358a8d033c73f66388017401c5f2ac437e",
+        "actual": "0f3800358a8d033c73f66388017401c5f2ac437e",
+        "match": true
+      },
+      {
+        "repo": "woodpecker",
+        "expected": "18986b3341e475beb389e6da6bdd19bc50572018",
+        "actual": "18986b3341e475beb389e6da6bdd19bc50572018",
+        "match": true
+      },
+      {
+        "repo": "Zoo-Monster",
+        "expected": "bf84a609d0c0847f2e0073837ae3c5c5443410e7",
+        "actual": "bf84a609d0c0847f2e0073837ae3c5c5443410e7",
+        "match": true
+      }
+    ]
+  },
+  "maintenance": {
+    "checked": 107,
+    "failures": []
+  },
+  "pages": {
+    "checked_at_utc": "2026-10-11T00:01:43.896665+00:00",
+    "pages": [
+      {
+        "repo": "Archimedes-3D",
+        "url": "https://enuminous.github.io/Archimedes-3D/",
+        "status": 200,
+        "final_url": "https://enuminous.github.io/Archimedes-3D/",
+        "network_menu": true,
+        "narrow_layout_fix": true
+      },
+      {
+        "repo": "Archimedes-Engine",
+        "url": "https://enuminous.github.io/Archimedes-Engine/",
+        "status": 200,
+        "final_url": "https://enuminous.github.io/Archimedes-Engine/",
+        "network_menu": true,
+        "narrow_layout_fix": true
+      },
+      {
+        "repo": "Archimedes-Field-Lab",
+        "url": "https://enuminous.github.io/Archimedes-Field-Lab/",
+        "status": 200,
+        "final_url": "https://enuminous.github.io/Archimedes-Field-Lab/",
+        "network_menu": true,
+        "narrow_layout_fix": true
+      },
+      {
+        "repo": "Aristotle_EFMW_Lean",
+        "url": "https://enuminous.github.io/Aristotle_EFMW_Lean/",
+        "status": 200,
+        "final_url": "https://enuminous.github.io/Aristotle_EFMW_Lean/",
+        "network_menu": true,
+        "narrow_layout_fix": true
+      },
+      {
+        "repo": "Aristotle-102-Monolithic-Lean",
+        "url": "https://enuminous.github.io/Aristotle-102-Monolithic-Lean/",
+        "status": 200,
+        "final_url": "https://enuminous.github.io/Aristotle-102-Monolithic-Lean/",
+        "network_menu": true,
+        "narrow_layout_fix": true
+      },
+      {
+        "repo": "Aristotle-165-Einsteinian-Tensors",
+        "url": "https://enuminous.github.io/Aristotle-165-Einsteinian-Tensors/",
+        "status": 200,
+        "final_url": "https://enuminous.github.io/Aristotle-165-Einsteinian-Tensors/",
+        "network_menu": true,
+        "narrow_layout_fix": true
+      },
+      {
+        "repo": "Aristotle-Agreement-and-Surprise-Global-Equalibrium-from-Local-Repair",
+        "url": "https://enuminous.github.io/Aristotle-Agreement-and-Surprise-Global-Equalibrium-from-Local-Repair/",
+        "status": 200,
+        "final_url": "https://enuminous.github.io/Aristotle-Agreement-and-Surprise-Global-Equalibrium-from-Local-Repair/",
+        "network_menu": true,
+        "narrow_layout_fix": true
+      },
+      {
+        "repo": "Avenue5",
+        "url": "https://enuminous.github.io/Avenue5/",
+        "status": 200,
+        "final_url": "https://enuminous.github.io/Avenue5/",
+        "network_menu": true,
+        "narrow_layout_fix": true
+      },
+      {
+        "repo": "Borges-Library-CollapseOmega",
+        "url": "https://enuminous.github.io/Borges-Library-CollapseOmega/",
+        "status": 200,
+        "final_url": "https://enuminous.github.io/Borges-Library-CollapseOmega/",
+        "network_menu": true,
+        "narrow_layout_fix": true
+      },
+      {
+        "repo": "Cadence-Zoo-Evidence",
+        "url": "https://enuminous.github.io/Cadence-Zoo-Evidence/",
+        "status": 200,
+        "final_url": "https://enuminous.github.io/Cadence-Zoo-Evidence/",
+        "network_menu": true,
+        "narrow_layout_fix": true
+      },
+      {
+        "repo": "Coherence-Prediction-Engine",
+        "url": "https://enuminous.github.io/Coherence-Prediction-Engine/",
+        "status": 200,
+        "final_url": "https://enuminous.github.io/Coherence-Prediction-Engine/",
+        "network_menu": true,
+        "narrow_layout_fix": true
+      },
+      {
+        "repo": "EFMW",
+        "url": "https://enuminous.github.io/EFMW/",
+        "status": 200,
+        "final_url": "https://enuminous.github.io/EFMW/",
+        "network_menu": true,
+        "narrow_layout_fix": true
+      },
+      {
+        "repo": "EFMW-Axioms",
+        "url": "https://enuminous.github.io/EFMW-Axioms/",
+        "status": 200,
+        "final_url": "https://enuminous.github.io/EFMW-Axioms/",
+        "network_menu": true,
+        "narrow_layout_fix": true
+      },
+      {
+        "repo": "EFMW-Constants-Problem",
+        "url": "https://enuminous.github.io/EFMW-Constants-Problem/",
+        "status": 200,
+        "final_url": "https://enuminous.github.io/EFMW-Constants-Problem/",
+        "network_menu": true,
+        "narrow_layout_fix": true
+      },
+      {
+        "repo": "EFMW-Neutron-Star-Glitch-Resonance",
+        "url": "https://enuminous.github.io/EFMW-Neutron-Star-Glitch-Resonance/",
+        "status": 200,
+        "final_url": "https://enuminous.github.io/EFMW-Neutron-Star-Glitch-Resonance/",
+        "network_menu": true,
+        "narrow_layout_fix": true
+      },
+      {
+        "repo": "EFMW-Scientific-Claims",
+        "url": "https://enuminous.github.io/EFMW-Scientific-Claims/",
+        "status": 200,
+        "final_url": "https://enuminous.github.io/EFMW-Scientific-Claims/",
+        "network_menu": true,
+        "narrow_layout_fix": true
+      },
+      {
+        "repo": "Emergentology",
+        "url": "https://enuminous.github.io/Emergentology/",
+        "status": 200,
+        "final_url": "https://enuminous.github.io/Emergentology/",
+        "network_menu": true,
+        "narrow_layout_fix": true
+      },
+      {
+        "repo": "FieldSpace",
+        "url": "https://enuminous.github.io/FieldSpace/",
+        "status": 200,
+        "final_url": "https://enuminous.github.io/FieldSpace/",
+        "network_menu": true,
+        "narrow_layout_fix": true
+      },
+      {
+        "repo": "Mathematics-and-Elite-Squad-Dynamics",
+        "url": "https://enuminous.github.io/Mathematics-and-Elite-Squad-Dynamics/",
+        "status": 200,
+        "final_url": "https://enuminous.github.io/Mathematics-and-Elite-Squad-Dynamics/",
+        "network_menu": true,
+        "narrow_layout_fix": true
+      },
+      {
+        "repo": "medium",
+        "url": "https://enuminous.github.io/medium/",
+        "status": 200,
+        "final_url": "https://enuminous.github.io/medium/",
+        "network_menu": true,
+        "narrow_layout_fix": true
+      },
+      {
+        "repo": "Medium2",
+        "url": "https://enuminous.github.io/Medium2/",
+        "status": 200,
+        "final_url": "https://enuminous.github.io/Medium2/",
+        "network_menu": true,
+        "narrow_layout_fix": true
+      },
+      {
+        "repo": "Medium3",
+        "url": "https://enuminous.github.io/Medium3/",
+        "status": 200,
+        "final_url": "https://enuminous.github.io/Medium3/",
+        "network_menu": true,
+        "narrow_layout_fix": true
+      },
+      {
+        "repo": "Tortoise",
+        "url": "https://enuminous.github.io/Tortoise/",
+        "status": 200,
+        "final_url": "https://enuminous.github.io/Tortoise/",
+        "network_menu": true,
+        "narrow_layout_fix": true
+      },
+      {
+        "repo": "Universal-Cognitive-Attractor",
+        "url": "https://enuminous.github.io/Universal-Cognitive-Attractor/",
+        "status": 200,
+        "final_url": "https://enuminous.github.io/Universal-Cognitive-Attractor/",
+        "network_menu": true,
+        "narrow_layout_fix": true
+      },
+      {
+        "repo": "Verbinski-Protocol",
+        "url": "https://enuminous.github.io/Verbinski-Protocol/",
+        "status": 200,
+        "final_url": "https://enuminous.github.io/Verbinski-Protocol/",
+        "network_menu": true,
+        "narrow_layout_fix": true
+      },
+      {
+        "repo": "EFMW directory",
+        "url": "https://enuminous.github.io/EFMW/repositories.html",
+        "status": 200,
+        "final_url": "https://enuminous.github.io/EFMW/repositories.html",
+        "network_menu": true,
+        "narrow_layout_fix": true
+      },
+      {
+        "repo": "medium catalog",
+        "url": "https://enuminous.github.io/medium/papers-essays-index.html",
+        "status": 200,
+        "final_url": "https://enuminous.github.io/medium/papers-essays-index.html",
+        "network_menu": true,
+        "narrow_layout_fix": true
+      },
+      {
+        "repo": "Archimedes-3D nested",
+        "url": "https://enuminous.github.io/Archimedes-3D/world3d/",
+        "status": 200,
+        "final_url": "https://enuminous.github.io/Archimedes-3D/world3d/",
+        "network_menu": true,
+        "narrow_layout_fix": true
+      }
+    ]
+  },
+  "live_browser": {
+    "directory": "https://enuminous.github.io/EFMW/repositories.html",
+    "directory_search": {
+      "query": "Cadence",
+      "visible_results": 1,
+      "passed": true
+    },
+    "pages_dropdown": {
+      "destinations": 25,
+      "viewport_width": 1363,
+      "left": 354.5625,
+      "right": 714.5625,
+      "passed": true
+    },
+    "field_lab": {
+      "url": "https://enuminous.github.io/Archimedes-Field-Lab/",
+      "navigation_present": true,
+      "application_status": "built-entrypoint-restored",
+      "regression_observed_during_rollout": true,
+      "before_rollout_module": "/Archimedes-Field-Lab/assets/index-C8idc9Nf.js",
+      "intermediate_module": "/Archimedes-Field-Lab/src/main.js",
+      "restored_module": "/Archimedes-Field-Lab/assets/index-BKmPkL6D.js",
+      "recovery": {
+        "run_id": 38096838502,
+        "attempt": 2,
+        "conclusion": "success",
+        "rerun_job_id": 114344409754
+      },
+      "layout": {
+        "menu_bottom": 51.1875,
+        "controls_top": 63.1875,
+        "canvas_width": 1363,
+        "passed": true
+      },
+      "runtime_validation": "The browser reports WebGL disabled, so full simulation interaction was not verified.",
+      "remaining_integration_issue": "Both a built-artifact deployment workflow and a separate Pages build lane run; consolidate publication to prevent another source/bundle mismatch. Exact Pages settings were not accessible through the connector."
+    },
+    "limitations": [
+      "No browser rendering test at mobile viewport sizes.",
+      "Other application runtimes were not exhaustively exercised."
+    ]
+  },
+  "latest_ci": [
+    {
+      "repo": "EFMW-Axioms",
+      "runs": [
+        {
+          "name": "pages build and deployment",
+          "head_sha": "0da0cc1e5532c1a638922bfbff8c015ec88a7141",
+          "status": "completed",
+          "conclusion": "success",
+          "url": "https://github.com/enuminous/EFMW-Axioms/actions/runs/38096860077"
+        },
+        {
+          "name": "Lean",
+          "head_sha": "0da0cc1e5532c1a638922bfbff8c015ec88a7141",
+          "status": "completed",
+          "conclusion": "failure",
+          "url": "https://github.com/enuminous/EFMW-Axioms/actions/runs/38096860283"
+        },
+        {
+          "name": "Lean",
+          "head_sha": "72516b7a466fae588b520100b242ba2dda51d552",
+          "status": "completed",
+          "conclusion": "failure",
+          "url": "https://github.com/enuminous/EFMW-Axioms/actions/runs/38096353543"
+        },
+        {
+          "name": "pages build and deployment",
+          "head_sha": "72516b7a466fae588b520100b242ba2dda51d552",
+          "status": "completed",
+          "conclusion": "success",
+          "url": "https://github.com/enuminous/EFMW-Axioms/actions/runs/38096352914"
+        },
+        {
+          "name": "pages build and deployment",
+          "head_sha": "a8119c4604fd583b11bba3b70a50cf0be30e2016",
+          "status": "completed",
+          "conclusion": "success",
+          "url": "https://github.com/enuminous/EFMW-Axioms/actions/runs/37555358272"
+        },
+        {
+          "name": "Lean",
+          "head_sha": "a8119c4604fd583b11bba3b70a50cf0be30e2016",
+          "status": "completed",
+          "conclusion": "failure",
+          "url": "https://github.com/enuminous/EFMW-Axioms/actions/runs/37555311743"
+        }
+      ]
+    },
+    {
+      "repo": "EFMW-Constants-Problem",
+      "runs": [
+        {
+          "name": "Lean",
+          "head_sha": "b7bc07ec244f783c76cd6f03dff648894881c6bf",
+          "status": "completed",
+          "conclusion": "failure",
+          "url": "https://github.com/enuminous/EFMW-Constants-Problem/actions/runs/38096862058"
+        },
+        {
+          "name": "pages build and deployment",
+          "head_sha": "b7bc07ec244f783c76cd6f03dff648894881c6bf",
+          "status": "completed",
+          "conclusion": "success",
+          "url": "https://github.com/enuminous/EFMW-Constants-Problem/actions/runs/38096861800"
+        },
+        {
+          "name": "pages build and deployment",
+          "head_sha": "30a72fd0416d7b03f011791d6dcbe7080b329326",
+          "status": "completed",
+          "conclusion": "success",
+          "url": "https://github.com/enuminous/EFMW-Constants-Problem/actions/runs/38096355312"
+        },
+        {
+          "name": "Lean",
+          "head_sha": "30a72fd0416d7b03f011791d6dcbe7080b329326",
+          "status": "completed",
+          "conclusion": "failure",
+          "url": "https://github.com/enuminous/EFMW-Constants-Problem/actions/runs/38096355767"
+        },
+        {
+          "name": "pages build and deployment",
+          "head_sha": "cdfd9a00e3544a6fab154dc169e86f59c0d068ff",
+          "status": "completed",
+          "conclusion": "success",
+          "url": "https://github.com/enuminous/EFMW-Constants-Problem/actions/runs/37558093603"
+        },
+        {
+          "name": "Lean",
+          "head_sha": "cdfd9a00e3544a6fab154dc169e86f59c0d068ff",
+          "status": "completed",
+          "conclusion": "failure",
+          "url": "https://github.com/enuminous/EFMW-Constants-Problem/actions/runs/37558093921"
+        }
+      ]
+    }
+  ],
+  "other_ci": [
+    {
+      "repo": "Archimedes-Field-Lab",
+      "runs": [
+        {
+          "name": "Deploy Archimedes Field Lab",
+          "head_sha": "0aa7a6b1b940d295904e1008a85495b29782b985",
+          "status": "completed",
+          "conclusion": "success",
+          "url": "https://github.com/enuminous/Archimedes-Field-Lab/actions/runs/38096838502"
+        },
+        {
+          "name": "pages build and deployment",
+          "head_sha": "0aa7a6b1b940d295904e1008a85495b29782b985",
+          "status": "completed",
+          "conclusion": "success",
+          "url": "https://github.com/enuminous/Archimedes-Field-Lab/actions/runs/38096838460"
+        }
+      ]
+    },
+    {
+      "repo": "EFMW_Post156_Zoo_Audit",
+      "runs": [
+        {
+          "name": "EFMW research engine",
+          "head_sha": "50cbc89407be2d847598a19adb98418ee6e2cc00",
+          "status": "completed",
+          "conclusion": "success",
+          "url": "https://github.com/enuminous/EFMW_Post156_Zoo_Audit/actions/runs/38096858212"
+        },
+        {
+          "name": "Lean and FieldSpace audit",
+          "head_sha": "50cbc89407be2d847598a19adb98418ee6e2cc00",
+          "status": "completed",
+          "conclusion": "success",
+          "url": "https://github.com/enuminous/EFMW_Post156_Zoo_Audit/actions/runs/38096858203"
+        }
+      ]
+    },
+    {
+      "repo": "EFMW-Axioms",
+      "runs": [
+        {
+          "name": "Lean",
+          "head_sha": "0da0cc1e5532c1a638922bfbff8c015ec88a7141",
+          "status": "in_progress",
+          "conclusion": null,
+          "url": "https://github.com/enuminous/EFMW-Axioms/actions/runs/38096860283"
+        },
+        {
+          "name": "pages build and deployment",
+          "head_sha": "0da0cc1e5532c1a638922bfbff8c015ec88a7141",
+          "status": "completed",
+          "conclusion": "success",
+          "url": "https://github.com/enuminous/EFMW-Axioms/actions/runs/38096860077"
+        }
+      ]
+    },
+    {
+      "repo": "EFMW-Constants-Problem",
+      "runs": [
+        {
+          "name": "Lean",
+          "head_sha": "b7bc07ec244f783c76cd6f03dff648894881c6bf",
+          "status": "in_progress",
+          "conclusion": null,
+          "url": "https://github.com/enuminous/EFMW-Constants-Problem/actions/runs/38096862058"
+        },
+        {
+          "name": "pages build and deployment",
+          "head_sha": "b7bc07ec244f783c76cd6f03dff648894881c6bf",
+          "status": "completed",
+          "conclusion": "success",
+          "url": "https://github.com/enuminous/EFMW-Constants-Problem/actions/runs/38096861800"
+        }
+      ]
+    }
+  ]
 }
