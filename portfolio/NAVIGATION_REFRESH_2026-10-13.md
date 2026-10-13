@@ -33,6 +33,10 @@ Alchemy-of-Emergence was already cataloged but now has an enabled, verified Page
 
 73 symbolic-link index entries in monster were left as links; regular targets were processed. OpenAI-math was inspected at its root only: its large upstream proof archive was not rescanned or rewritten. Private repositories are excluded from the public catalog and were not modified. This is a navigation refresh, not a scientific re-audit or a claim that every unrelated historical link works.
 
+## Publication verification
+
+All 115 repository branches matched the published commit and tree hashes. After publication, all 34 site roots and the central directory returned HTTP 200 and served the new version-2 navigation.
+
 ## Maintenance
 
 See [the maintenance guide](README.md), [navigation.py](navigation.py), [navigation configuration](navigation.json), and [the shared HTML template](navigation-template.html). New projects belong in the registry and the recent-project configuration; published URLs should be verified before entering the menu. The script only emits Open page links for the explicit, checked page_urls mapping.

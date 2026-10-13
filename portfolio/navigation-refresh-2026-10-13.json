@@ -1540,5 +1540,227 @@
       ]
     }
   ],
-  "audit_repository_commit": "The commit containing this receipt; omitted here to avoid a self-referential commit hash."
+  "audit_repository_commit": "The commit containing this receipt; omitted here to avoid a self-referential commit hash.",
+  "hosted_rollout_verification": {
+    "checked_at_utc": "2026-10-13T20:08:09.437405+00:00",
+    "all_34_sites_and_directory_serving_navigation_v2": true,
+    "results": [
+      {
+        "name": "Oroboros",
+        "url": "https://enuminous.github.io/Oroboros/",
+        "status": 200,
+        "navigation_v2": true
+      },
+      {
+        "name": "P-NP",
+        "url": "https://enuminous.github.io/P-NP/",
+        "status": 200,
+        "navigation_v2": true
+      },
+      {
+        "name": "Research-Program",
+        "url": "https://enuminous.github.io/Research-Program/",
+        "status": 200,
+        "navigation_v2": true
+      },
+      {
+        "name": "I-Have-Guts",
+        "url": "https://enuminous.github.io/I-Have-Guts/",
+        "status": 200,
+        "navigation_v2": true
+      },
+      {
+        "name": "Wrights-Law",
+        "url": "https://enuminous.github.io/Wrights-Law/",
+        "status": 200,
+        "navigation_v2": true
+      },
+      {
+        "name": "Aristotle-eNuminous",
+        "url": "https://enuminous.github.io/Aristotle-eNuminous/",
+        "status": 200,
+        "navigation_v2": true
+      },
+      {
+        "name": "Multiverse-Simulator",
+        "url": "https://enuminous.github.io/Multiverse-Simulator/",
+        "status": 200,
+        "navigation_v2": true
+      },
+      {
+        "name": "Codex-888",
+        "url": "https://enuminous.github.io/Codex-888/",
+        "status": 200,
+        "navigation_v2": true
+      },
+      {
+        "name": "Aristotle-Agreement-and-Surprise-Global-Equalibrium-from-Local-Repair",
+        "url": "https://enuminous.github.io/Aristotle-Agreement-and-Surprise-Global-Equalibrium-from-Local-Repair/",
+        "status": 200,
+        "navigation_v2": true
+      },
+      {
+        "name": "Mathematics-and-Elite-Squad-Dynamics",
+        "url": "https://enuminous.github.io/Mathematics-and-Elite-Squad-Dynamics/",
+        "status": 200,
+        "navigation_v2": true
+      },
+      {
+        "name": "Cadence-Zoo-Evidence",
+        "url": "https://enuminous.github.io/Cadence-Zoo-Evidence/",
+        "status": 200,
+        "navigation_v2": true
+      },
+      {
+        "name": "Coherence-Prediction-Engine",
+        "url": "https://enuminous.github.io/Coherence-Prediction-Engine/",
+        "status": 200,
+        "navigation_v2": true
+      },
+      {
+        "name": "Aristotle-102-Monolithic-Lean",
+        "url": "https://enuminous.github.io/Aristotle-102-Monolithic-Lean/",
+        "status": 200,
+        "navigation_v2": true
+      },
+      {
+        "name": "Emergentology",
+        "url": "https://enuminous.github.io/Emergentology/",
+        "status": 200,
+        "navigation_v2": true
+      },
+      {
+        "name": "Universal-Cognitive-Attractor",
+        "url": "https://enuminous.github.io/Universal-Cognitive-Attractor/",
+        "status": 200,
+        "navigation_v2": true
+      },
+      {
+        "name": "EFMW-Constants-Problem",
+        "url": "https://enuminous.github.io/EFMW-Constants-Problem/",
+        "status": 200,
+        "navigation_v2": true
+      },
+      {
+        "name": "EFMW-Axioms",
+        "url": "https://enuminous.github.io/EFMW-Axioms/",
+        "status": 200,
+        "navigation_v2": true
+      },
+      {
+        "name": "EFMW-Neutron-Star-Glitch-Resonance",
+        "url": "https://enuminous.github.io/EFMW-Neutron-Star-Glitch-Resonance/",
+        "status": 200,
+        "navigation_v2": true
+      },
+      {
+        "name": "EFMW-Scientific-Claims",
+        "url": "https://enuminous.github.io/EFMW-Scientific-Claims/",
+        "status": 200,
+        "navigation_v2": true
+      },
+      {
+        "name": "Aristotle-165-Einsteinian-Tensors",
+        "url": "https://enuminous.github.io/Aristotle-165-Einsteinian-Tensors/",
+        "status": 200,
+        "navigation_v2": true
+      },
+      {
+        "name": "Verbinski-Protocol",
+        "url": "https://enuminous.github.io/Verbinski-Protocol/",
+        "status": 200,
+        "navigation_v2": true
+      },
+      {
+        "name": "Archimedes-Field-Lab",
+        "url": "https://enuminous.github.io/Archimedes-Field-Lab/",
+        "status": 200,
+        "navigation_v2": true
+      },
+      {
+        "name": "Archimedes-3D",
+        "url": "https://enuminous.github.io/Archimedes-3D/",
+        "status": 200,
+        "navigation_v2": true
+      },
+      {
+        "name": "FieldSpace",
+        "url": "https://enuminous.github.io/FieldSpace/",
+        "status": 200,
+        "navigation_v2": true
+      },
+      {
+        "name": "Archimedes-Engine",
+        "url": "https://enuminous.github.io/Archimedes-Engine/",
+        "status": 200,
+        "navigation_v2": true
+      },
+      {
+        "name": "Avenue5",
+        "url": "https://enuminous.github.io/Avenue5/",
+        "status": 200,
+        "navigation_v2": true
+      },
+      {
+        "name": "Borges-Library-CollapseOmega",
+        "url": "https://enuminous.github.io/Borges-Library-CollapseOmega/",
+        "status": 200,
+        "navigation_v2": true
+      },
+      {
+        "name": "Alchemy-of-Emergence",
+        "url": "https://enuminous.github.io/Alchemy-of-Emergence/",
+        "status": 200,
+        "navigation_v2": true
+      },
+      {
+        "name": "Aristotle_EFMW_Lean",
+        "url": "https://enuminous.github.io/Aristotle_EFMW_Lean/",
+        "status": 200,
+        "navigation_v2": true
+      },
+      {
+        "name": "Tortoise",
+        "url": "https://enuminous.github.io/Tortoise/",
+        "status": 200,
+        "navigation_v2": true
+      },
+      {
+        "name": "Medium3",
+        "url": "https://enuminous.github.io/Medium3/",
+        "status": 200,
+        "navigation_v2": true
+      },
+      {
+        "name": "Medium2",
+        "url": "https://enuminous.github.io/Medium2/",
+        "status": 200,
+        "navigation_v2": true
+      },
+      {
+        "name": "medium",
+        "url": "https://enuminous.github.io/medium/",
+        "status": 200,
+        "navigation_v2": true
+      },
+      {
+        "name": "EFMW",
+        "url": "https://enuminous.github.io/EFMW/",
+        "status": 200,
+        "navigation_v2": true
+      },
+      {
+        "name": "Directory",
+        "url": "https://enuminous.github.io/EFMW/repositories.html",
+        "status": 200,
+        "navigation_v2": true
+      }
+    ]
+  },
+  "publication_verification": {
+    "repository_branches_checked": 115,
+    "matched_expected_commit_and_tree": 115,
+    "failures": 0,
+    "note": "Checked after the rollout commit and before this final receipt update."
+  }
 }
