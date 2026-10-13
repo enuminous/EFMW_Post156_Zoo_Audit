@@ -1,0 +1,1544 @@
+{
+  "date": "2026-10-13",
+  "published_at_utc": "2026-10-13T20:06:44.963227+00:00",
+  "validation": {
+    "public_repositories": 115,
+    "root_readmes": 115,
+    "regular_indexes": 117,
+    "additional_dashboard_templates": 1,
+    "unique_navigation_links_checked": 343,
+    "verified_site_roots": 34,
+    "verified_index_urls": 36,
+    "content_preservation": "passed",
+    "registry_consistency": "passed",
+    "link_validation": "passed"
+  },
+  "site_checks": [
+    {
+      "name": "Oroboros",
+      "url": "https://enuminous.github.io/Oroboros/",
+      "status": 200,
+      "bytes": 10331,
+      "old_nav": false
+    },
+    {
+      "name": "P-NP",
+      "url": "https://enuminous.github.io/P-NP/",
+      "status": 200,
+      "bytes": 4758,
+      "old_nav": false
+    },
+    {
+      "name": "Research-Program",
+      "url": "https://enuminous.github.io/Research-Program/",
+      "status": 200,
+      "bytes": 2042,
+      "old_nav": false
+    },
+    {
+      "name": "I-Have-Guts",
+      "url": "https://enuminous.github.io/I-Have-Guts/",
+      "status": 200,
+      "bytes": 1061,
+      "old_nav": false
+    },
+    {
+      "name": "Wrights-Law",
+      "url": "https://enuminous.github.io/Wrights-Law/",
+      "status": 200,
+      "bytes": 1996,
+      "old_nav": false
+    },
+    {
+      "name": "Aristotle-eNuminous",
+      "url": "https://enuminous.github.io/Aristotle-eNuminous/",
+      "status": 200,
+      "bytes": 96892,
+      "old_nav": false
+    },
+    {
+      "name": "Multiverse-Simulator",
+      "url": "https://enuminous.github.io/Multiverse-Simulator/",
+      "status": 200,
+      "bytes": 13546,
+      "old_nav": false
+    },
+    {
+      "name": "Codex-888",
+      "url": "https://enuminous.github.io/Codex-888/",
+      "status": 200,
+      "bytes": 24280,
+      "old_nav": false
+    },
+    {
+      "name": "Aristotle-Agreement-and-Surprise-Global-Equalibrium-from-Local-Repair",
+      "url": "https://enuminous.github.io/Aristotle-Agreement-and-Surprise-Global-Equalibrium-from-Local-Repair/",
+      "status": 200,
+      "bytes": 38618,
+      "old_nav": true
+    },
+    {
+      "name": "Mathematics-and-Elite-Squad-Dynamics",
+      "url": "https://enuminous.github.io/Mathematics-and-Elite-Squad-Dynamics/",
+      "status": 200,
+      "bytes": 30218,
+      "old_nav": true
+    },
+    {
+      "name": "Cadence-Zoo-Evidence",
+      "url": "https://enuminous.github.io/Cadence-Zoo-Evidence/",
+      "status": 200,
+      "bytes": 54081,
+      "old_nav": true
+    },
+    {
+      "name": "Coherence-Prediction-Engine",
+      "url": "https://enuminous.github.io/Coherence-Prediction-Engine/",
+      "status": 200,
+      "bytes": 12663,
+      "old_nav": true
+    },
+    {
+      "name": "Aristotle-102-Monolithic-Lean",
+      "url": "https://enuminous.github.io/Aristotle-102-Monolithic-Lean/",
+      "status": 200,
+      "bytes": 19780,
+      "old_nav": true
+    },
+    {
+      "name": "Emergentology",
+      "url": "https://enuminous.github.io/Emergentology/",
+      "status": 200,
+      "bytes": 9115,
+      "old_nav": true
+    },
+    {
+      "name": "Universal-Cognitive-Attractor",
+      "url": "https://enuminous.github.io/Universal-Cognitive-Attractor/",
+      "status": 200,
+      "bytes": 9326,
+      "old_nav": true
+    },
+    {
+      "name": "EFMW-Constants-Problem",
+      "url": "https://enuminous.github.io/EFMW-Constants-Problem/",
+      "status": 200,
+      "bytes": 10682,
+      "old_nav": true
+    },
+    {
+      "name": "EFMW-Axioms",
+      "url": "https://enuminous.github.io/EFMW-Axioms/",
+      "status": 200,
+      "bytes": 24180,
+      "old_nav": true
+    },
+    {
+      "name": "EFMW-Neutron-Star-Glitch-Resonance",
+      "url": "https://enuminous.github.io/EFMW-Neutron-Star-Glitch-Resonance/",
+      "status": 200,
+      "bytes": 20038,
+      "old_nav": true
+    },
+    {
+      "name": "EFMW-Scientific-Claims",
+      "url": "https://enuminous.github.io/EFMW-Scientific-Claims/",
+      "status": 200,
+      "bytes": 600650,
+      "old_nav": true
+    },
+    {
+      "name": "Aristotle-165-Einsteinian-Tensors",
+      "url": "https://enuminous.github.io/Aristotle-165-Einsteinian-Tensors/",
+      "status": 200,
+      "bytes": 34592,
+      "old_nav": true
+    },
+    {
+      "name": "Verbinski-Protocol",
+      "url": "https://enuminous.github.io/Verbinski-Protocol/",
+      "status": 200,
+      "bytes": 11230,
+      "old_nav": true
+    },
+    {
+      "name": "Archimedes-Field-Lab",
+      "url": "https://enuminous.github.io/Archimedes-Field-Lab/",
+      "status": 200,
+      "bytes": 8126,
+      "old_nav": true
+    },
+    {
+      "name": "Archimedes-3D",
+      "url": "https://enuminous.github.io/Archimedes-3D/",
+      "status": 200,
+      "bytes": 19859,
+      "old_nav": true
+    },
+    {
+      "name": "FieldSpace",
+      "url": "https://enuminous.github.io/FieldSpace/",
+      "status": 200,
+      "bytes": 18404,
+      "old_nav": true
+    },
+    {
+      "name": "Archimedes-Engine",
+      "url": "https://enuminous.github.io/Archimedes-Engine/",
+      "status": 200,
+      "bytes": 19808,
+      "old_nav": true
+    },
+    {
+      "name": "Avenue5",
+      "url": "https://enuminous.github.io/Avenue5/",
+      "status": 200,
+      "bytes": 8803,
+      "old_nav": true
+    },
+    {
+      "name": "Borges-Library-CollapseOmega",
+      "url": "https://enuminous.github.io/Borges-Library-CollapseOmega/",
+      "status": 200,
+      "bytes": 16751,
+      "old_nav": true
+    },
+    {
+      "name": "Alchemy-of-Emergence",
+      "url": "https://enuminous.github.io/Alchemy-of-Emergence/",
+      "status": 200,
+      "bytes": 97044,
+      "old_nav": true
+    },
+    {
+      "name": "Aristotle_EFMW_Lean",
+      "url": "https://enuminous.github.io/Aristotle_EFMW_Lean/",
+      "status": 200,
+      "bytes": 8894,
+      "old_nav": true
+    },
+    {
+      "name": "Tortoise",
+      "url": "https://enuminous.github.io/Tortoise/",
+      "status": 200,
+      "bytes": 48256,
+      "old_nav": true
+    },
+    {
+      "name": "Medium3",
+      "url": "https://enuminous.github.io/Medium3/",
+      "status": 200,
+      "bytes": 56036,
+      "old_nav": true
+    },
+    {
+      "name": "Medium2",
+      "url": "https://enuminous.github.io/Medium2/",
+      "status": 200,
+      "bytes": 73600,
+      "old_nav": true
+    },
+    {
+      "name": "medium",
+      "url": "https://enuminous.github.io/medium/",
+      "status": 200,
+      "bytes": 6331,
+      "old_nav": true
+    },
+    {
+      "name": "EFMW",
+      "url": "https://enuminous.github.io/EFMW/",
+      "status": 200,
+      "bytes": 14562,
+      "old_nav": true
+    }
+  ],
+  "index_checks": [
+    {
+      "name": "Oroboros",
+      "path": "index.html",
+      "url": "https://enuminous.github.io/Oroboros/index.html",
+      "status": 200
+    },
+    {
+      "name": "P-NP",
+      "path": "index.html",
+      "url": "https://enuminous.github.io/P-NP/index.html",
+      "status": 200
+    },
+    {
+      "name": "Research-Program",
+      "path": "index.html",
+      "url": "https://enuminous.github.io/Research-Program/index.html",
+      "status": 200
+    },
+    {
+      "name": "I-Have-Guts",
+      "path": "index.html",
+      "url": "https://enuminous.github.io/I-Have-Guts/index.html",
+      "status": 200
+    },
+    {
+      "name": "Wrights-Law",
+      "path": "index.html",
+      "url": "https://enuminous.github.io/Wrights-Law/index.html",
+      "status": 200
+    },
+    {
+      "name": "Aristotle-eNuminous",
+      "path": "index.html",
+      "url": "https://enuminous.github.io/Aristotle-eNuminous/index.html",
+      "status": 200
+    },
+    {
+      "name": "Multiverse-Simulator",
+      "path": "index.html",
+      "url": "https://enuminous.github.io/Multiverse-Simulator/index.html",
+      "status": 200
+    },
+    {
+      "name": "Codex-888",
+      "path": "index.html",
+      "url": "https://enuminous.github.io/Codex-888/index.html",
+      "status": 200
+    },
+    {
+      "name": "Aristotle-Agreement-and-Surprise-Global-Equalibrium-from-Local-Repair",
+      "path": "index.html",
+      "url": "https://enuminous.github.io/Aristotle-Agreement-and-Surprise-Global-Equalibrium-from-Local-Repair/index.html",
+      "status": 200
+    },
+    {
+      "name": "Mathematics-and-Elite-Squad-Dynamics",
+      "path": "index.html",
+      "url": "https://enuminous.github.io/Mathematics-and-Elite-Squad-Dynamics/index.html",
+      "status": 200
+    },
+    {
+      "name": "Cadence-Zoo-Evidence",
+      "path": "index.html",
+      "url": "https://enuminous.github.io/Cadence-Zoo-Evidence/index.html",
+      "status": 200
+    },
+    {
+      "name": "Coherence-Prediction-Engine",
+      "path": "index.html",
+      "url": "https://enuminous.github.io/Coherence-Prediction-Engine/index.html",
+      "status": 200
+    },
+    {
+      "name": "Aristotle-102-Monolithic-Lean",
+      "path": "index.html",
+      "url": "https://enuminous.github.io/Aristotle-102-Monolithic-Lean/index.html",
+      "status": 200
+    },
+    {
+      "name": "Emergentology",
+      "path": "index.html",
+      "url": "https://enuminous.github.io/Emergentology/index.html",
+      "status": 200
+    },
+    {
+      "name": "Universal-Cognitive-Attractor",
+      "path": "index.html",
+      "url": "https://enuminous.github.io/Universal-Cognitive-Attractor/index.html",
+      "status": 200
+    },
+    {
+      "name": "EFMW-Constants-Problem",
+      "path": "index.html",
+      "url": "https://enuminous.github.io/EFMW-Constants-Problem/index.html",
+      "status": 200
+    },
+    {
+      "name": "EFMW-Axioms",
+      "path": "index.html",
+      "url": "https://enuminous.github.io/EFMW-Axioms/index.html",
+      "status": 200
+    },
+    {
+      "name": "EFMW-Neutron-Star-Glitch-Resonance",
+      "path": "index.html",
+      "url": "https://enuminous.github.io/EFMW-Neutron-Star-Glitch-Resonance/index.html",
+      "status": 200
+    },
+    {
+      "name": "EFMW-Scientific-Claims",
+      "path": "index.html",
+      "url": "https://enuminous.github.io/EFMW-Scientific-Claims/index.html",
+      "status": 200
+    },
+    {
+      "name": "Aristotle-165-Einsteinian-Tensors",
+      "path": "index.html",
+      "url": "https://enuminous.github.io/Aristotle-165-Einsteinian-Tensors/index.html",
+      "status": 200
+    },
+    {
+      "name": "Verbinski-Protocol",
+      "path": "index.html",
+      "url": "https://enuminous.github.io/Verbinski-Protocol/index.html",
+      "status": 200
+    },
+    {
+      "name": "Archimedes-Field-Lab",
+      "path": "index.html",
+      "url": "https://enuminous.github.io/Archimedes-Field-Lab/index.html",
+      "status": 200
+    },
+    {
+      "name": "Archimedes-3D",
+      "path": "index.html",
+      "url": "https://enuminous.github.io/Archimedes-3D/index.html",
+      "status": 200
+    },
+    {
+      "name": "Archimedes-3D",
+      "path": "world3d/index.html",
+      "url": "https://enuminous.github.io/Archimedes-3D/world3d/index.html",
+      "status": 200
+    },
+    {
+      "name": "FieldSpace",
+      "path": "index.html",
+      "url": "https://enuminous.github.io/FieldSpace/index.html",
+      "status": 200
+    },
+    {
+      "name": "Archimedes-Engine",
+      "path": "index.html",
+      "url": "https://enuminous.github.io/Archimedes-Engine/index.html",
+      "status": 200
+    },
+    {
+      "name": "Avenue5",
+      "path": "index.html",
+      "url": "https://enuminous.github.io/Avenue5/index.html",
+      "status": 200
+    },
+    {
+      "name": "Borges-Library-CollapseOmega",
+      "path": "index.html",
+      "url": "https://enuminous.github.io/Borges-Library-CollapseOmega/index.html",
+      "status": 200
+    },
+    {
+      "name": "Alchemy-of-Emergence",
+      "path": "index.html",
+      "url": "https://enuminous.github.io/Alchemy-of-Emergence/index.html",
+      "status": 200
+    },
+    {
+      "name": "Aristotle_EFMW_Lean",
+      "path": "index.html",
+      "url": "https://enuminous.github.io/Aristotle_EFMW_Lean/index.html",
+      "status": 200
+    },
+    {
+      "name": "Tortoise",
+      "path": "index.html",
+      "url": "https://enuminous.github.io/Tortoise/index.html",
+      "status": 200
+    },
+    {
+      "name": "Medium3",
+      "path": "index.html",
+      "url": "https://enuminous.github.io/Medium3/index.html",
+      "status": 200
+    },
+    {
+      "name": "Medium2",
+      "path": "index.html",
+      "url": "https://enuminous.github.io/Medium2/index.html",
+      "status": 200
+    },
+    {
+      "name": "medium",
+      "path": "index.html",
+      "url": "https://enuminous.github.io/medium/index.html",
+      "status": 200
+    },
+    {
+      "name": "medium",
+      "path": "papers-essays-index.html",
+      "url": "https://enuminous.github.io/medium/papers-essays-index.html",
+      "status": 200
+    },
+    {
+      "name": "EFMW",
+      "path": "index.html",
+      "url": "https://enuminous.github.io/EFMW/index.html",
+      "status": 200
+    }
+  ],
+  "published_repositories": [
+    {
+      "name": "EFMW",
+      "sha": "0f321ef83d4ffdec7540035a24280aaa5c1bb30e",
+      "parent": "e574aaa6ab9142879ceb1b688d848f409a2ee650",
+      "files": [
+        "index.html",
+        "README.md",
+        "repositories.html",
+        "repositories.json"
+      ]
+    },
+    {
+      "name": "JEV-EFMW-Syncretic-Layer",
+      "sha": "c2333020f2eb8e7a8846be0046538bc744821f88",
+      "parent": "3cbf5a92ef6413b3ab50279cc2d00627a1157fc2",
+      "files": [
+        "README.md"
+      ]
+    },
+    {
+      "name": "Shark",
+      "sha": "214f2bf5b95d099bf399656046bf8614ed10cf9e",
+      "parent": "36bfea23c75b5ebd4c373fc26e58831429296da7",
+      "files": [
+        "README.md",
+        "MANIFEST.sha256"
+      ]
+    },
+    {
+      "name": "Ant",
+      "sha": "1f35df5f13f2c8c4ab77759fb62084e5f1fca58d",
+      "parent": "9eefd8fb36d9f04aca0e1a2786b6fac4012530f1",
+      "files": [
+        "README.md",
+        "MANIFEST.sha256"
+      ]
+    },
+    {
+      "name": "Mole",
+      "sha": "1fa7dcaef51b507c55f1dff9eb2b2ab4877f2b5d",
+      "parent": "93bcd94b9315930850e5f6d3c8834405e7da629b",
+      "files": [
+        "README.md"
+      ]
+    },
+    {
+      "name": "Horse",
+      "sha": "4ca737bad9578435404264fe41654d7bc7a53993",
+      "parent": "ca17131274eb4d9b9f9ab872cbda21f0a80bd85f",
+      "files": [
+        "README.md"
+      ]
+    },
+    {
+      "name": "Beaver",
+      "sha": "5cec7e3679be4df1279664590a68a8b476394acb",
+      "parent": "2714700f071d9688dee4adcfd3097bdabeca2b28",
+      "files": [
+        "README.md"
+      ]
+    },
+    {
+      "name": "Spider",
+      "sha": "eb437a8caed54d114cb50eef8d069d68db8956cb",
+      "parent": "6d3b7e2ddfb2a704b387d78906dbcf38b3462bb6",
+      "files": [
+        "README.md",
+        "MANIFEST.sha256"
+      ]
+    },
+    {
+      "name": "Mathematics-and-Elite-Squad-Dynamics",
+      "sha": "66f91fcf1094bd32f1fd731cc57dd92667602d53",
+      "parent": "c1f66e5cc5eee78ee1c78d0a772700fd75f9bc65",
+      "files": [
+        "index.html",
+        "README.md"
+      ]
+    },
+    {
+      "name": "Wolf",
+      "sha": "e9b575183e9be3447be96871f579e779dbf94846",
+      "parent": "0f3800358a8d033c73f66388017401c5f2ac437e",
+      "files": [
+        "README.md"
+      ]
+    },
+    {
+      "name": "Axolotl",
+      "sha": "085327532f080c9ecccedcc7187b9cbdba7a7af8",
+      "parent": "66052bbb5e53ccc1968f4bc53ea3c023a5997fe1",
+      "files": [
+        "README.md"
+      ]
+    },
+    {
+      "name": "Cat",
+      "sha": "fa181ab790547b5b36ab7f37735d5e665920003d",
+      "parent": "efb298eb3d9792a4013fa0d45c2e9ef5e046e05c",
+      "files": [
+        "README.md",
+        "MANIFEST.sha256"
+      ]
+    },
+    {
+      "name": "Tortoise",
+      "sha": "420264bdff9cd162050d90c9a31af0daabb88b28",
+      "parent": "fd666832597db99b3b31eabf817d57e9a7afdaaa",
+      "files": [
+        "index.html",
+        "README.md",
+        "MANIFEST.sha256"
+      ]
+    },
+    {
+      "name": "Bison",
+      "sha": "51bee1acc77a2766f3d2af6c947fd9afcffb7126",
+      "parent": "1120e1131c1c57e5c4a4d8d27c61a4ea7383ebca",
+      "files": [
+        "README.md"
+      ]
+    },
+    {
+      "name": "Falcon",
+      "sha": "8e0c6854fe956466ddeb115ffdf71addb90ed164",
+      "parent": "736c467427997298b7dc47be51f10019cab01131",
+      "files": [
+        "README.md"
+      ]
+    },
+    {
+      "name": "papers",
+      "sha": "e556b5cf27d15a2636fbd1af49caa49e2052c979",
+      "parent": "9409d42338e77d333c1aa9da17b4f84caf2811a0",
+      "files": [
+        "index.html",
+        "README.md"
+      ]
+    },
+    {
+      "name": "Raven",
+      "sha": "ad30d4f2f0a45c66592d5dab3a32fe900035a7d0",
+      "parent": "3b0cc6b7c6acfe8030a217f3aa26fdf046699499",
+      "files": [
+        "README.md",
+        "MANIFEST.sha256"
+      ]
+    },
+    {
+      "name": "Cobra",
+      "sha": "11b5d7a68ba3126ace7e972f6a78ba4df68ea5ef",
+      "parent": "06e34d69e15d7bbaaceb792e6937980b4eaa1069",
+      "files": [
+        "README.md"
+      ]
+    },
+    {
+      "name": "Elephant",
+      "sha": "4fa4732d4b0ca4c1d643c94b14594d32c6760d22",
+      "parent": "07d7d37e371547c8c905b4099f53d47f6430a55e",
+      "files": [
+        "README.md"
+      ]
+    },
+    {
+      "name": "Owl",
+      "sha": "691b63431627b77ef0e6c0c1754e742ba51c928e",
+      "parent": "592c59d0bcaad71c36668c2811b5f018985a974b",
+      "files": [
+        "README.md",
+        "MANIFEST.sha256"
+      ]
+    },
+    {
+      "name": "Mantis",
+      "sha": "fcb9855d74dc2be42c5910f4674f3723f7b52b1d",
+      "parent": "0cac9b6131529744ef582018c9d83bc1ffea0ea8",
+      "files": [
+        "README.md"
+      ]
+    },
+    {
+      "name": "Monolithic_102_EFMW",
+      "sha": "170679d21aa0f570fda505ee3b03864b717be950",
+      "parent": "a0a5e4cee36296856560ea44e5eb77d7c357da33",
+      "files": [
+        "README.md",
+        "SHA256SUMS"
+      ]
+    },
+    {
+      "name": "Bat",
+      "sha": "2f385856c6e275aeec85bacbc2fd7a231653dc31",
+      "parent": "a502c08cc5226905ca2377d4db93eff7df3a8700",
+      "files": [
+        "README.md",
+        "MANIFEST.sha256"
+      ]
+    },
+    {
+      "name": "Dolphin",
+      "sha": "9e306c3bae0cc202fb11feaee2700c2f3ab12db9",
+      "parent": "97baea81e4c63803d2d643d7ed5960a0f27f7f8c",
+      "files": [
+        "README.md",
+        "MANIFEST.sha256"
+      ]
+    },
+    {
+      "name": "Chameleon",
+      "sha": "fd73824a2d86707768e015c254caae3227944bbd",
+      "parent": "8f19a3e36041041a9ca51230a44087add11f9702",
+      "files": [
+        "README.md"
+      ]
+    },
+    {
+      "name": "Crocodile",
+      "sha": "31d01f08af036cacdb027e2c535d651ba3c893e7",
+      "parent": "567f03acddae8f644f8f86c45009fd078e7e8778",
+      "files": [
+        "README.md",
+        "MANIFEST.sha256"
+      ]
+    },
+    {
+      "name": "Salmon",
+      "sha": "8d90c1dd8ce0a132ddf2d86268d5e56e12f7fc2e",
+      "parent": "4926a368f3caf0fe39cc0827cb6e21a0e59052c1",
+      "files": [
+        "README.md"
+      ]
+    },
+    {
+      "name": "Gecko",
+      "sha": "eb4cce5b80b2b2ea00c96cf3db1351a72219d810",
+      "parent": "68cfd1948069ea6863ad0249a8fe71c5edd87d93",
+      "files": [
+        "README.md",
+        "MANIFEST.sha256"
+      ]
+    },
+    {
+      "name": "Hedgehog",
+      "sha": "79ef10c52fcc7e86f705785af021c7e15d7485f8",
+      "parent": "b5231154f22f36c952b4315ee627dc277b03c806",
+      "files": [
+        "README.md",
+        "MANIFEST.sha256"
+      ]
+    },
+    {
+      "name": "Whale",
+      "sha": "e7e7ab3c44efb8e1d652d05603cf1c249aa4ed15",
+      "parent": "dae40a9866798fe1cbf86ab2b94344ccb6a5d526",
+      "files": [
+        "README.md"
+      ]
+    },
+    {
+      "name": "MultiValuedClassicalAction-Lean4",
+      "sha": "d9d84899084f5ba16f623c01278e88fae6e1ba8c",
+      "parent": "c875cb9aa612ac43b456e344c0cf00f35187ccff",
+      "files": [
+        "README.md"
+      ]
+    },
+    {
+      "name": "Butterfly",
+      "sha": "08633f2f39ca4cde8b98fb31780be38f7871e004",
+      "parent": "7c0d4b44d9ecd6aa6c3e3ade66f8f1a24a459c86",
+      "files": [
+        "README.md"
+      ]
+    },
+    {
+      "name": "Aristotle_EFMW_Lean",
+      "sha": "ed153533d7d7cfff8c58dbef226d797edc4cfd81",
+      "parent": "c44699f0f47a3255366b4f60922df2a73226a36e",
+      "files": [
+        "index.html",
+        "README.md"
+      ]
+    },
+    {
+      "name": "Fox",
+      "sha": "7756e6acaeadcfd479b00bf47f470256d8972452",
+      "parent": "c50de5aecb3c65deff1b05aefe05a75c250cd898",
+      "files": [
+        "README.md",
+        "MANIFEST.sha256"
+      ]
+    },
+    {
+      "name": "Lynx",
+      "sha": "9435a8a0e4f458ad87055fc276dd56b0f7a5baab",
+      "parent": "db67c4a4547cb61d79ac05d40b0458b81e2ae0e1",
+      "files": [
+        "README.md"
+      ]
+    },
+    {
+      "name": "lean-worker",
+      "sha": "d7fda809cd92b0fd000caff5241364f0919205d7",
+      "parent": "f642f955e14aee579f9b533fd7b72b52efa9d01a",
+      "files": [
+        "README.md"
+      ]
+    },
+    {
+      "name": "Monolithic-Zoo-Lean4",
+      "sha": "0bb38dc7c0fe144cec46b6917d08dfc713502616",
+      "parent": "8e9a109b7f10522b2c8f92c892c718f939cff578",
+      "files": [
+        "README.md",
+        "MANIFEST_SHA256.txt"
+      ]
+    },
+    {
+      "name": "Phoenix",
+      "sha": "c43fb5252855bb47f65501b45a11f2f91273b36a",
+      "parent": "88b070c3900d5ce933db62278273cde95cd57824",
+      "files": [
+        "README.md"
+      ]
+    },
+    {
+      "name": "Monlithic_EFMW_102_Lean4",
+      "sha": "10e7d6a17ff22c6e14e74370bcd4147280f7db33",
+      "parent": "7d2226860109eb8308a84b51acfddd71cd94cd24",
+      "files": [
+        "README.md"
+      ]
+    },
+    {
+      "name": "Weasel",
+      "sha": "75c422ecb905a06b87980136334453675119db2b",
+      "parent": "b006f9487f87484a25ae2f7ae6e3de26d8dc3d01",
+      "files": [
+        "README.md"
+      ]
+    },
+    {
+      "name": "Turtle",
+      "sha": "c30c665a61bba6bf051f0cb7cb58c3edc2f23bb1",
+      "parent": "7b803e28033e3dc38fbb9ad2ad65e86df56e13fd",
+      "files": [
+        "README.md",
+        "MANIFEST.sha256"
+      ]
+    },
+    {
+      "name": "Octopus",
+      "sha": "0b62d68e722c1c5b2394a3ecbca3ddce8f4c1a3d",
+      "parent": "ea21acb6330e32512e3f226f01f70598554eaac8",
+      "files": [
+        "README.md",
+        "MANIFEST.sha256"
+      ]
+    },
+    {
+      "name": "Bonobo",
+      "sha": "fb288618e93e04730ee8d06a79cfd158b78d6dd0",
+      "parent": "ab564e18519eaec45119b6ce5408a4edeab7684b",
+      "files": [
+        "README.md"
+      ]
+    },
+    {
+      "name": "Hive",
+      "sha": "a67d9ed815731b22754fc614e4b40ad1fbaada52",
+      "parent": "2a9949d101dcc39ab4e58d8dea97501cbe44a778",
+      "files": [
+        "README.md",
+        "MANIFEST.sha256"
+      ]
+    },
+    {
+      "name": "Archimedes-Engine",
+      "sha": "c98584c3b9b43531d5677d68ba3c875a681587e8",
+      "parent": "a5ba9759405c271326b59923ff93fe5d47d8b852",
+      "files": [
+        "index.html",
+        "README.md",
+        "SHA256SUMS.txt"
+      ]
+    },
+    {
+      "name": "Orca",
+      "sha": "80de1ffccb9404c752976c3fe0c1d4c1da38ceeb",
+      "parent": "fa4117505e5836e3036bf26b97908cf09d7e3a05",
+      "files": [
+        "README.md"
+      ]
+    },
+    {
+      "name": "Rhino",
+      "sha": "c73ccc90d187c2c8b3eefa542a340d77edb2617c",
+      "parent": "a6aa9c86d6dcb371131d16afa006976e2d473f50",
+      "files": [
+        "README.md"
+      ]
+    },
+    {
+      "name": "Eagle",
+      "sha": "b1478aded463ebf1b960a0cfc48b0f39d37a850d",
+      "parent": "53b839907b0fbf7cf71a8ad370096c14675cf53e",
+      "files": [
+        "README.md",
+        "MANIFEST.sha256"
+      ]
+    },
+    {
+      "name": "Alchemy-of-Emergence",
+      "sha": "3a2f2304d3f844a6d3aeebfb9b0ff0f0350de442",
+      "parent": "843b69d52c3754b974fbf9d67675856e53b088d7",
+      "files": [
+        "index.html",
+        "README.md"
+      ]
+    },
+    {
+      "name": "FieldSpace",
+      "sha": "5f37f77add2785baf0272dd9a71bdda27a8dbfb8",
+      "parent": "320a5c43e4a900784e2ef8fba72c4e6180df5f0d",
+      "files": [
+        "index.html",
+        "README.md"
+      ]
+    },
+    {
+      "name": "Termite",
+      "sha": "535cc02be7070d1dc03066fd9ede3177c3fb0daa",
+      "parent": "12cc38092ae05d9e9478aba4717789ab290f96ff",
+      "files": [
+        "README.md"
+      ]
+    },
+    {
+      "name": "Nightengale",
+      "sha": "7c742a4004fbe110f97872d478b57310b81d4a86",
+      "parent": "206d173bc081215e869cd67ae2a3aecd76231970",
+      "files": [
+        "README.md"
+      ]
+    },
+    {
+      "name": "Penguin",
+      "sha": "a2b73b92e05cc25f67d3c11191d6def7d556f2e9",
+      "parent": "78a49a59131ccf546cbc54dd9537e03608a7d8f7",
+      "files": [
+        "README.md",
+        "MANIFEST.sha256"
+      ]
+    },
+    {
+      "name": "EFMW-FULL",
+      "sha": "bfb746ef502cb7e3b0b96462fb72151d23bfbb3d",
+      "parent": "0aff737b2d69fff7c83e05d44b9aa2d0385ec798",
+      "files": [
+        "README.md",
+        "MANIFEST_SHA256.txt"
+      ]
+    },
+    {
+      "name": "Crab",
+      "sha": "c8500c2ff8ffc55f47c5bb4d56f0a6cfd005b53b",
+      "parent": "7f9b90eb71f33aaf3e1f773b02bad8fa99922fe5",
+      "files": [
+        "README.md",
+        "MANIFEST.sha256"
+      ]
+    },
+    {
+      "name": "Moth",
+      "sha": "76097f975cbc580df23bb25212555201083a92c5",
+      "parent": "221723f898969ae2a3fe709af2c83c0e6816a40d",
+      "files": [
+        "README.md",
+        "MANIFEST.sha256"
+      ]
+    },
+    {
+      "name": "Dragon",
+      "sha": "801be25e0bd36ea47dd7502b109dfc59344c719b",
+      "parent": "ff3c9a15fa7091996e761e019c396bbf0d0046bb",
+      "files": [
+        "README.md",
+        "MANIFEST.sha256"
+      ]
+    },
+    {
+      "name": "Jellyfish",
+      "sha": "047473317af73615bdaaa0f340f037ec37eb43f5",
+      "parent": "67480b2043ff7fb75f88b4af1a9b78bd58adcd64",
+      "files": [
+        "README.md"
+      ]
+    },
+    {
+      "name": "Magpie",
+      "sha": "db00c565c04ac4ba37663e1b6e397d4a8841a54a",
+      "parent": "eff45f4882bc58282651a613790ec8326dc5ac9b",
+      "files": [
+        "README.md"
+      ]
+    },
+    {
+      "name": "Pulse",
+      "sha": "1da72620882d6edad9ff0ebcf5da88174f440d96",
+      "parent": "7b5bae2bbca46c5799512fc52d781552b498ed4a",
+      "files": [
+        "README.md",
+        "MANIFEST.sha256"
+      ]
+    },
+    {
+      "name": "Shepherd",
+      "sha": "d44f92657c4196867827c1e166f9f9eb41165b65",
+      "parent": "dd08e72715ded5f1cd373bb69081d9e4dd637278",
+      "files": [
+        "README.md",
+        "MANIFEST.sha256"
+      ]
+    },
+    {
+      "name": "P-NP",
+      "sha": "cdb5019ec0c1b461cf3a8fcb36248de05df52d89",
+      "parent": "083413bebf8fe1c4369a885a58307abb4fa3a853",
+      "files": [
+        "index.html",
+        "README.md"
+      ]
+    },
+    {
+      "name": "monster",
+      "sha": "c900aa626709cfb2276a20ece02f1097dfb4cc59",
+      "parent": "120db9ec9a9470edc9d2db8df560beccdc3c54a4",
+      "files": [
+        "README.md",
+        "web/index.html",
+        "wasm_lattice_matcher/index.html",
+        "monster-shards/index.html",
+        "showcase/index.html",
+        "public/index.html",
+        "archive_org_reader/index.html",
+        "monster-shards/shard-70/demo/index.html",
+        "monster-shards/shard-22/demo/index.html",
+        "monster-shards/shard-45/demo/index.html",
+        "monster-shards/shard-05/demo/index.html",
+        "monster-shards/shard-11/demo/index.html",
+        "monster-shards/shard-63/demo/index.html",
+        "monster-shards/shard-02/demo/index.html",
+        "monster-shards/shard-30/demo/index.html",
+        "monster-shards/shard-29/demo/index.html",
+        "monster-shards/shard-01/demo/index.html",
+        "monster-shards/shard-68/demo/index.html",
+        "monster-shards/shard-69/demo/index.html",
+        "monster-shards/shard-55/demo/index.html",
+        "monster-shards/shard-71/demo/index.html",
+        "monster-shards/shard-28/demo/index.html",
+        "monster-shards/shard-62/demo/index.html",
+        "monster-shards/shard-25/demo/index.html",
+        "monster-shards/shard-08/demo/index.html",
+        "monster-shards/shard-21/demo/index.html",
+        "monster-shards/shard-37/demo/index.html",
+        "monster-shards/shard-27/demo/index.html",
+        "monster-shards/shard-32/demo/index.html",
+        "monster-shards/shard-09/demo/index.html",
+        "monster-shards/shard-34/demo/index.html",
+        "monster-shards/shard-35/demo/index.html",
+        "monster-shards/shard-52/demo/index.html",
+        "monster-shards/shard-64/demo/index.html",
+        "monster-shards/shard-13/demo/index.html",
+        "monster-shards/shard-24/demo/index.html",
+        "monster-shards/shard-36/demo/index.html",
+        "monster-shards/shard-15/demo/index.html",
+        "monster-shards/shard-44/demo/index.html",
+        "monster-shards/shard-61/demo/index.html",
+        "monster-shards/shard-47/demo/index.html",
+        "monster-shards/shard-59/demo/index.html",
+        "monster-shards/shard-43/demo/index.html",
+        "monster-shards/shard-19/demo/index.html",
+        "monster-shards/shard-10/demo/index.html",
+        "monster-shards/shard-04/demo/index.html",
+        "monster-shards/shard-56/demo/index.html",
+        "monster-shards/shard-07/demo/index.html",
+        "monster-shards/shard-38/demo/index.html",
+        "monster-shards/shard-33/demo/index.html",
+        "monster-shards/shard-54/demo/index.html",
+        "monster-shards/shard-40/demo/index.html",
+        "monster-shards/shard-23/demo/index.html",
+        "monster-shards/shard-12/demo/index.html",
+        "monster-shards/shard-14/demo/index.html",
+        "monster-shards/shard-60/demo/index.html",
+        "monster-shards/shard-51/demo/index.html",
+        "monster-shards/shard-50/demo/index.html",
+        "monster-shards/shard-26/demo/index.html",
+        "monster-shards/shard-49/demo/index.html",
+        "monster-shards/shard-18/demo/index.html",
+        "monster-shards/shard-41/demo/index.html",
+        "monster-shards/shard-17/demo/index.html",
+        "monster-shards/shard-39/demo/index.html",
+        "monster-shards/shard-42/demo/index.html",
+        "monster-shards/shard-53/demo/index.html",
+        "monster-shards/shard-16/demo/index.html",
+        "monster-shards/shard-46/demo/index.html",
+        "monster-shards/shard-57/demo/index.html",
+        "monster-shards/shard-31/demo/index.html",
+        "monster-shards/shard-03/demo/index.html",
+        "monster-shards/shard-65/demo/index.html",
+        "monster-shards/shard-48/demo/index.html",
+        "monster-shards/shard-20/demo/index.html",
+        "monster-shards/shard-58/demo/index.html",
+        "monster-shards/shard-06/demo/index.html",
+        "monster-shards/shard-67/demo/index.html",
+        "monster-shards/shard-66/demo/index.html"
+      ]
+    },
+    {
+      "name": "medium",
+      "sha": "406a7534213820c8dcda04653d66dc7482c2678f",
+      "parent": "d501f8c2829483a4d996fca758aef94d9de73434",
+      "files": [
+        "index.html",
+        "README.md",
+        "papers-essays-index.html"
+      ]
+    },
+    {
+      "name": "Verbinski-Protocol",
+      "sha": "017868776275fc58ccc714e22f0467da140bd053",
+      "parent": "ddcef706c2ddd4848e9a8a52951313530d95cc3a",
+      "files": [
+        "index.html",
+        "README.md",
+        "SHA256SUMS.txt"
+      ]
+    },
+    {
+      "name": "Cadence-Zoo-Evidence",
+      "sha": "36cd5a2757036e9b2ac0f12ae771bac49206a1c5",
+      "parent": "72c507f45e79c03b34da3708761c357d26e3c98b",
+      "files": [
+        "index.html",
+        "readme.md"
+      ]
+    },
+    {
+      "name": "Medium3",
+      "sha": "a32030695867bd7c4896b0876e1bb0e88f995b14",
+      "parent": "0a8a9c87dbf81ccecd22ab12e9ee0f7c8eced4ab",
+      "files": [
+        "index.html",
+        "README.md"
+      ]
+    },
+    {
+      "name": "Research-Program",
+      "sha": "e3fac0207b17d10a1dfd737d9125724da1a7d640",
+      "parent": "458b25608caf972b62e507ca6e7c8962f5cbed31",
+      "files": [
+        "index.html",
+        "README.md"
+      ]
+    },
+    {
+      "name": "docs",
+      "sha": "c088c3ad03cc7fb06d7b4fa545aac885ac809057",
+      "parent": "a463475c3302082a0a06d65fbbf1d98dfe5027f9",
+      "files": [
+        "README.md"
+      ]
+    },
+    {
+      "name": "Ligo_EFMW_Search",
+      "sha": "2e6e68c30d1014951a7c411cc7a12bf6754aba5f",
+      "parent": "44b11e0d7d542f11ce999d7df37d0907551f28f2",
+      "files": [
+        "readme.md"
+      ]
+    },
+    {
+      "name": "Monolithic_Zoo_Run",
+      "sha": "31018feab20ac1f5c2759c619003a537d94ddf31",
+      "parent": "8e8ab2fd8d3f79cfb0ed0043ceadd66ab14a2208",
+      "files": [
+        "README.md"
+      ]
+    },
+    {
+      "name": "woodpecker",
+      "sha": "d281b313020cfef0183a883746aaa3ff4caafbfa",
+      "parent": "18986b3341e475beb389e6da6bdd19bc50572018",
+      "files": [
+        "README.md",
+        "MANIFEST.md"
+      ]
+    },
+    {
+      "name": "EFMW-Constants-Problem",
+      "sha": "48594b184adec7e5e250fb0d917c065a0ab0c3ed",
+      "parent": "b7bc07ec244f783c76cd6f03dff648894881c6bf",
+      "files": [
+        "index.html",
+        "README.md"
+      ]
+    },
+    {
+      "name": "Wrights-Law",
+      "sha": "1d7e494ec3e44d5361bd3c3264957290ed6bb6b0",
+      "parent": "84a1bf7fa3940c92230e7569aab62742d6e83a92",
+      "files": [
+        "index.html",
+        "README.md"
+      ]
+    },
+    {
+      "name": "Oroboros",
+      "sha": "4c3560addaf141fa026a3324fd8e4d839646151b",
+      "parent": "b9abfb674d48c948affb9f0aed522ed8c7661d1a",
+      "files": [
+        "index.html",
+        "README.md"
+      ]
+    },
+    {
+      "name": "Universal-Cognitive-Attractor",
+      "sha": "aae009a51406a5bd0b3efe5414929be8c63bfa26",
+      "parent": "af4669beec43c9c1bf6502193049ed43de2c9e89",
+      "files": [
+        "index.html",
+        "README.md"
+      ]
+    },
+    {
+      "name": "Borges-Library-CollapseOmega",
+      "sha": "72d734a7d9a5ad704dc67c3c91e5894c5ad81562",
+      "parent": "216416af963a7fc1b9211b27f14519977ec1516b",
+      "files": [
+        "index.html",
+        "README.md"
+      ]
+    },
+    {
+      "name": "Chimera",
+      "sha": "b5e35e71d6454462e0da24d8bb2ea90e80520471",
+      "parent": "96380ad9754e11bd8997c3bc7afe732a1121830c",
+      "files": [
+        "README.md",
+        "MANIFEST.sha256"
+      ]
+    },
+    {
+      "name": "EFMW-108-Minute-Tests",
+      "sha": "f22e7102080cbbeb690ef1ccaab3b123d2e99ae6",
+      "parent": "8dc2a64ffc9f7c381d0c21ff677ccbaa316c6165",
+      "files": [
+        "README.md"
+      ]
+    },
+    {
+      "name": "EFMW-CTX-001b",
+      "sha": "b931fd75e8b9d4a90e62c5704bdedf050cc094a6",
+      "parent": "5219abf2c3d78e41b3082299f29d311d8fea4ef7",
+      "files": [
+        "README.md",
+        "SHA256SUMS"
+      ]
+    },
+    {
+      "name": "Aristotle-Agreement-and-Surprise-Global-Equalibrium-from-Local-Repair",
+      "sha": "aa4858d49a6aaac52c14b5d9b9db48855f36f64c",
+      "parent": "dc35a1e2584e3aa57452c919140365b5b582ef07",
+      "files": [
+        "index.html",
+        "README.md"
+      ]
+    },
+    {
+      "name": "Medium2",
+      "sha": "53ea43bd81f6828d6667b3a306f77847530273fc",
+      "parent": "4efa8bb743e06c52a7e7a397e61f431799e67a54",
+      "files": [
+        "index.html",
+        "README.md"
+      ]
+    },
+    {
+      "name": "EFMW-Axioms",
+      "sha": "0d93da466a836b99d79a19c1a4c2bff716d5250c",
+      "parent": "0da0cc1e5532c1a638922bfbff8c015ec88a7141",
+      "files": [
+        "index.html",
+        "README.md"
+      ]
+    },
+    {
+      "name": "efmw-research-cache",
+      "sha": "67dffe3e4a57ecae93cb4e0731ffe73b060b5657",
+      "parent": "f1b47acc4f2b475d51191162d4a3936e5496825f",
+      "files": [
+        "README.md"
+      ]
+    },
+    {
+      "name": "Einsteinian-156-Aristotle",
+      "sha": "d12ca70468c0425c39c7ba87d6eeae2ddde1b3c2",
+      "parent": "6235537e8f5ad4b0f2ae712c7b954e458a9e140a",
+      "files": [
+        "README.md"
+      ]
+    },
+    {
+      "name": "EFMW-Neutron-Star-Glitch-Resonance",
+      "sha": "8b151a0f59c1e51c067d89e4b7f7e7878e40172c",
+      "parent": "1ddae6d146bd5b978c14727b73c4ac5ae9fd003a",
+      "files": [
+        "index.html",
+        "README.md"
+      ]
+    },
+    {
+      "name": "DePIN",
+      "sha": "ef45d7dc6110fac153d27517f7da8a6c45d76daa",
+      "parent": "4545aab31fa659bf090e6d7dfb4725f310d22a28",
+      "files": [
+        "README.md"
+      ]
+    },
+    {
+      "name": "EFMW-Scientific-Claims",
+      "sha": "7bbbb42d1da845a0edca9aa6db8109f15ead794a",
+      "parent": "fc6a0b6f84c846284f08f088118bc33f15329e41",
+      "files": [
+        "index.html",
+        "README.md"
+      ]
+    },
+    {
+      "name": "accelerando-8192",
+      "sha": "3c053c54384f50aa618f8b47729e8933351d0396",
+      "parent": "b1e789d50ce92af0ce142675d38da451d0c8d078",
+      "files": [
+        "README.md",
+        "docs/index.html"
+      ]
+    },
+    {
+      "name": "Monolithic-102-Zoo-Lean4",
+      "sha": "1f7c6db4d7f9e52139744a166b768b609bc850fc",
+      "parent": "17702d570893e1f006fea97714213847cc415d57",
+      "files": [
+        "README.md",
+        "MANIFEST.sha256"
+      ]
+    },
+    {
+      "name": "Zoo-Monster",
+      "sha": "95f475ccffa30afe1853659dfd9431734b2788e0",
+      "parent": "bf84a609d0c0847f2e0073837ae3c5c5443410e7",
+      "files": [
+        "README.md"
+      ]
+    },
+    {
+      "name": "Aristotle-eNuminous",
+      "sha": "ec7ff48618f1800e000705fcbed3f4497fc6ec98",
+      "parent": "1a530bfb88bb1b352b0f623913f9c9b0c574843a",
+      "files": [
+        "index.html",
+        "README.md"
+      ]
+    },
+    {
+      "name": "Archimedes-3D",
+      "sha": "1a6a138d95c4724a5affed6930351949e6bd77cf",
+      "parent": "e82cd68fbb1e1ea95cfde9612f8b3f888dee9a38",
+      "files": [
+        "index.html",
+        "README.md",
+        "SHA256SUMS.txt",
+        "world3d/index.html"
+      ]
+    },
+    {
+      "name": "Codex-888",
+      "sha": "13fbf582790b22e8cfe406e9ec2e68faf7df3f46",
+      "parent": "882aeff71588964245f853cfac68914b03112ad7",
+      "files": [
+        "index.html",
+        "README.md"
+      ]
+    },
+    {
+      "name": "Multiverse-Simulator",
+      "sha": "cd8374de34d8f7e19b7c2a431dec07be1b97fd80",
+      "parent": "a0f7dc529a4ede38056b4d6fb54faedb6a12d35d",
+      "files": [
+        "index.html",
+        "README.md",
+        "MANIFEST.sha256"
+      ]
+    },
+    {
+      "name": "simself",
+      "sha": "c9c860d322c581581053ef6ad1c5d8a0f7dd61a0",
+      "parent": "03f0372b895fdfd42bed0ba1172c63425da7b3fb",
+      "files": [
+        "README.md"
+      ]
+    },
+    {
+      "name": "EFMW-Safety-001",
+      "sha": "08cf46df0a05395617b37f59c9d170ac86674025",
+      "parent": "9dfdfcd3164b9ee10488afaaeab443049bad07fd",
+      "files": [
+        "README.md",
+        "MANIFEST_SHA256.txt"
+      ]
+    },
+    {
+      "name": "efmw-equation-review",
+      "sha": "067ba894e365e07f7043572841143b11d600486b",
+      "parent": "e26fd8c7036708a1b25239d8a68ee1b8f0ac3362",
+      "files": [
+        "README.md"
+      ]
+    },
+    {
+      "name": "Aristotle-102-Monolithic-Lean",
+      "sha": "67dd8f2451da28606c84b17b2b6547ee303643d1",
+      "parent": "1837cfe25fc93d5606cc3abd45407199f70f7418",
+      "files": [
+        "index.html",
+        "README.md"
+      ]
+    },
+    {
+      "name": "I-Have-Guts",
+      "sha": "eca418e38c7c976b23a711529eb11b8cd482edb6",
+      "parent": "c8b9cb6a790f6e4551336d5899857991b65ed0f2",
+      "files": [
+        "index.html",
+        "README.md"
+      ]
+    },
+    {
+      "name": "EFMW-EXP-001",
+      "sha": "65134993069c2dc0c46a60fccd8bcdb2d951cdd3",
+      "parent": "aa7cc9183220df1eb39537107f38cbce8f51e515",
+      "files": [
+        "README.md",
+        "MANIFEST_SHA256.txt"
+      ]
+    },
+    {
+      "name": "Nightengale-Full-Zoo-Audit",
+      "sha": "e97c6fe9b6917dfee1a07a75514f3d88fb8f3343",
+      "parent": "17a10ffa443110fb46beb994d104bfdb71dab18b",
+      "files": [
+        "readme.md"
+      ]
+    },
+    {
+      "name": "BackroomsProtocol-EFMW-Analysis",
+      "sha": "9d057fc56968b60d623b2e88b50948920037ee4d",
+      "parent": "e39cc8f57be4deac19dbedc8696a8ae57c68cc20",
+      "files": [
+        "README.md"
+      ]
+    },
+    {
+      "name": "OpenAI-math",
+      "sha": "aa77fc285688684a94452933df5eecaecdbaacac",
+      "parent": "5e1a1152c35008422e5f56691c424ab68880538a",
+      "files": [
+        "README.md"
+      ]
+    },
+    {
+      "name": "Coherence-Prediction-Engine",
+      "sha": "5337c0d9600665b4ac9a0d514d3b84d28cf57f35",
+      "parent": "4f4999f7caaeb0f45fab746baf727ee4154fd900",
+      "files": [
+        "index.html",
+        "README.md",
+        "SHA256SUMS.txt"
+      ]
+    },
+    {
+      "name": "Aristotle-165-Einsteinian-Tensors",
+      "sha": "92cfe299f719a203a40538d1ff609960a10983fb",
+      "parent": "6464e03e2a431c1d8b2c3616d846e142ab23072d",
+      "files": [
+        "index.html",
+        "README.md"
+      ]
+    },
+    {
+      "name": "Emergentology",
+      "sha": "6857e865b7ca32628cb84868b09dc6c5b4cf73c9",
+      "parent": "d79228b413a3ae3a67633ed9b7f78b9a6227adc1",
+      "files": [
+        "index.html",
+        "README.md"
+      ]
+    },
+    {
+      "name": "Circus",
+      "sha": "647c91dc06b4ea48871c06608298b46f00f68f99",
+      "parent": "d6ffb129a4614915b32faeaeafc5efea52484388",
+      "files": [
+        "README.md"
+      ]
+    },
+    {
+      "name": "Harlequinn",
+      "sha": "96c74761b7c1b55973feaa1b69764750033a7d06",
+      "parent": "72be3bf5d01ba08729e88085d2bca817c96cdfba",
+      "files": [
+        "README.md"
+      ]
+    },
+    {
+      "name": "fieldcore",
+      "sha": "166da736d5636a1761f26585f39e01fbaaf0d4ec",
+      "parent": "94a20c330e56cd2a99400590c7c45dc185979b5a",
+      "files": [
+        "README.md"
+      ]
+    },
+    {
+      "name": "Archimedes-Field-Lab",
+      "sha": "869c784f99d69228a4d374a8f7865d0c64cdcd52",
+      "parent": "0aa7a6b1b940d295904e1008a85495b29782b985",
+      "files": [
+        "index.html",
+        "README.md"
+      ]
+    },
+    {
+      "name": "Avenue5",
+      "sha": "0db050107becf06d032192340f29fc8dec239c7a",
+      "parent": "bf6d80b4efec6faf028a68dd3a28c9b5c38bf3f3",
+      "files": [
+        "index.html",
+        "README.md"
+      ]
+    },
+    {
+      "name": "oph-lab",
+      "sha": "f02ff28a068a3b67436a00a011519a40e7d7a939",
+      "parent": "ab97f4bfe814b36d373f52976d96610febabf9a2",
+      "files": [
+        "index.html",
+        "README.md"
+      ]
+    },
+    {
+      "name": "meta-meme",
+      "sha": "d0e20cd3ca678ee28c5d6674722016054f088e0b",
+      "parent": "7c0694fddfad60ce9511816fd19325044014d254",
+      "files": [
+        "README.md"
+      ]
+    }
+  ],
+  "audit_repository_commit": "The commit containing this receipt; omitted here to avoid a self-referential commit hash."
+}

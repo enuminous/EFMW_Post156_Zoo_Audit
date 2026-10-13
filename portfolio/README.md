@@ -2,7 +2,7 @@
 
 The [interlocking audit](INTERLOCK_AUDIT.md) records the source snapshot, findings and limits. The [public directory](https://enuminous.github.io/EFMW/repositories.html) connects every public repository.
 
-`repositories.json` is the public snapshot. `navigation.json` sets the major destinations. `navigation-template.html` is the exact shared bar, with `__REPOSITORY__` as its only per-repository slot. Menus are embedded locally so they work without a shared JavaScript service. The all-Pages list and registry are snapshot data, not an automatic discovery service.
+`repositories.json` is the public snapshot. `navigation.json` sets the major destinations. `navigation-template.html` is the exact shared bar, with `__REPOSITORY_URL__` and `__README_URL__` as per-repository slots. Menus are embedded locally so they work without a shared JavaScript service. The all-Pages list and registry are snapshot data, not an automatic discovery service.
 
 To check or refresh a local checkout:
 
@@ -18,3 +18,7 @@ When adding a repository, update the public registry and the canonical template 
 Markers are `ENUMINOUS-NETWORK` in Markdown and `ENUMINOUS-NAV` in HTML. The bar uses scoped styles, ordinary links and native details controls. Existing local navigation stays intact. The menu is not a claim registry or a scientific validation badge.
 
 Frozen evidence receipts remain historical. `EFMW-108-Minute-Tests/FREEZE_MANIFEST.sha256` still describes its original README, linked from that repository's navigation note. All experimental data and prediction freezes remain unchanged.
+
+## October 13, 2026 refresh
+
+The [refresh report](NAVIGATION_REFRESH_2026-10-13.md) records nine additions and verified publication links. `recent_repositories` in `navigation.json` drives the compact recent-project links in every root README. The HTML template contains the matching Recent menu and the verified All Pages menu. `page_urls` in each registry record maps source indexes to URLs that were actually checked; do not infer published paths from repository paths. The `source_commit` values identify the pre-refresh inventory. Historical audit and freeze receipts remain unchanged.

@@ -1,5 +1,5 @@
 {
-  "schema_version": 1,
+  "schema_version": 2,
   "directory": "https://enuminous.github.io/EFMW/repositories.html",
   "audit": "https://github.com/enuminous/EFMW_Post156_Zoo_Audit/blob/main/portfolio/INTERLOCK_AUDIT.md",
   "major_links": [
@@ -35,5 +35,17 @@
       "Audit",
       "https://github.com/enuminous/EFMW_Post156_Zoo_Audit/blob/main/portfolio/INTERLOCK_AUDIT.md"
     ]
-  ]
+  ],
+  "recent_repositories": [
+    "Oroboros",
+    "P-NP",
+    "Research-Program",
+    "I-Have-Guts",
+    "Wrights-Law",
+    "Aristotle-eNuminous",
+    "Multiverse-Simulator",
+    "accelerando-8192",
+    "Codex-888"
+  ],
+  "refreshed_at_utc": "2026-10-13T19:56:33.075866+00:00"
 }
