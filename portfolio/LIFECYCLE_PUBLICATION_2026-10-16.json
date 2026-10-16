@@ -1,0 +1,217 @@
+{
+  "review_date": "2026-10-16",
+  "scope": "Documentation-only lifecycle markings in ten affected repositories. The central report commit is the commit containing this receipt; it cannot contain its own future commit SHA.",
+  "verification": "Remote branch heads matched the published commits. Complete recursive trees confirmed that only the listed paths changed and all recorded Git blob SHAs matched. Code, proof sources, article HTML and data blobs were unchanged.",
+  "publications": [
+    {
+      "repository": "Monlithic_EFMW_102_Lean4",
+      "branch": "main",
+      "previous_commit": "f78371353c66daeddb2ae15877a7520c492ae1e0",
+      "commit": "6352694cc76bd2b8d847163ffec0c0b71198c557",
+      "tree": "2884a4c5acb17b11952310bf508d3a7858380a78",
+      "url": "https://github.com/enuminous/Monlithic_EFMW_102_Lean4/commit/6352694cc76bd2b8d847163ffec0c0b71198c557",
+      "files": [
+        {
+          "path": "README.md",
+          "git_blob_sha": "eb8e2e995cc4546f9eddd8a655a1c175a93679fa",
+          "sha256": "c01d08aa50c989a9a75a15749c6f5ccaeeb06c987d73dc44dbf4781686111370"
+        }
+      ]
+    },
+    {
+      "repository": "Monolithic_Zoo_Run",
+      "branch": "main",
+      "previous_commit": "b5d248741f4666b95d8a59cbb06678224fb3f38f",
+      "commit": "54e6cf6727ca24aac7e95ff3e3a8a1f978059a01",
+      "tree": "10d69e0b49be9e793164c5fcbadbca464d24d588",
+      "url": "https://github.com/enuminous/Monolithic_Zoo_Run/commit/54e6cf6727ca24aac7e95ff3e3a8a1f978059a01",
+      "files": [
+        {
+          "path": "README.md",
+          "git_blob_sha": "73a62db55b1d0a3a00e6f5ecb8fd7bfab53e0292",
+          "sha256": "6d0ab04960e1c09679981f5dc119eb77048f1ce30a066722e945a222fce94bfd"
+        }
+      ]
+    },
+    {
+      "repository": "Nightengale-Full-Zoo-Audit",
+      "branch": "main",
+      "previous_commit": "49b46c369ad55f6415edf59f19f8974fe61148cf",
+      "commit": "9cd333e6468a6aba347ea964debf4e1ef2863c98",
+      "tree": "dc5dc6488d26255c0fa831bc0c6e40ce774af52c",
+      "url": "https://github.com/enuminous/Nightengale-Full-Zoo-Audit/commit/9cd333e6468a6aba347ea964debf4e1ef2863c98",
+      "files": [
+        {
+          "path": "readme.md",
+          "git_blob_sha": "35b508473545876d6294ed727b7ddc89ca9275fa",
+          "sha256": "a23f40ce6fb21dd16f18b17b3c9ee43bd5b6c0431aae0c16faf91ae03c535f43"
+        },
+        {
+          "path": "REPORT.md",
+          "git_blob_sha": "162ea61baaf6afa9d7be131a303c9bc6fad2d1fc",
+          "sha256": "442d481a43a81b971d25ef1d52ed520ec7abb302fb0ff1f6b9aa18784487c7a8"
+        },
+        {
+          "path": "MANIFEST_SHA256.txt",
+          "git_blob_sha": "231e60e3e869f61a4756c4013ed42ff58476e302",
+          "sha256": "e8bf004dadbd6a56a466796b2f76c8191b304150726abb8659d761482aea0df5"
+        }
+      ]
+    },
+    {
+      "repository": "Einsteinian-156-Aristotle",
+      "branch": "main",
+      "previous_commit": "13aeb327c44cf907d2c1c44b27e875f9027634cf",
+      "commit": "9a0322b6272ee7badd2e430748ce6399bfe68969",
+      "tree": "7f90e4d9a90fadcfcfad5c5eb813d179c7a910a6",
+      "url": "https://github.com/enuminous/Einsteinian-156-Aristotle/commit/9a0322b6272ee7badd2e430748ce6399bfe68969",
+      "files": [
+        {
+          "path": "README.md",
+          "git_blob_sha": "2080f2e879052ef35008fc52b9775d9868efe099",
+          "sha256": "f673925f1a40ce586f7a9fa8ef37baa89f16d96efa50341c4ff0e642c1e020f3"
+        },
+        {
+          "path": "GLUING_AUDIT.md",
+          "git_blob_sha": "83d203dffeb2b3e4a10749b3181a27cf6b72201f",
+          "sha256": "29fe35921d4fd7ad5a0714528b59132ffdd8fc161ed1b7e2a11ad04f416d0963"
+        },
+        {
+          "path": "GLOBAL_RECONSTRUCTION.md",
+          "git_blob_sha": "2e5ede8a4e691e2f3bb6ad7006642a241c8da170",
+          "sha256": "fefa974fe15ec2a1bcf55e8784bef17c05aaaf86ceafbf6dde4da064223b18dd"
+        },
+        {
+          "path": "RECONSTRUCTION.md",
+          "git_blob_sha": "52374f17984e225c0ba1fa8293e8ca717c173cfb",
+          "sha256": "ebe4549518b672262c9d653c3d393bfee82694e9764bcb42779f11514e853faa"
+        }
+      ]
+    },
+    {
+      "repository": "medium",
+      "branch": "main",
+      "previous_commit": "406a7534213820c8dcda04653d66dc7482c2678f",
+      "commit": "5e64689cdfd37eb2dd11cc39b588a83b5296aaa0",
+      "tree": "7c6196453d3db09f723ab3e6e6bc5bf58d57ff11",
+      "url": "https://github.com/enuminous/medium/commit/5e64689cdfd37eb2dd11cc39b588a83b5296aaa0",
+      "files": [
+        {
+          "path": "README.md",
+          "git_blob_sha": "4053bb0ddb6a5ec8fe67f5fa4d435be58e4e6bb4",
+          "sha256": "2ae4062ae0e1f4cb813e9308fd201d3289ab4aeb0975260325cc731f775a2e42"
+        }
+      ]
+    },
+    {
+      "repository": "Medium2",
+      "branch": "main",
+      "previous_commit": "53ea43bd81f6828d6667b3a306f77847530273fc",
+      "commit": "56e6d7a9ff216c0b4147a132d1d187d3ea3f3f33",
+      "tree": "929965e89a71f986a9f6c3f2cdf1bbaafd7cf900",
+      "url": "https://github.com/enuminous/Medium2/commit/56e6d7a9ff216c0b4147a132d1d187d3ea3f3f33",
+      "files": [
+        {
+          "path": "README.md",
+          "git_blob_sha": "18270ceb52823d25e6b0a3199aab1ee6a41c78ce",
+          "sha256": "35e55ed9fc3ef5843063bae1a4cf8a62973cd6322819ca38c962653036dfaf0a"
+        },
+        {
+          "path": "DUPLICATE_ARTICLES.md",
+          "git_blob_sha": "027bd7de3eb67bc43504741fd5ae17a41d14ea15",
+          "sha256": "f7bb8846ded3a24c1065e63622c3ad65ea72c9cb73c1d51340f57275f6e30fb1"
+        }
+      ]
+    },
+    {
+      "repository": "EFMW-FULL",
+      "branch": "main",
+      "previous_commit": "bfb746ef502cb7e3b0b96462fb72151d23bfbb3d",
+      "commit": "c7c2054d2cc88f38a0f09c72207ab2aaf3fede26",
+      "tree": "625b4ac6f300f8d506a10224288a013a6dbc9847",
+      "url": "https://github.com/enuminous/EFMW-FULL/commit/c7c2054d2cc88f38a0f09c72207ab2aaf3fede26",
+      "files": [
+        {
+          "path": "README.md",
+          "git_blob_sha": "905e6e65d2cee84035c36a6865683d5540957bd6",
+          "sha256": "06ceb9083fa189bbf90674da4a50a08aad861681c1f731f789007b4557ccc8ad"
+        },
+        {
+          "path": "STATUS.md",
+          "git_blob_sha": "aac0885911a6b67d70f0f36ba480abe3c6682f2e",
+          "sha256": "800a36710c1848ab4c407c92289034626365b5a5c506568432e3d3ef9cd8483b"
+        },
+        {
+          "path": "RESULTS.md",
+          "git_blob_sha": "5b65ed2adde18634e0a1fbd675e2478b5188bbde",
+          "sha256": "a10451f06e795f17a8cc244cb081d7b1cf2c93658542bc73a93ff61c2118f916"
+        },
+        {
+          "path": "MANIFEST_SHA256.txt",
+          "git_blob_sha": "ef978e98ac9d5d0b172f26bc2f4235e8ae27bfaf",
+          "sha256": "785d9078213ce0830caaee16292797c6af5fda00c0b4f4f86b2389c9e8de46ac"
+        }
+      ]
+    },
+    {
+      "repository": "Archimedes-Engine",
+      "branch": "main",
+      "previous_commit": "f2f9b4dd9afaa0f27e82fd3821b9366d5034da79",
+      "commit": "17a8194fca776aabb013a5eaea1108839b717470",
+      "tree": "f4cfb190ed8ce91353e375a4495236275e7f0f30",
+      "url": "https://github.com/enuminous/Archimedes-Engine/commit/17a8194fca776aabb013a5eaea1108839b717470",
+      "files": [
+        {
+          "path": "README.md",
+          "git_blob_sha": "dd61ba5f9c7389b5fa2c5baf9297dec7f0037c02",
+          "sha256": "ca4c02e6f824eeb6d8d86106f0f28aafc47c58f60927535f81b8dffaee134041"
+        },
+        {
+          "path": "SHA256SUMS.txt",
+          "git_blob_sha": "5dc11e51a6a8fee36091f0af066bdd2bc6646e5b",
+          "sha256": "5185ab710d8b75410ea275ba63999da4eb7e0415b847a2f6704f37b4d6b7ad3c"
+        }
+      ]
+    },
+    {
+      "repository": "Archimedes-3D",
+      "branch": "main",
+      "previous_commit": "05fbf4fdd1c4dc3d9cf716ae31c694f43e371cb0",
+      "commit": "8fe93f8d4293752f55c5fd7b1685674ffffa837d",
+      "tree": "d31e5a921bfb30a7d9e0e75ddc5b89bde2153dcd",
+      "url": "https://github.com/enuminous/Archimedes-3D/commit/8fe93f8d4293752f55c5fd7b1685674ffffa837d",
+      "files": [
+        {
+          "path": "README.md",
+          "git_blob_sha": "ccf253f6ac81ce966af2d861479ada02cf232fc5",
+          "sha256": "0e3b6f551c1217ab637e95f0e524f100937e517aac043c40840358ac8486a86a"
+        },
+        {
+          "path": "SHA256SUMS.txt",
+          "git_blob_sha": "db94823504c80674cb28bec1c211edb911e6fee6",
+          "sha256": "1657a40b2191d34dd33b7fabb58a7d758999c5f759f174684a0d757c95809193"
+        }
+      ]
+    },
+    {
+      "repository": "EFMW-Lagrangian",
+      "branch": "main",
+      "previous_commit": "053043b8ccd44e55d9f73000cb078f31c74052a9",
+      "commit": "2e392b9fb5bbfa35667cd562787e23cadcc1623f",
+      "tree": "8e49772c9012b0666d0591357e20d4fa9cf0d926",
+      "url": "https://github.com/enuminous/EFMW-Lagrangian/commit/2e392b9fb5bbfa35667cd562787e23cadcc1623f",
+      "files": [
+        {
+          "path": "README.md",
+          "git_blob_sha": "4fcd15c8100f7487143ec616ad438271556e4584",
+          "sha256": "0ece5b292087a74b538428f0bba6569a2edfb00a8e4cd165e7356f0bccf92bcd"
+        },
+        {
+          "path": "MANIFEST.sha256",
+          "git_blob_sha": "c76c5a0fdd83bc5649866aab3b93de932fcb1fce",
+          "sha256": "8c14250b861afae9d7017d28bb1a818342a7ddda93004ebec30fc717c090411c"
+        }
+      ]
+    }
+  ]
+}

@@ -1,5 +1,13 @@
 # Repository navigation maintenance
 
+<!-- ENUMINOUS-LIFECYCLE:START -->
+**Lifecycle review — 2026-10-16: lifecycle and duplication inventory.**
+
+[The October 16 review](REPOSITORY_LIFECYCLE_2026-10-16.md) records all 119 public repository dispositions and exact duplicate evidence. The October 10/13 navigation inventories below retain their original snapshot counts.
+
+[Portfolio review and evidence](https://github.com/enuminous/EFMW_Post156_Zoo_Audit/blob/main/portfolio/REPOSITORY_LIFECYCLE_2026-10-16.md).
+<!-- ENUMINOUS-LIFECYCLE:END -->
+
 The [interlocking audit](INTERLOCK_AUDIT.md) records the source snapshot, findings and limits. The [public directory](https://enuminous.github.io/EFMW/repositories.html) connects every public repository.
 
 `repositories.json` is the public snapshot. `navigation.json` sets the major destinations. `navigation-template.html` is the exact shared bar, with `__REPOSITORY_URL__` and `__README_URL__` as per-repository slots. Menus are embedded locally so they work without a shared JavaScript service. The all-Pages list and registry are snapshot data, not an automatic discovery service.

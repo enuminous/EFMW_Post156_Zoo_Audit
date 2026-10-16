@@ -1,0 +1,4020 @@
+{
+  "review_date": "2026-10-16",
+  "method": "Git blob identity; explicitly declared single-prefix normalization for the seven legacy Lean files only.",
+  "exact_cross_repository_source_groups": {
+    "legacy_102_catalogue": [
+      {
+        "git_blob_sha": "00af911a1e07226f52322b07fd10e9a24a6b1882",
+        "locations": [
+          {
+            "repository": "Monlithic_EFMW_102_Lean4",
+            "commit": "f78371353c66daeddb2ae15877a7520c492ae1e0",
+            "paths": [
+              "Monolithic102/ME047.lean"
+            ]
+          },
+          {
+            "repository": "Monolithic-102-Zoo-Lean4",
+            "commit": "f2872a96290f8e66d340a12996f3edaded10ce6d",
+            "paths": [
+              "Monolithic102/ME047.lean"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "030c9b133e9eeb52eeda6f16183e40fc534dbd21",
+        "locations": [
+          {
+            "repository": "Monlithic_EFMW_102_Lean4",
+            "commit": "f78371353c66daeddb2ae15877a7520c492ae1e0",
+            "paths": [
+              "Monolithic102/ME038.lean"
+            ]
+          },
+          {
+            "repository": "Monolithic-102-Zoo-Lean4",
+            "commit": "f2872a96290f8e66d340a12996f3edaded10ce6d",
+            "paths": [
+              "Monolithic102/ME038.lean"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "04cad18b9bf894375c7e29af2a3aa7372f7c596e",
+        "locations": [
+          {
+            "repository": "Monlithic_EFMW_102_Lean4",
+            "commit": "f78371353c66daeddb2ae15877a7520c492ae1e0",
+            "paths": [
+              "Monolithic102/ME019.lean"
+            ]
+          },
+          {
+            "repository": "Monolithic-102-Zoo-Lean4",
+            "commit": "f2872a96290f8e66d340a12996f3edaded10ce6d",
+            "paths": [
+              "Monolithic102/ME019.lean"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "068d937cd2889ccb50f599d92b7e1465d606bf88",
+        "locations": [
+          {
+            "repository": "Monlithic_EFMW_102_Lean4",
+            "commit": "f78371353c66daeddb2ae15877a7520c492ae1e0",
+            "paths": [
+              "Monolithic102/ME077.lean"
+            ]
+          },
+          {
+            "repository": "Monolithic-102-Zoo-Lean4",
+            "commit": "f2872a96290f8e66d340a12996f3edaded10ce6d",
+            "paths": [
+              "Monolithic102/ME077.lean"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "0a7860baa18e3b2f0dfcf0780228659de62ace63",
+        "locations": [
+          {
+            "repository": "Monlithic_EFMW_102_Lean4",
+            "commit": "f78371353c66daeddb2ae15877a7520c492ae1e0",
+            "paths": [
+              "Monolithic102/ME027.lean"
+            ]
+          },
+          {
+            "repository": "Monolithic-102-Zoo-Lean4",
+            "commit": "f2872a96290f8e66d340a12996f3edaded10ce6d",
+            "paths": [
+              "Monolithic102/ME027.lean"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "0b067106fea9359b708251aa04147c28ed689bac",
+        "locations": [
+          {
+            "repository": "Monlithic_EFMW_102_Lean4",
+            "commit": "f78371353c66daeddb2ae15877a7520c492ae1e0",
+            "paths": [
+              "Monolithic102/ME023.lean"
+            ]
+          },
+          {
+            "repository": "Monolithic-102-Zoo-Lean4",
+            "commit": "f2872a96290f8e66d340a12996f3edaded10ce6d",
+            "paths": [
+              "Monolithic102/ME023.lean"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "0c5628daa49cd7f14f4c356ede469746f165ed86",
+        "locations": [
+          {
+            "repository": "Monlithic_EFMW_102_Lean4",
+            "commit": "f78371353c66daeddb2ae15877a7520c492ae1e0",
+            "paths": [
+              "Monolithic102/ME049.lean"
+            ]
+          },
+          {
+            "repository": "Monolithic-102-Zoo-Lean4",
+            "commit": "f2872a96290f8e66d340a12996f3edaded10ce6d",
+            "paths": [
+              "Monolithic102/ME049.lean"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "11898c22a92a4b1be2d2a5af59636da19742b944",
+        "locations": [
+          {
+            "repository": "Monlithic_EFMW_102_Lean4",
+            "commit": "f78371353c66daeddb2ae15877a7520c492ae1e0",
+            "paths": [
+              "Monolithic102/ME009.lean"
+            ]
+          },
+          {
+            "repository": "Monolithic-102-Zoo-Lean4",
+            "commit": "f2872a96290f8e66d340a12996f3edaded10ce6d",
+            "paths": [
+              "Monolithic102/ME009.lean"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "11a4c9bc91346f79c5a6eea922690508976cd59a",
+        "locations": [
+          {
+            "repository": "Monlithic_EFMW_102_Lean4",
+            "commit": "f78371353c66daeddb2ae15877a7520c492ae1e0",
+            "paths": [
+              "Monolithic102/ME091.lean"
+            ]
+          },
+          {
+            "repository": "Monolithic-102-Zoo-Lean4",
+            "commit": "f2872a96290f8e66d340a12996f3edaded10ce6d",
+            "paths": [
+              "Monolithic102/ME091.lean"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "14045f8160aefaa53939508755b79c4c67bd48a1",
+        "locations": [
+          {
+            "repository": "Monlithic_EFMW_102_Lean4",
+            "commit": "f78371353c66daeddb2ae15877a7520c492ae1e0",
+            "paths": [
+              "Monolithic102/ME063.lean"
+            ]
+          },
+          {
+            "repository": "Monolithic-102-Zoo-Lean4",
+            "commit": "f2872a96290f8e66d340a12996f3edaded10ce6d",
+            "paths": [
+              "Monolithic102/ME063.lean"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "147ec930d5741a2bac8d6b5b9db5a916f554bdb8",
+        "locations": [
+          {
+            "repository": "Monlithic_EFMW_102_Lean4",
+            "commit": "f78371353c66daeddb2ae15877a7520c492ae1e0",
+            "paths": [
+              "Monolithic102/ME043.lean"
+            ]
+          },
+          {
+            "repository": "Monolithic-102-Zoo-Lean4",
+            "commit": "f2872a96290f8e66d340a12996f3edaded10ce6d",
+            "paths": [
+              "Monolithic102/ME043.lean"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "195a377198d07a6a592df365683776bf54713150",
+        "locations": [
+          {
+            "repository": "Monlithic_EFMW_102_Lean4",
+            "commit": "f78371353c66daeddb2ae15877a7520c492ae1e0",
+            "paths": [
+              "Monolithic102/ME059.lean"
+            ]
+          },
+          {
+            "repository": "Monolithic-102-Zoo-Lean4",
+            "commit": "f2872a96290f8e66d340a12996f3edaded10ce6d",
+            "paths": [
+              "Monolithic102/ME059.lean"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "1c72ff46bacd089d6542d1066658fd05d1371d75",
+        "locations": [
+          {
+            "repository": "Monlithic_EFMW_102_Lean4",
+            "commit": "f78371353c66daeddb2ae15877a7520c492ae1e0",
+            "paths": [
+              "Monolithic102/ME052.lean"
+            ]
+          },
+          {
+            "repository": "Monolithic-102-Zoo-Lean4",
+            "commit": "f2872a96290f8e66d340a12996f3edaded10ce6d",
+            "paths": [
+              "Monolithic102/ME052.lean"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "20c266a8922b9794efb7b49ac5e99c5b0f6da447",
+        "locations": [
+          {
+            "repository": "Monlithic_EFMW_102_Lean4",
+            "commit": "f78371353c66daeddb2ae15877a7520c492ae1e0",
+            "paths": [
+              "Monolithic102/ME015.lean"
+            ]
+          },
+          {
+            "repository": "Monolithic-102-Zoo-Lean4",
+            "commit": "f2872a96290f8e66d340a12996f3edaded10ce6d",
+            "paths": [
+              "Monolithic102/ME015.lean"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "2247e8c828470b2e091f4e29094d69b9af4d9153",
+        "locations": [
+          {
+            "repository": "Monlithic_EFMW_102_Lean4",
+            "commit": "f78371353c66daeddb2ae15877a7520c492ae1e0",
+            "paths": [
+              "Monolithic102/ME024.lean"
+            ]
+          },
+          {
+            "repository": "Monolithic-102-Zoo-Lean4",
+            "commit": "f2872a96290f8e66d340a12996f3edaded10ce6d",
+            "paths": [
+              "Monolithic102/ME024.lean"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "24ebe75afa1588ea6113be812a58541b5c4a1967",
+        "locations": [
+          {
+            "repository": "Monlithic_EFMW_102_Lean4",
+            "commit": "f78371353c66daeddb2ae15877a7520c492ae1e0",
+            "paths": [
+              "Monolithic102/ME101.lean"
+            ]
+          },
+          {
+            "repository": "Monolithic-102-Zoo-Lean4",
+            "commit": "f2872a96290f8e66d340a12996f3edaded10ce6d",
+            "paths": [
+              "Monolithic102/ME101.lean"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "250b982ec5de6d1771cc5e95f3c2b0a0837bb826",
+        "locations": [
+          {
+            "repository": "Monlithic_EFMW_102_Lean4",
+            "commit": "f78371353c66daeddb2ae15877a7520c492ae1e0",
+            "paths": [
+              "Monolithic102/ME070.lean"
+            ]
+          },
+          {
+            "repository": "Monolithic-102-Zoo-Lean4",
+            "commit": "f2872a96290f8e66d340a12996f3edaded10ce6d",
+            "paths": [
+              "Monolithic102/ME070.lean"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "29e2a3bfe78d40e618ccfd4a3573a5a66f3192f9",
+        "locations": [
+          {
+            "repository": "Monlithic_EFMW_102_Lean4",
+            "commit": "f78371353c66daeddb2ae15877a7520c492ae1e0",
+            "paths": [
+              "Monolithic102/ME087.lean"
+            ]
+          },
+          {
+            "repository": "Monolithic-102-Zoo-Lean4",
+            "commit": "f2872a96290f8e66d340a12996f3edaded10ce6d",
+            "paths": [
+              "Monolithic102/ME087.lean"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "2b4b6cae3cff2f15a2d39c17d2d651d0ccf41630",
+        "locations": [
+          {
+            "repository": "Monlithic_EFMW_102_Lean4",
+            "commit": "f78371353c66daeddb2ae15877a7520c492ae1e0",
+            "paths": [
+              "Monolithic102/ME076.lean"
+            ]
+          },
+          {
+            "repository": "Monolithic-102-Zoo-Lean4",
+            "commit": "f2872a96290f8e66d340a12996f3edaded10ce6d",
+            "paths": [
+              "Monolithic102/ME076.lean"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "2d9103e118fb1989431da3fcb723639f8b1a810f",
+        "locations": [
+          {
+            "repository": "Monlithic_EFMW_102_Lean4",
+            "commit": "f78371353c66daeddb2ae15877a7520c492ae1e0",
+            "paths": [
+              "Monolithic102/ME005.lean"
+            ]
+          },
+          {
+            "repository": "Monolithic-102-Zoo-Lean4",
+            "commit": "f2872a96290f8e66d340a12996f3edaded10ce6d",
+            "paths": [
+              "Monolithic102/ME005.lean"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "2e8268d5fed0a07490430f726caa4e43748b16a7",
+        "locations": [
+          {
+            "repository": "Monlithic_EFMW_102_Lean4",
+            "commit": "f78371353c66daeddb2ae15877a7520c492ae1e0",
+            "paths": [
+              "Monolithic102/ME099.lean"
+            ]
+          },
+          {
+            "repository": "Monolithic-102-Zoo-Lean4",
+            "commit": "f2872a96290f8e66d340a12996f3edaded10ce6d",
+            "paths": [
+              "Monolithic102/ME099.lean"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "315315c9e1a186c50e787d64c9e46f06de86f322",
+        "locations": [
+          {
+            "repository": "Monlithic_EFMW_102_Lean4",
+            "commit": "f78371353c66daeddb2ae15877a7520c492ae1e0",
+            "paths": [
+              "Monolithic102/ME078.lean"
+            ]
+          },
+          {
+            "repository": "Monolithic-102-Zoo-Lean4",
+            "commit": "f2872a96290f8e66d340a12996f3edaded10ce6d",
+            "paths": [
+              "Monolithic102/ME078.lean"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "3560d5bc4025e8f658986d96ec0618acc4983236",
+        "locations": [
+          {
+            "repository": "Monlithic_EFMW_102_Lean4",
+            "commit": "f78371353c66daeddb2ae15877a7520c492ae1e0",
+            "paths": [
+              "Monolithic102/ME011.lean"
+            ]
+          },
+          {
+            "repository": "Monolithic-102-Zoo-Lean4",
+            "commit": "f2872a96290f8e66d340a12996f3edaded10ce6d",
+            "paths": [
+              "Monolithic102/ME011.lean"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "368f846f0c13634bc9e57195da3e4b13d14c041b",
+        "locations": [
+          {
+            "repository": "Monlithic_EFMW_102_Lean4",
+            "commit": "f78371353c66daeddb2ae15877a7520c492ae1e0",
+            "paths": [
+              "Monolithic102/ME017.lean"
+            ]
+          },
+          {
+            "repository": "Monolithic-102-Zoo-Lean4",
+            "commit": "f2872a96290f8e66d340a12996f3edaded10ce6d",
+            "paths": [
+              "Monolithic102/ME017.lean"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "37f33a328e802f4e222548dcdb62cdd4fd19bbf0",
+        "locations": [
+          {
+            "repository": "Monlithic_EFMW_102_Lean4",
+            "commit": "f78371353c66daeddb2ae15877a7520c492ae1e0",
+            "paths": [
+              "Monolithic102/ME025.lean"
+            ]
+          },
+          {
+            "repository": "Monolithic-102-Zoo-Lean4",
+            "commit": "f2872a96290f8e66d340a12996f3edaded10ce6d",
+            "paths": [
+              "Monolithic102/ME025.lean"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "3ca3484eabaf0aa92148d9d459423d61c75fff78",
+        "locations": [
+          {
+            "repository": "Monlithic_EFMW_102_Lean4",
+            "commit": "f78371353c66daeddb2ae15877a7520c492ae1e0",
+            "paths": [
+              "Monolithic102/ME002.lean"
+            ]
+          },
+          {
+            "repository": "Monolithic-102-Zoo-Lean4",
+            "commit": "f2872a96290f8e66d340a12996f3edaded10ce6d",
+            "paths": [
+              "Monolithic102/ME002.lean"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "3cee28aaad65539e911f4cb63019c45ec929b5a2",
+        "locations": [
+          {
+            "repository": "Monlithic_EFMW_102_Lean4",
+            "commit": "f78371353c66daeddb2ae15877a7520c492ae1e0",
+            "paths": [
+              "Monolithic102/ME041.lean"
+            ]
+          },
+          {
+            "repository": "Monolithic-102-Zoo-Lean4",
+            "commit": "f2872a96290f8e66d340a12996f3edaded10ce6d",
+            "paths": [
+              "Monolithic102/ME041.lean"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "40b33496840c4cd87da59cfcfbe157797d2f518a",
+        "locations": [
+          {
+            "repository": "Monlithic_EFMW_102_Lean4",
+            "commit": "f78371353c66daeddb2ae15877a7520c492ae1e0",
+            "paths": [
+              "Monolithic102/ME037.lean"
+            ]
+          },
+          {
+            "repository": "Monolithic-102-Zoo-Lean4",
+            "commit": "f2872a96290f8e66d340a12996f3edaded10ce6d",
+            "paths": [
+              "Monolithic102/ME037.lean"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "437a9e4a638e460efe31e537b77c3954e18f78fb",
+        "locations": [
+          {
+            "repository": "Monlithic_EFMW_102_Lean4",
+            "commit": "f78371353c66daeddb2ae15877a7520c492ae1e0",
+            "paths": [
+              "Monolithic102/ME102.lean"
+            ]
+          },
+          {
+            "repository": "Monolithic-102-Zoo-Lean4",
+            "commit": "f2872a96290f8e66d340a12996f3edaded10ce6d",
+            "paths": [
+              "Monolithic102/ME102.lean"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "4389a255694f4de7daae9fbad23407a0782ec8f7",
+        "locations": [
+          {
+            "repository": "Monlithic_EFMW_102_Lean4",
+            "commit": "f78371353c66daeddb2ae15877a7520c492ae1e0",
+            "paths": [
+              "Monolithic102/ME097.lean"
+            ]
+          },
+          {
+            "repository": "Monolithic-102-Zoo-Lean4",
+            "commit": "f2872a96290f8e66d340a12996f3edaded10ce6d",
+            "paths": [
+              "Monolithic102/ME097.lean"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "439074e3befdf599b36c74da9f9511ec0f66d072",
+        "locations": [
+          {
+            "repository": "Monlithic_EFMW_102_Lean4",
+            "commit": "f78371353c66daeddb2ae15877a7520c492ae1e0",
+            "paths": [
+              "Monolithic102/ME044.lean"
+            ]
+          },
+          {
+            "repository": "Monolithic-102-Zoo-Lean4",
+            "commit": "f2872a96290f8e66d340a12996f3edaded10ce6d",
+            "paths": [
+              "Monolithic102/ME044.lean"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "487b34eb932937b63b311e6531f7e00c1e4572d3",
+        "locations": [
+          {
+            "repository": "Monlithic_EFMW_102_Lean4",
+            "commit": "f78371353c66daeddb2ae15877a7520c492ae1e0",
+            "paths": [
+              "Monolithic102/ME051.lean"
+            ]
+          },
+          {
+            "repository": "Monolithic-102-Zoo-Lean4",
+            "commit": "f2872a96290f8e66d340a12996f3edaded10ce6d",
+            "paths": [
+              "Monolithic102/ME051.lean"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "4a01704a0de4eaefe164d254005d4f6b68aff18c",
+        "locations": [
+          {
+            "repository": "Monlithic_EFMW_102_Lean4",
+            "commit": "f78371353c66daeddb2ae15877a7520c492ae1e0",
+            "paths": [
+              "Monolithic102/ME071.lean"
+            ]
+          },
+          {
+            "repository": "Monolithic-102-Zoo-Lean4",
+            "commit": "f2872a96290f8e66d340a12996f3edaded10ce6d",
+            "paths": [
+              "Monolithic102/ME071.lean"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "4a40560c32e0808fdf7b59ea8c976e30433bb218",
+        "locations": [
+          {
+            "repository": "Monlithic_EFMW_102_Lean4",
+            "commit": "f78371353c66daeddb2ae15877a7520c492ae1e0",
+            "paths": [
+              "Monolithic102/ME093.lean"
+            ]
+          },
+          {
+            "repository": "Monolithic-102-Zoo-Lean4",
+            "commit": "f2872a96290f8e66d340a12996f3edaded10ce6d",
+            "paths": [
+              "Monolithic102/ME093.lean"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "4d0ebbe1de44215152d7f249aed2d5a4df8b9680",
+        "locations": [
+          {
+            "repository": "Monlithic_EFMW_102_Lean4",
+            "commit": "f78371353c66daeddb2ae15877a7520c492ae1e0",
+            "paths": [
+              "Monolithic102/ME058.lean"
+            ]
+          },
+          {
+            "repository": "Monolithic-102-Zoo-Lean4",
+            "commit": "f2872a96290f8e66d340a12996f3edaded10ce6d",
+            "paths": [
+              "Monolithic102/ME058.lean"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "4d655fb19fd9be84f74995789abf1abb8664bcc0",
+        "locations": [
+          {
+            "repository": "Monlithic_EFMW_102_Lean4",
+            "commit": "f78371353c66daeddb2ae15877a7520c492ae1e0",
+            "paths": [
+              "Monolithic102/ME089.lean"
+            ]
+          },
+          {
+            "repository": "Monolithic-102-Zoo-Lean4",
+            "commit": "f2872a96290f8e66d340a12996f3edaded10ce6d",
+            "paths": [
+              "Monolithic102/ME089.lean"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "4fe1650e3eb89f695374a9296c71b2a378e28f98",
+        "locations": [
+          {
+            "repository": "Monlithic_EFMW_102_Lean4",
+            "commit": "f78371353c66daeddb2ae15877a7520c492ae1e0",
+            "paths": [
+              "Monolithic102/ME100.lean"
+            ]
+          },
+          {
+            "repository": "Monolithic-102-Zoo-Lean4",
+            "commit": "f2872a96290f8e66d340a12996f3edaded10ce6d",
+            "paths": [
+              "Monolithic102/ME100.lean"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "50c98991afd212d05bf3bb67b936bf45d7357e3c",
+        "locations": [
+          {
+            "repository": "Monlithic_EFMW_102_Lean4",
+            "commit": "f78371353c66daeddb2ae15877a7520c492ae1e0",
+            "paths": [
+              "Monolithic102/ME060.lean"
+            ]
+          },
+          {
+            "repository": "Monolithic-102-Zoo-Lean4",
+            "commit": "f2872a96290f8e66d340a12996f3edaded10ce6d",
+            "paths": [
+              "Monolithic102/ME060.lean"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "5146c3b100c9860a8dd5959f471a0e4692ffe509",
+        "locations": [
+          {
+            "repository": "Monlithic_EFMW_102_Lean4",
+            "commit": "f78371353c66daeddb2ae15877a7520c492ae1e0",
+            "paths": [
+              "Monolithic102/ME006.lean"
+            ]
+          },
+          {
+            "repository": "Monolithic-102-Zoo-Lean4",
+            "commit": "f2872a96290f8e66d340a12996f3edaded10ce6d",
+            "paths": [
+              "Monolithic102/ME006.lean"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "5b5b9b3d897750654647b73fbb5ea5e001ed988a",
+        "locations": [
+          {
+            "repository": "Monlithic_EFMW_102_Lean4",
+            "commit": "f78371353c66daeddb2ae15877a7520c492ae1e0",
+            "paths": [
+              "Monolithic102/ME065.lean"
+            ]
+          },
+          {
+            "repository": "Monolithic-102-Zoo-Lean4",
+            "commit": "f2872a96290f8e66d340a12996f3edaded10ce6d",
+            "paths": [
+              "Monolithic102/ME065.lean"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "5ee57e093145a3c214358e59dd347ff8e776ba66",
+        "locations": [
+          {
+            "repository": "Monlithic_EFMW_102_Lean4",
+            "commit": "f78371353c66daeddb2ae15877a7520c492ae1e0",
+            "paths": [
+              "Monolithic102/ME075.lean"
+            ]
+          },
+          {
+            "repository": "Monolithic-102-Zoo-Lean4",
+            "commit": "f2872a96290f8e66d340a12996f3edaded10ce6d",
+            "paths": [
+              "Monolithic102/ME075.lean"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "5f74845da89527fb7462aeb4b1014829c0921a1e",
+        "locations": [
+          {
+            "repository": "Monlithic_EFMW_102_Lean4",
+            "commit": "f78371353c66daeddb2ae15877a7520c492ae1e0",
+            "paths": [
+              "Monolithic102/ME022.lean"
+            ]
+          },
+          {
+            "repository": "Monolithic-102-Zoo-Lean4",
+            "commit": "f2872a96290f8e66d340a12996f3edaded10ce6d",
+            "paths": [
+              "Monolithic102/ME022.lean"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "6469a85c49f71884ffd1ce3bc0619d5fd3ced997",
+        "locations": [
+          {
+            "repository": "Monlithic_EFMW_102_Lean4",
+            "commit": "f78371353c66daeddb2ae15877a7520c492ae1e0",
+            "paths": [
+              "Monolithic102/ME086.lean"
+            ]
+          },
+          {
+            "repository": "Monolithic-102-Zoo-Lean4",
+            "commit": "f2872a96290f8e66d340a12996f3edaded10ce6d",
+            "paths": [
+              "Monolithic102/ME086.lean"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "66e43f1c581126dcf774b976f300f77043a95294",
+        "locations": [
+          {
+            "repository": "Monlithic_EFMW_102_Lean4",
+            "commit": "f78371353c66daeddb2ae15877a7520c492ae1e0",
+            "paths": [
+              "Monolithic102/ME045.lean"
+            ]
+          },
+          {
+            "repository": "Monolithic-102-Zoo-Lean4",
+            "commit": "f2872a96290f8e66d340a12996f3edaded10ce6d",
+            "paths": [
+              "Monolithic102/ME045.lean"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "678a123c1f73640913a564be792593b54b7cc2f4",
+        "locations": [
+          {
+            "repository": "Monlithic_EFMW_102_Lean4",
+            "commit": "f78371353c66daeddb2ae15877a7520c492ae1e0",
+            "paths": [
+              "Monolithic102/ME048.lean"
+            ]
+          },
+          {
+            "repository": "Monolithic-102-Zoo-Lean4",
+            "commit": "f2872a96290f8e66d340a12996f3edaded10ce6d",
+            "paths": [
+              "Monolithic102/ME048.lean"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "67ab82e4f8ac74c758caa09ce32a34ccc95406c7",
+        "locations": [
+          {
+            "repository": "Monlithic_EFMW_102_Lean4",
+            "commit": "f78371353c66daeddb2ae15877a7520c492ae1e0",
+            "paths": [
+              "Monolithic102/ME035.lean"
+            ]
+          },
+          {
+            "repository": "Monolithic-102-Zoo-Lean4",
+            "commit": "f2872a96290f8e66d340a12996f3edaded10ce6d",
+            "paths": [
+              "Monolithic102/ME035.lean"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "6878a39002f1c1febe40d2cc9010bf2ab134048b",
+        "locations": [
+          {
+            "repository": "Monlithic_EFMW_102_Lean4",
+            "commit": "f78371353c66daeddb2ae15877a7520c492ae1e0",
+            "paths": [
+              "Monolithic102/ME094.lean"
+            ]
+          },
+          {
+            "repository": "Monolithic-102-Zoo-Lean4",
+            "commit": "f2872a96290f8e66d340a12996f3edaded10ce6d",
+            "paths": [
+              "Monolithic102/ME094.lean"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "6bbe25daa5ddae2e62a40db7c13284bfebd1655c",
+        "locations": [
+          {
+            "repository": "Monlithic_EFMW_102_Lean4",
+            "commit": "f78371353c66daeddb2ae15877a7520c492ae1e0",
+            "paths": [
+              "Monolithic102/ME090.lean"
+            ]
+          },
+          {
+            "repository": "Monolithic-102-Zoo-Lean4",
+            "commit": "f2872a96290f8e66d340a12996f3edaded10ce6d",
+            "paths": [
+              "Monolithic102/ME090.lean"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "7182b7d391bc0d99218ea7ff5f8e6c4bd61987eb",
+        "locations": [
+          {
+            "repository": "Monlithic_EFMW_102_Lean4",
+            "commit": "f78371353c66daeddb2ae15877a7520c492ae1e0",
+            "paths": [
+              "Monolithic102/ME034.lean"
+            ]
+          },
+          {
+            "repository": "Monolithic-102-Zoo-Lean4",
+            "commit": "f2872a96290f8e66d340a12996f3edaded10ce6d",
+            "paths": [
+              "Monolithic102/ME034.lean"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "72f030abaf72bb362637ac7fd5a80a48d932ff63",
+        "locations": [
+          {
+            "repository": "Monlithic_EFMW_102_Lean4",
+            "commit": "f78371353c66daeddb2ae15877a7520c492ae1e0",
+            "paths": [
+              "Monolithic102/ME014.lean"
+            ]
+          },
+          {
+            "repository": "Monolithic-102-Zoo-Lean4",
+            "commit": "f2872a96290f8e66d340a12996f3edaded10ce6d",
+            "paths": [
+              "Monolithic102/ME014.lean"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "7459515123868d444fd2a726accca15a94f7d804",
+        "locations": [
+          {
+            "repository": "Monlithic_EFMW_102_Lean4",
+            "commit": "f78371353c66daeddb2ae15877a7520c492ae1e0",
+            "paths": [
+              "Monolithic102/ME069.lean"
+            ]
+          },
+          {
+            "repository": "Monolithic-102-Zoo-Lean4",
+            "commit": "f2872a96290f8e66d340a12996f3edaded10ce6d",
+            "paths": [
+              "Monolithic102/ME069.lean"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "78a3b4e695e15613f07309bc690e5c83cf1ca0b5",
+        "locations": [
+          {
+            "repository": "Monlithic_EFMW_102_Lean4",
+            "commit": "f78371353c66daeddb2ae15877a7520c492ae1e0",
+            "paths": [
+              "scripts/test_axiom_audit.py"
+            ]
+          },
+          {
+            "repository": "Monolithic-102-Zoo-Lean4",
+            "commit": "f2872a96290f8e66d340a12996f3edaded10ce6d",
+            "paths": [
+              "analysis/scripts/test_axiom_audit.py",
+              "scripts/test_axiom_audit.py"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "78d04bcc40824da2a8a122f092d9a42d7dcae6fc",
+        "locations": [
+          {
+            "repository": "Monlithic_EFMW_102_Lean4",
+            "commit": "f78371353c66daeddb2ae15877a7520c492ae1e0",
+            "paths": [
+              "Monolithic102/ME083.lean"
+            ]
+          },
+          {
+            "repository": "Monolithic-102-Zoo-Lean4",
+            "commit": "f2872a96290f8e66d340a12996f3edaded10ce6d",
+            "paths": [
+              "Monolithic102/ME083.lean"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "7a76970ce05943e790317d8f5a303ac512e353bb",
+        "locations": [
+          {
+            "repository": "Monlithic_EFMW_102_Lean4",
+            "commit": "f78371353c66daeddb2ae15877a7520c492ae1e0",
+            "paths": [
+              "Monolithic102/ME013.lean"
+            ]
+          },
+          {
+            "repository": "Monolithic-102-Zoo-Lean4",
+            "commit": "f2872a96290f8e66d340a12996f3edaded10ce6d",
+            "paths": [
+              "Monolithic102/ME013.lean"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "7afdd4f1bc9ff9a26443d697ed40596d3b835010",
+        "locations": [
+          {
+            "repository": "Monlithic_EFMW_102_Lean4",
+            "commit": "f78371353c66daeddb2ae15877a7520c492ae1e0",
+            "paths": [
+              "Monolithic102/ME042.lean"
+            ]
+          },
+          {
+            "repository": "Monolithic-102-Zoo-Lean4",
+            "commit": "f2872a96290f8e66d340a12996f3edaded10ce6d",
+            "paths": [
+              "Monolithic102/ME042.lean"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "7d4137f213b4ec6f1978e85c0407914c69fba9ff",
+        "locations": [
+          {
+            "repository": "Monlithic_EFMW_102_Lean4",
+            "commit": "f78371353c66daeddb2ae15877a7520c492ae1e0",
+            "paths": [
+              "Monolithic102/ME088.lean"
+            ]
+          },
+          {
+            "repository": "Monolithic-102-Zoo-Lean4",
+            "commit": "f2872a96290f8e66d340a12996f3edaded10ce6d",
+            "paths": [
+              "Monolithic102/ME088.lean"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "7f8b7502bec73b68b19ca0ab49bf4b860b179f10",
+        "locations": [
+          {
+            "repository": "Monlithic_EFMW_102_Lean4",
+            "commit": "f78371353c66daeddb2ae15877a7520c492ae1e0",
+            "paths": [
+              "Monolithic102/ME001.lean"
+            ]
+          },
+          {
+            "repository": "Monolithic-102-Zoo-Lean4",
+            "commit": "f2872a96290f8e66d340a12996f3edaded10ce6d",
+            "paths": [
+              "Monolithic102/ME001.lean"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "800aeb30f7e29d0b1e70e669d65166be8eb2424b",
+        "locations": [
+          {
+            "repository": "Monlithic_EFMW_102_Lean4",
+            "commit": "f78371353c66daeddb2ae15877a7520c492ae1e0",
+            "paths": [
+              "Monolithic102/ME067.lean"
+            ]
+          },
+          {
+            "repository": "Monolithic-102-Zoo-Lean4",
+            "commit": "f2872a96290f8e66d340a12996f3edaded10ce6d",
+            "paths": [
+              "Monolithic102/ME067.lean"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "81eeea3ffa561ec60074231cac320c8ceb2b8763",
+        "locations": [
+          {
+            "repository": "Monlithic_EFMW_102_Lean4",
+            "commit": "f78371353c66daeddb2ae15877a7520c492ae1e0",
+            "paths": [
+              "Monolithic102/ME033.lean"
+            ]
+          },
+          {
+            "repository": "Monolithic-102-Zoo-Lean4",
+            "commit": "f2872a96290f8e66d340a12996f3edaded10ce6d",
+            "paths": [
+              "Monolithic102/ME033.lean"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "8697faeb265cfe577151bc4a2f169e8e0c2bf38d",
+        "locations": [
+          {
+            "repository": "Monlithic_EFMW_102_Lean4",
+            "commit": "f78371353c66daeddb2ae15877a7520c492ae1e0",
+            "paths": [
+              "Monolithic102/ME004.lean"
+            ]
+          },
+          {
+            "repository": "Monolithic-102-Zoo-Lean4",
+            "commit": "f2872a96290f8e66d340a12996f3edaded10ce6d",
+            "paths": [
+              "Monolithic102/ME004.lean"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "91c6042c092eac87c3d5291c212ab70b498c8e52",
+        "locations": [
+          {
+            "repository": "Monlithic_EFMW_102_Lean4",
+            "commit": "f78371353c66daeddb2ae15877a7520c492ae1e0",
+            "paths": [
+              "Monolithic102/ME068.lean"
+            ]
+          },
+          {
+            "repository": "Monolithic-102-Zoo-Lean4",
+            "commit": "f2872a96290f8e66d340a12996f3edaded10ce6d",
+            "paths": [
+              "Monolithic102/ME068.lean"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "940aac21d78680eb141e89d3c98ffc858c671a2e",
+        "locations": [
+          {
+            "repository": "Monlithic_EFMW_102_Lean4",
+            "commit": "f78371353c66daeddb2ae15877a7520c492ae1e0",
+            "paths": [
+              "Monolithic102/ME031.lean"
+            ]
+          },
+          {
+            "repository": "Monolithic-102-Zoo-Lean4",
+            "commit": "f2872a96290f8e66d340a12996f3edaded10ce6d",
+            "paths": [
+              "Monolithic102/ME031.lean"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "9bcf38307fe9e104045e78e42b84af2c2a51a855",
+        "locations": [
+          {
+            "repository": "Monlithic_EFMW_102_Lean4",
+            "commit": "f78371353c66daeddb2ae15877a7520c492ae1e0",
+            "paths": [
+              "Monolithic102/ME030.lean"
+            ]
+          },
+          {
+            "repository": "Monolithic-102-Zoo-Lean4",
+            "commit": "f2872a96290f8e66d340a12996f3edaded10ce6d",
+            "paths": [
+              "Monolithic102/ME030.lean"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "a644085eabc79051fe9e5c0c3419831376c65746",
+        "locations": [
+          {
+            "repository": "Monlithic_EFMW_102_Lean4",
+            "commit": "f78371353c66daeddb2ae15877a7520c492ae1e0",
+            "paths": [
+              "Monolithic102/ME018.lean"
+            ]
+          },
+          {
+            "repository": "Monolithic-102-Zoo-Lean4",
+            "commit": "f2872a96290f8e66d340a12996f3edaded10ce6d",
+            "paths": [
+              "Monolithic102/ME018.lean"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "a9eb304a3fe29598532364544106f0dbaf70e21a",
+        "locations": [
+          {
+            "repository": "Monlithic_EFMW_102_Lean4",
+            "commit": "f78371353c66daeddb2ae15877a7520c492ae1e0",
+            "paths": [
+              "Monolithic102/Catalog.lean"
+            ]
+          },
+          {
+            "repository": "Monolithic-102-Zoo-Lean4",
+            "commit": "f2872a96290f8e66d340a12996f3edaded10ce6d",
+            "paths": [
+              "Monolithic102/Catalog.lean"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "aa0b7cfea16f48a2c4063bdf4fb6f4499a1637fa",
+        "locations": [
+          {
+            "repository": "Monlithic_EFMW_102_Lean4",
+            "commit": "f78371353c66daeddb2ae15877a7520c492ae1e0",
+            "paths": [
+              "Monolithic102/ME003.lean"
+            ]
+          },
+          {
+            "repository": "Monolithic-102-Zoo-Lean4",
+            "commit": "f2872a96290f8e66d340a12996f3edaded10ce6d",
+            "paths": [
+              "Monolithic102/ME003.lean"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "abf28395a5eb846eaaea7bbe283ad4d000b7362d",
+        "locations": [
+          {
+            "repository": "Monlithic_EFMW_102_Lean4",
+            "commit": "f78371353c66daeddb2ae15877a7520c492ae1e0",
+            "paths": [
+              "Monolithic102/ME010.lean"
+            ]
+          },
+          {
+            "repository": "Monolithic-102-Zoo-Lean4",
+            "commit": "f2872a96290f8e66d340a12996f3edaded10ce6d",
+            "paths": [
+              "Monolithic102/ME010.lean"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "adb6db27e1616140e942747033440e47ea96677e",
+        "locations": [
+          {
+            "repository": "Monlithic_EFMW_102_Lean4",
+            "commit": "f78371353c66daeddb2ae15877a7520c492ae1e0",
+            "paths": [
+              "Monolithic102/ME020.lean"
+            ]
+          },
+          {
+            "repository": "Monolithic-102-Zoo-Lean4",
+            "commit": "f2872a96290f8e66d340a12996f3edaded10ce6d",
+            "paths": [
+              "Monolithic102/ME020.lean"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "adfa73c9071f2ca64cdbe989d09a32bbf1ea0201",
+        "locations": [
+          {
+            "repository": "Monlithic_EFMW_102_Lean4",
+            "commit": "f78371353c66daeddb2ae15877a7520c492ae1e0",
+            "paths": [
+              "Monolithic102/ME062.lean"
+            ]
+          },
+          {
+            "repository": "Monolithic-102-Zoo-Lean4",
+            "commit": "f2872a96290f8e66d340a12996f3edaded10ce6d",
+            "paths": [
+              "Monolithic102/ME062.lean"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "b08b78755653e0c63c90248bd0cda89524c88e67",
+        "locations": [
+          {
+            "repository": "Monlithic_EFMW_102_Lean4",
+            "commit": "f78371353c66daeddb2ae15877a7520c492ae1e0",
+            "paths": [
+              "Monolithic102/ME050.lean"
+            ]
+          },
+          {
+            "repository": "Monolithic-102-Zoo-Lean4",
+            "commit": "f2872a96290f8e66d340a12996f3edaded10ce6d",
+            "paths": [
+              "Monolithic102/ME050.lean"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "b10d03890aa8dcb908b356ae4b6df4d179ab9f1b",
+        "locations": [
+          {
+            "repository": "Monlithic_EFMW_102_Lean4",
+            "commit": "f78371353c66daeddb2ae15877a7520c492ae1e0",
+            "paths": [
+              "Monolithic102/ME046.lean"
+            ]
+          },
+          {
+            "repository": "Monolithic-102-Zoo-Lean4",
+            "commit": "f2872a96290f8e66d340a12996f3edaded10ce6d",
+            "paths": [
+              "Monolithic102/ME046.lean"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "b47a48f125f015946a8588dff8165b52a8c827e3",
+        "locations": [
+          {
+            "repository": "Monlithic_EFMW_102_Lean4",
+            "commit": "f78371353c66daeddb2ae15877a7520c492ae1e0",
+            "paths": [
+              "Monolithic102/ME036.lean"
+            ]
+          },
+          {
+            "repository": "Monolithic-102-Zoo-Lean4",
+            "commit": "f2872a96290f8e66d340a12996f3edaded10ce6d",
+            "paths": [
+              "Monolithic102/ME036.lean"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "b5fab239ad67c99f5ef2430686d667f558131fa8",
+        "locations": [
+          {
+            "repository": "Monlithic_EFMW_102_Lean4",
+            "commit": "f78371353c66daeddb2ae15877a7520c492ae1e0",
+            "paths": [
+              "Monolithic102/ME057.lean"
+            ]
+          },
+          {
+            "repository": "Monolithic-102-Zoo-Lean4",
+            "commit": "f2872a96290f8e66d340a12996f3edaded10ce6d",
+            "paths": [
+              "Monolithic102/ME057.lean"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "b9deaf99e9f2606ba0513355d0a73cf77018964d",
+        "locations": [
+          {
+            "repository": "Monlithic_EFMW_102_Lean4",
+            "commit": "f78371353c66daeddb2ae15877a7520c492ae1e0",
+            "paths": [
+              "Monolithic102/ME096.lean"
+            ]
+          },
+          {
+            "repository": "Monolithic-102-Zoo-Lean4",
+            "commit": "f2872a96290f8e66d340a12996f3edaded10ce6d",
+            "paths": [
+              "Monolithic102/ME096.lean"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "c10a335befb27ab2bf71cdedb683b3b2142c74db",
+        "locations": [
+          {
+            "repository": "Monlithic_EFMW_102_Lean4",
+            "commit": "f78371353c66daeddb2ae15877a7520c492ae1e0",
+            "paths": [
+              "Monolithic102/ME008.lean"
+            ]
+          },
+          {
+            "repository": "Monolithic-102-Zoo-Lean4",
+            "commit": "f2872a96290f8e66d340a12996f3edaded10ce6d",
+            "paths": [
+              "Monolithic102/ME008.lean"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "c3151a8d1a78771897310e0c1b832275f7970c35",
+        "locations": [
+          {
+            "repository": "Monlithic_EFMW_102_Lean4",
+            "commit": "f78371353c66daeddb2ae15877a7520c492ae1e0",
+            "paths": [
+              "Monolithic102/ME040.lean"
+            ]
+          },
+          {
+            "repository": "Monolithic-102-Zoo-Lean4",
+            "commit": "f2872a96290f8e66d340a12996f3edaded10ce6d",
+            "paths": [
+              "Monolithic102/ME040.lean"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "c350782fdb88fb178732a26fe5bceffbd5daa761",
+        "locations": [
+          {
+            "repository": "Monlithic_EFMW_102_Lean4",
+            "commit": "f78371353c66daeddb2ae15877a7520c492ae1e0",
+            "paths": [
+              "Monolithic102/ME064.lean"
+            ]
+          },
+          {
+            "repository": "Monolithic-102-Zoo-Lean4",
+            "commit": "f2872a96290f8e66d340a12996f3edaded10ce6d",
+            "paths": [
+              "Monolithic102/ME064.lean"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "c3e6b4ebe623036a718a037b7dae84eedbf89b67",
+        "locations": [
+          {
+            "repository": "Monlithic_EFMW_102_Lean4",
+            "commit": "f78371353c66daeddb2ae15877a7520c492ae1e0",
+            "paths": [
+              "Monolithic102/ME072.lean"
+            ]
+          },
+          {
+            "repository": "Monolithic-102-Zoo-Lean4",
+            "commit": "f2872a96290f8e66d340a12996f3edaded10ce6d",
+            "paths": [
+              "Monolithic102/ME072.lean"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "c3edcd75ae685f1ad847a6215d12bd5461d17f47",
+        "locations": [
+          {
+            "repository": "Monlithic_EFMW_102_Lean4",
+            "commit": "f78371353c66daeddb2ae15877a7520c492ae1e0",
+            "paths": [
+              "Monolithic102/ME080.lean"
+            ]
+          },
+          {
+            "repository": "Monolithic-102-Zoo-Lean4",
+            "commit": "f2872a96290f8e66d340a12996f3edaded10ce6d",
+            "paths": [
+              "Monolithic102/ME080.lean"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "c4cc12e4b732b59391fc821607d6496f47d4a4db",
+        "locations": [
+          {
+            "repository": "Monlithic_EFMW_102_Lean4",
+            "commit": "f78371353c66daeddb2ae15877a7520c492ae1e0",
+            "paths": [
+              "Monolithic102/ME054.lean"
+            ]
+          },
+          {
+            "repository": "Monolithic-102-Zoo-Lean4",
+            "commit": "f2872a96290f8e66d340a12996f3edaded10ce6d",
+            "paths": [
+              "Monolithic102/ME054.lean"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "c7957b83d962455f8bf9cbcda5769453eb1cd4bb",
+        "locations": [
+          {
+            "repository": "Monlithic_EFMW_102_Lean4",
+            "commit": "f78371353c66daeddb2ae15877a7520c492ae1e0",
+            "paths": [
+              "Monolithic102/ME028.lean"
+            ]
+          },
+          {
+            "repository": "Monolithic-102-Zoo-Lean4",
+            "commit": "f2872a96290f8e66d340a12996f3edaded10ce6d",
+            "paths": [
+              "Monolithic102/ME028.lean"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "c8c048aef936953b3bf27c72a430a4fb12a426cf",
+        "locations": [
+          {
+            "repository": "Monlithic_EFMW_102_Lean4",
+            "commit": "f78371353c66daeddb2ae15877a7520c492ae1e0",
+            "paths": [
+              "Monolithic102/ME066.lean"
+            ]
+          },
+          {
+            "repository": "Monolithic-102-Zoo-Lean4",
+            "commit": "f2872a96290f8e66d340a12996f3edaded10ce6d",
+            "paths": [
+              "Monolithic102/ME066.lean"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "caf253adfe88f897e336e446417bbf4dcca0ff91",
+        "locations": [
+          {
+            "repository": "Monlithic_EFMW_102_Lean4",
+            "commit": "f78371353c66daeddb2ae15877a7520c492ae1e0",
+            "paths": [
+              "Monolithic102/ME053.lean"
+            ]
+          },
+          {
+            "repository": "Monolithic-102-Zoo-Lean4",
+            "commit": "f2872a96290f8e66d340a12996f3edaded10ce6d",
+            "paths": [
+              "Monolithic102/ME053.lean"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "ce9ab096657cffeb9aaaef1e41126424541dbb50",
+        "locations": [
+          {
+            "repository": "Monlithic_EFMW_102_Lean4",
+            "commit": "f78371353c66daeddb2ae15877a7520c492ae1e0",
+            "paths": [
+              "Monolithic102/ME082.lean"
+            ]
+          },
+          {
+            "repository": "Monolithic-102-Zoo-Lean4",
+            "commit": "f2872a96290f8e66d340a12996f3edaded10ce6d",
+            "paths": [
+              "Monolithic102/ME082.lean"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "d0609eb592d2ac92be675d09824e9f28703c6719",
+        "locations": [
+          {
+            "repository": "Monlithic_EFMW_102_Lean4",
+            "commit": "f78371353c66daeddb2ae15877a7520c492ae1e0",
+            "paths": [
+              "Monolithic102/ME055.lean"
+            ]
+          },
+          {
+            "repository": "Monolithic-102-Zoo-Lean4",
+            "commit": "f2872a96290f8e66d340a12996f3edaded10ce6d",
+            "paths": [
+              "Monolithic102/ME055.lean"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "d3aabc98672c5ffd18ee4e226cc6db6dee148397",
+        "locations": [
+          {
+            "repository": "Monlithic_EFMW_102_Lean4",
+            "commit": "f78371353c66daeddb2ae15877a7520c492ae1e0",
+            "paths": [
+              "Monolithic102.lean"
+            ]
+          },
+          {
+            "repository": "Monolithic-102-Zoo-Lean4",
+            "commit": "f2872a96290f8e66d340a12996f3edaded10ce6d",
+            "paths": [
+              "Monolithic102.lean"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "d46b6dd1406924756bb938f54c37bfef9d42e717",
+        "locations": [
+          {
+            "repository": "Monlithic_EFMW_102_Lean4",
+            "commit": "f78371353c66daeddb2ae15877a7520c492ae1e0",
+            "paths": [
+              "Monolithic102/ME039.lean"
+            ]
+          },
+          {
+            "repository": "Monolithic-102-Zoo-Lean4",
+            "commit": "f2872a96290f8e66d340a12996f3edaded10ce6d",
+            "paths": [
+              "Monolithic102/ME039.lean"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "d7213de47dd6745c63c4ae04e7b9c5b1440b5c26",
+        "locations": [
+          {
+            "repository": "Monlithic_EFMW_102_Lean4",
+            "commit": "f78371353c66daeddb2ae15877a7520c492ae1e0",
+            "paths": [
+              "Monolithic102/ME026.lean"
+            ]
+          },
+          {
+            "repository": "Monolithic-102-Zoo-Lean4",
+            "commit": "f2872a96290f8e66d340a12996f3edaded10ce6d",
+            "paths": [
+              "Monolithic102/ME026.lean"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "d84a2141d192cc2e5dedc01f0abb6894def8926e",
+        "locations": [
+          {
+            "repository": "Monlithic_EFMW_102_Lean4",
+            "commit": "f78371353c66daeddb2ae15877a7520c492ae1e0",
+            "paths": [
+              "Monolithic102/ME079.lean"
+            ]
+          },
+          {
+            "repository": "Monolithic-102-Zoo-Lean4",
+            "commit": "f2872a96290f8e66d340a12996f3edaded10ce6d",
+            "paths": [
+              "Monolithic102/ME079.lean"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "d94624643280e15de30ec005a93cf0823f0b7989",
+        "locations": [
+          {
+            "repository": "Monlithic_EFMW_102_Lean4",
+            "commit": "f78371353c66daeddb2ae15877a7520c492ae1e0",
+            "paths": [
+              "Monolithic102/ME032.lean"
+            ]
+          },
+          {
+            "repository": "Monolithic-102-Zoo-Lean4",
+            "commit": "f2872a96290f8e66d340a12996f3edaded10ce6d",
+            "paths": [
+              "Monolithic102/ME032.lean"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "dad0e5c09f59b58ac684fbf3409344c53b323ef4",
+        "locations": [
+          {
+            "repository": "Monlithic_EFMW_102_Lean4",
+            "commit": "f78371353c66daeddb2ae15877a7520c492ae1e0",
+            "paths": [
+              "Monolithic102/ME092.lean"
+            ]
+          },
+          {
+            "repository": "Monolithic-102-Zoo-Lean4",
+            "commit": "f2872a96290f8e66d340a12996f3edaded10ce6d",
+            "paths": [
+              "Monolithic102/ME092.lean"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "e0703bd8c58e58a490199da3e36d8a79ba76ed95",
+        "locations": [
+          {
+            "repository": "Monlithic_EFMW_102_Lean4",
+            "commit": "f78371353c66daeddb2ae15877a7520c492ae1e0",
+            "paths": [
+              "Monolithic102/ME073.lean"
+            ]
+          },
+          {
+            "repository": "Monolithic-102-Zoo-Lean4",
+            "commit": "f2872a96290f8e66d340a12996f3edaded10ce6d",
+            "paths": [
+              "Monolithic102/ME073.lean"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "e09fa1155cb671d53c903aae99ac571ed30776c0",
+        "locations": [
+          {
+            "repository": "Monlithic_EFMW_102_Lean4",
+            "commit": "f78371353c66daeddb2ae15877a7520c492ae1e0",
+            "paths": [
+              "Monolithic102/ME085.lean"
+            ]
+          },
+          {
+            "repository": "Monolithic-102-Zoo-Lean4",
+            "commit": "f2872a96290f8e66d340a12996f3edaded10ce6d",
+            "paths": [
+              "Monolithic102/ME085.lean"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "e4d0d4cda355040a1eb0d5851b7fd0822bc965c1",
+        "locations": [
+          {
+            "repository": "Monlithic_EFMW_102_Lean4",
+            "commit": "f78371353c66daeddb2ae15877a7520c492ae1e0",
+            "paths": [
+              "Monolithic102/ME095.lean"
+            ]
+          },
+          {
+            "repository": "Monolithic-102-Zoo-Lean4",
+            "commit": "f2872a96290f8e66d340a12996f3edaded10ce6d",
+            "paths": [
+              "Monolithic102/ME095.lean"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "e8d14f6575c1907c128174ce245f6e7050963def",
+        "locations": [
+          {
+            "repository": "Monlithic_EFMW_102_Lean4",
+            "commit": "f78371353c66daeddb2ae15877a7520c492ae1e0",
+            "paths": [
+              "Monolithic102/ME098.lean"
+            ]
+          },
+          {
+            "repository": "Monolithic-102-Zoo-Lean4",
+            "commit": "f2872a96290f8e66d340a12996f3edaded10ce6d",
+            "paths": [
+              "Monolithic102/ME098.lean"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "e9b258bcaa2ba5f1b90f49cdf7358037a7cf4c58",
+        "locations": [
+          {
+            "repository": "Monlithic_EFMW_102_Lean4",
+            "commit": "f78371353c66daeddb2ae15877a7520c492ae1e0",
+            "paths": [
+              "Monolithic102/ME056.lean"
+            ]
+          },
+          {
+            "repository": "Monolithic-102-Zoo-Lean4",
+            "commit": "f2872a96290f8e66d340a12996f3edaded10ce6d",
+            "paths": [
+              "Monolithic102/ME056.lean"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "ec14a37d8cb6b465e0651bfc3e7a9c66cc153dbb",
+        "locations": [
+          {
+            "repository": "Monlithic_EFMW_102_Lean4",
+            "commit": "f78371353c66daeddb2ae15877a7520c492ae1e0",
+            "paths": [
+              "Monolithic102/ME012.lean"
+            ]
+          },
+          {
+            "repository": "Monolithic-102-Zoo-Lean4",
+            "commit": "f2872a96290f8e66d340a12996f3edaded10ce6d",
+            "paths": [
+              "Monolithic102/ME012.lean"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "f0288ff4879415146c41395ceaceda9b6736782e",
+        "locations": [
+          {
+            "repository": "Monlithic_EFMW_102_Lean4",
+            "commit": "f78371353c66daeddb2ae15877a7520c492ae1e0",
+            "paths": [
+              "Monolithic102/ME084.lean"
+            ]
+          },
+          {
+            "repository": "Monolithic-102-Zoo-Lean4",
+            "commit": "f2872a96290f8e66d340a12996f3edaded10ce6d",
+            "paths": [
+              "Monolithic102/ME084.lean"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "f321147bc55c252db1af62641761bddb0c5256f2",
+        "locations": [
+          {
+            "repository": "Monlithic_EFMW_102_Lean4",
+            "commit": "f78371353c66daeddb2ae15877a7520c492ae1e0",
+            "paths": [
+              "Monolithic102/ME016.lean"
+            ]
+          },
+          {
+            "repository": "Monolithic-102-Zoo-Lean4",
+            "commit": "f2872a96290f8e66d340a12996f3edaded10ce6d",
+            "paths": [
+              "Monolithic102/ME016.lean"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "f49b5839b43b2b8496f857f5fcebd56188f2d011",
+        "locations": [
+          {
+            "repository": "Monlithic_EFMW_102_Lean4",
+            "commit": "f78371353c66daeddb2ae15877a7520c492ae1e0",
+            "paths": [
+              "Monolithic102/ME021.lean"
+            ]
+          },
+          {
+            "repository": "Monolithic-102-Zoo-Lean4",
+            "commit": "f2872a96290f8e66d340a12996f3edaded10ce6d",
+            "paths": [
+              "Monolithic102/ME021.lean"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "f5947ed1c97fcb0040a13f29196dca59e47f5fbc",
+        "locations": [
+          {
+            "repository": "Monlithic_EFMW_102_Lean4",
+            "commit": "f78371353c66daeddb2ae15877a7520c492ae1e0",
+            "paths": [
+              "Monolithic102/ME029.lean"
+            ]
+          },
+          {
+            "repository": "Monolithic-102-Zoo-Lean4",
+            "commit": "f2872a96290f8e66d340a12996f3edaded10ce6d",
+            "paths": [
+              "Monolithic102/ME029.lean"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "f6a3b8da5bafe4c1b89ce0cc29fd24ff0662573d",
+        "locations": [
+          {
+            "repository": "Monlithic_EFMW_102_Lean4",
+            "commit": "f78371353c66daeddb2ae15877a7520c492ae1e0",
+            "paths": [
+              "Monolithic102/ME081.lean"
+            ]
+          },
+          {
+            "repository": "Monolithic-102-Zoo-Lean4",
+            "commit": "f2872a96290f8e66d340a12996f3edaded10ce6d",
+            "paths": [
+              "Monolithic102/ME081.lean"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "f8cae18fbd0a6c0cee13ed4ea2d04ac14bbcb777",
+        "locations": [
+          {
+            "repository": "Monlithic_EFMW_102_Lean4",
+            "commit": "f78371353c66daeddb2ae15877a7520c492ae1e0",
+            "paths": [
+              "Monolithic102/ME074.lean"
+            ]
+          },
+          {
+            "repository": "Monolithic-102-Zoo-Lean4",
+            "commit": "f2872a96290f8e66d340a12996f3edaded10ce6d",
+            "paths": [
+              "Monolithic102/ME074.lean"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "fc02297e1024ad3e38bb00bbae2ba2a8dbff4fba",
+        "locations": [
+          {
+            "repository": "Monlithic_EFMW_102_Lean4",
+            "commit": "f78371353c66daeddb2ae15877a7520c492ae1e0",
+            "paths": [
+              "Monolithic102/ME007.lean"
+            ]
+          },
+          {
+            "repository": "Monolithic-102-Zoo-Lean4",
+            "commit": "f2872a96290f8e66d340a12996f3edaded10ce6d",
+            "paths": [
+              "Monolithic102/ME007.lean"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "fcf23f42c1ed3cc65236590ebb6ac446493de1f9",
+        "locations": [
+          {
+            "repository": "Monlithic_EFMW_102_Lean4",
+            "commit": "f78371353c66daeddb2ae15877a7520c492ae1e0",
+            "paths": [
+              "Monolithic102/ME061.lean"
+            ]
+          },
+          {
+            "repository": "Monolithic-102-Zoo-Lean4",
+            "commit": "f2872a96290f8e66d340a12996f3edaded10ce6d",
+            "paths": [
+              "Monolithic102/ME061.lean"
+            ]
+          }
+        ]
+      }
+    ],
+    "nightengale_frozen_zoo_copy": [
+      {
+        "git_blob_sha": "03bd011560a910b2989ecb6d8b0075bb6f62e47c",
+        "locations": [
+          {
+            "repository": "Nightengale-Full-Zoo-Audit",
+            "commit": "49b46c369ad55f6415edf59f19f8974fe61148cf",
+            "paths": [
+              "lean-source/Turtle.lean"
+            ]
+          },
+          {
+            "repository": "Monolithic-Zoo-Lean4",
+            "commit": "15dfb335424e77e1458cd77996f23d074dac0d88",
+            "paths": [
+              "Turtle.lean"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "0418cf9654909acae8d7f33c6aff1a51151b9aa2",
+        "locations": [
+          {
+            "repository": "Nightengale-Full-Zoo-Audit",
+            "commit": "49b46c369ad55f6415edf59f19f8974fe61148cf",
+            "paths": [
+              "lean-source/Mole.lean"
+            ]
+          },
+          {
+            "repository": "Monolithic-Zoo-Lean4",
+            "commit": "15dfb335424e77e1458cd77996f23d074dac0d88",
+            "paths": [
+              "Mole.lean"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "0554861ba91cdc95b34f03f99c97a6f02ac1a315",
+        "locations": [
+          {
+            "repository": "Nightengale-Full-Zoo-Audit",
+            "commit": "49b46c369ad55f6415edf59f19f8974fe61148cf",
+            "paths": [
+              "lean-source/Crab.lean"
+            ]
+          },
+          {
+            "repository": "Monolithic-Zoo-Lean4",
+            "commit": "15dfb335424e77e1458cd77996f23d074dac0d88",
+            "paths": [
+              "Crab.lean"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "0f83a9e49d4c3fd33aa7227fbaaf6c1dad58d8d7",
+        "locations": [
+          {
+            "repository": "Nightengale-Full-Zoo-Audit",
+            "commit": "49b46c369ad55f6415edf59f19f8974fe61148cf",
+            "paths": [
+              "lean-source/Beaver.lean"
+            ]
+          },
+          {
+            "repository": "Monolithic-Zoo-Lean4",
+            "commit": "15dfb335424e77e1458cd77996f23d074dac0d88",
+            "paths": [
+              "Beaver.lean"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "117afe0c11301df439d4603d1edbc13c60f3de18",
+        "locations": [
+          {
+            "repository": "Nightengale-Full-Zoo-Audit",
+            "commit": "49b46c369ad55f6415edf59f19f8974fe61148cf",
+            "paths": [
+              "lean-source/Penguin.lean"
+            ]
+          },
+          {
+            "repository": "Monolithic-Zoo-Lean4",
+            "commit": "15dfb335424e77e1458cd77996f23d074dac0d88",
+            "paths": [
+              "Penguin.lean"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "17396b0cc75eb897168d9c7996d2651a7b8521d4",
+        "locations": [
+          {
+            "repository": "Nightengale-Full-Zoo-Audit",
+            "commit": "49b46c369ad55f6415edf59f19f8974fe61148cf",
+            "paths": [
+              "lean-source/Weasel.lean"
+            ]
+          },
+          {
+            "repository": "Monolithic-Zoo-Lean4",
+            "commit": "15dfb335424e77e1458cd77996f23d074dac0d88",
+            "paths": [
+              "Weasel.lean"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "17c341ec9236b991e3d850d895feb89a20180671",
+        "locations": [
+          {
+            "repository": "Nightengale-Full-Zoo-Audit",
+            "commit": "49b46c369ad55f6415edf59f19f8974fe61148cf",
+            "paths": [
+              "lean-source/Butterfly.lean"
+            ]
+          },
+          {
+            "repository": "Monolithic-Zoo-Lean4",
+            "commit": "15dfb335424e77e1458cd77996f23d074dac0d88",
+            "paths": [
+              "Butterfly.lean"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "195d2803023dfba18e4a44a019855e901ae9f112",
+        "locations": [
+          {
+            "repository": "Nightengale-Full-Zoo-Audit",
+            "commit": "49b46c369ad55f6415edf59f19f8974fe61148cf",
+            "paths": [
+              "lean-source/Cobra.lean"
+            ]
+          },
+          {
+            "repository": "Monolithic-Zoo-Lean4",
+            "commit": "15dfb335424e77e1458cd77996f23d074dac0d88",
+            "paths": [
+              "Cobra.lean"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "1f26f73a3259116ce9bee4bb7322b849f559ab34",
+        "locations": [
+          {
+            "repository": "Nightengale-Full-Zoo-Audit",
+            "commit": "49b46c369ad55f6415edf59f19f8974fe61148cf",
+            "paths": [
+              "lean-source/Pulse.lean"
+            ]
+          },
+          {
+            "repository": "Monolithic-Zoo-Lean4",
+            "commit": "15dfb335424e77e1458cd77996f23d074dac0d88",
+            "paths": [
+              "Pulse.lean"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "2c0231b86216ffd5633c39f5a78fa6d21a687347",
+        "locations": [
+          {
+            "repository": "Nightengale-Full-Zoo-Audit",
+            "commit": "49b46c369ad55f6415edf59f19f8974fe61148cf",
+            "paths": [
+              "lean-source/Shark.lean"
+            ]
+          },
+          {
+            "repository": "Monolithic-Zoo-Lean4",
+            "commit": "15dfb335424e77e1458cd77996f23d074dac0d88",
+            "paths": [
+              "Shark.lean"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "2c64453e098fe630e7e80eb5c1ec4b7cf96c6176",
+        "locations": [
+          {
+            "repository": "Nightengale-Full-Zoo-Audit",
+            "commit": "49b46c369ad55f6415edf59f19f8974fe61148cf",
+            "paths": [
+              "lean-source/Spider.lean"
+            ]
+          },
+          {
+            "repository": "Monolithic-Zoo-Lean4",
+            "commit": "15dfb335424e77e1458cd77996f23d074dac0d88",
+            "paths": [
+              "Spider.lean"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "2dad87af2f42c0ad5099769d894354d0160287ab",
+        "locations": [
+          {
+            "repository": "Nightengale-Full-Zoo-Audit",
+            "commit": "49b46c369ad55f6415edf59f19f8974fe61148cf",
+            "paths": [
+              "lean-source/Falcon.lean"
+            ]
+          },
+          {
+            "repository": "Monolithic-Zoo-Lean4",
+            "commit": "15dfb335424e77e1458cd77996f23d074dac0d88",
+            "paths": [
+              "Falcon.lean"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "32c43643e9ebe5ba4d353cc72e230640ea2a509c",
+        "locations": [
+          {
+            "repository": "Nightengale-Full-Zoo-Audit",
+            "commit": "49b46c369ad55f6415edf59f19f8974fe61148cf",
+            "paths": [
+              "lean-source/Dolphin.lean"
+            ]
+          },
+          {
+            "repository": "Monolithic-Zoo-Lean4",
+            "commit": "15dfb335424e77e1458cd77996f23d074dac0d88",
+            "paths": [
+              "Dolphin.lean"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "34e06219bc3dfe09bddaff92438970b1253f1672",
+        "locations": [
+          {
+            "repository": "Nightengale-Full-Zoo-Audit",
+            "commit": "49b46c369ad55f6415edf59f19f8974fe61148cf",
+            "paths": [
+              "lean-source/Hive.lean"
+            ]
+          },
+          {
+            "repository": "Monolithic-Zoo-Lean4",
+            "commit": "15dfb335424e77e1458cd77996f23d074dac0d88",
+            "paths": [
+              "Hive.lean"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "3a1997f391d5817a7e6453683373ba7c1f348cd2",
+        "locations": [
+          {
+            "repository": "Nightengale-Full-Zoo-Audit",
+            "commit": "49b46c369ad55f6415edf59f19f8974fe61148cf",
+            "paths": [
+              "lean-source/Moth.lean"
+            ]
+          },
+          {
+            "repository": "Monolithic-Zoo-Lean4",
+            "commit": "15dfb335424e77e1458cd77996f23d074dac0d88",
+            "paths": [
+              "Moth.lean"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "3ba3bd0268ff789f718efbe8e3b52918553fb3ad",
+        "locations": [
+          {
+            "repository": "Nightengale-Full-Zoo-Audit",
+            "commit": "49b46c369ad55f6415edf59f19f8974fe61148cf",
+            "paths": [
+              "lean-source/Mantis.lean"
+            ]
+          },
+          {
+            "repository": "Monolithic-Zoo-Lean4",
+            "commit": "15dfb335424e77e1458cd77996f23d074dac0d88",
+            "paths": [
+              "Mantis.lean"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "43a8bcd12f82e663f1a75124c9198a8360775f15",
+        "locations": [
+          {
+            "repository": "Nightengale-Full-Zoo-Audit",
+            "commit": "49b46c369ad55f6415edf59f19f8974fe61148cf",
+            "paths": [
+              "lean-source/Lynx.lean"
+            ]
+          },
+          {
+            "repository": "Monolithic-Zoo-Lean4",
+            "commit": "15dfb335424e77e1458cd77996f23d074dac0d88",
+            "paths": [
+              "Lynx.lean"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "471b23c0b87c450979cddc17bf641bbb6638218b",
+        "locations": [
+          {
+            "repository": "Nightengale-Full-Zoo-Audit",
+            "commit": "49b46c369ad55f6415edf59f19f8974fe61148cf",
+            "paths": [
+              "lean-source/Chameleon.lean"
+            ]
+          },
+          {
+            "repository": "Monolithic-Zoo-Lean4",
+            "commit": "15dfb335424e77e1458cd77996f23d074dac0d88",
+            "paths": [
+              "Chameleon.lean"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "4be018adae54b41224f17b4ca922a9727b321c88",
+        "locations": [
+          {
+            "repository": "Nightengale-Full-Zoo-Audit",
+            "commit": "49b46c369ad55f6415edf59f19f8974fe61148cf",
+            "paths": [
+              "lean-source/ProofAudit.lean"
+            ]
+          },
+          {
+            "repository": "Monolithic-Zoo-Lean4",
+            "commit": "15dfb335424e77e1458cd77996f23d074dac0d88",
+            "paths": [
+              "ProofAudit.lean"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "4fe032e03c3ea044d7651eeba99c15ee56c90fd6",
+        "locations": [
+          {
+            "repository": "Nightengale-Full-Zoo-Audit",
+            "commit": "49b46c369ad55f6415edf59f19f8974fe61148cf",
+            "paths": [
+              "lean-source/Core.lean"
+            ]
+          },
+          {
+            "repository": "Monolithic-Zoo-Lean4",
+            "commit": "15dfb335424e77e1458cd77996f23d074dac0d88",
+            "paths": [
+              "Core.lean"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "59861ffa83d68a47b6da93bb8a4f714d3785a7ce",
+        "locations": [
+          {
+            "repository": "Nightengale-Full-Zoo-Audit",
+            "commit": "49b46c369ad55f6415edf59f19f8974fe61148cf",
+            "paths": [
+              "lean-source/Jellyfish.lean"
+            ]
+          },
+          {
+            "repository": "Monolithic-Zoo-Lean4",
+            "commit": "15dfb335424e77e1458cd77996f23d074dac0d88",
+            "paths": [
+              "Jellyfish.lean"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "5f195f3386c8006ba5c9cc5519e08c7830c276d7",
+        "locations": [
+          {
+            "repository": "Nightengale-Full-Zoo-Audit",
+            "commit": "49b46c369ad55f6415edf59f19f8974fe61148cf",
+            "paths": [
+              "lean-source/Octopus.lean"
+            ]
+          },
+          {
+            "repository": "Monolithic-Zoo-Lean4",
+            "commit": "15dfb335424e77e1458cd77996f23d074dac0d88",
+            "paths": [
+              "Octopus.lean"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "625f6b87256144f515b024980356d6c50c4debe5",
+        "locations": [
+          {
+            "repository": "Nightengale-Full-Zoo-Audit",
+            "commit": "49b46c369ad55f6415edf59f19f8974fe61148cf",
+            "paths": [
+              "lean-source/Ant.lean"
+            ]
+          },
+          {
+            "repository": "Monolithic-Zoo-Lean4",
+            "commit": "15dfb335424e77e1458cd77996f23d074dac0d88",
+            "paths": [
+              "Ant.lean"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "684e8bdb68a08840c063349ae9f66e6b651c1a56",
+        "locations": [
+          {
+            "repository": "Nightengale-Full-Zoo-Audit",
+            "commit": "49b46c369ad55f6415edf59f19f8974fe61148cf",
+            "paths": [
+              "lean-source/Registry.lean"
+            ]
+          },
+          {
+            "repository": "Monolithic-Zoo-Lean4",
+            "commit": "15dfb335424e77e1458cd77996f23d074dac0d88",
+            "paths": [
+              "Registry.lean"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "6908f6dd84e186b24b06dbe32f73e12270afce81",
+        "locations": [
+          {
+            "repository": "Nightengale-Full-Zoo-Audit",
+            "commit": "49b46c369ad55f6415edf59f19f8974fe61148cf",
+            "paths": [
+              "lean-source/Salmon.lean"
+            ]
+          },
+          {
+            "repository": "Monolithic-Zoo-Lean4",
+            "commit": "15dfb335424e77e1458cd77996f23d074dac0d88",
+            "paths": [
+              "Salmon.lean"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "6a022e8e2e4b1556406de93c605e572fbb05a669",
+        "locations": [
+          {
+            "repository": "Nightengale-Full-Zoo-Audit",
+            "commit": "49b46c369ad55f6415edf59f19f8974fe61148cf",
+            "paths": [
+              "lean-source/Magpie.lean"
+            ]
+          },
+          {
+            "repository": "Monolithic-Zoo-Lean4",
+            "commit": "15dfb335424e77e1458cd77996f23d074dac0d88",
+            "paths": [
+              "Magpie.lean"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "73541ca7b4c7f24abe4d8020b2c327fc5cbd6ac3",
+        "locations": [
+          {
+            "repository": "Nightengale-Full-Zoo-Audit",
+            "commit": "49b46c369ad55f6415edf59f19f8974fe61148cf",
+            "paths": [
+              "lean-source/Crocodile.lean"
+            ]
+          },
+          {
+            "repository": "Monolithic-Zoo-Lean4",
+            "commit": "15dfb335424e77e1458cd77996f23d074dac0d88",
+            "paths": [
+              "Crocodile.lean"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "73ac3fb327dbb37ab62c46f985f02b17b87d9315",
+        "locations": [
+          {
+            "repository": "Nightengale-Full-Zoo-Audit",
+            "commit": "49b46c369ad55f6415edf59f19f8974fe61148cf",
+            "paths": [
+              "lean-source/Termite.lean"
+            ]
+          },
+          {
+            "repository": "Monolithic-Zoo-Lean4",
+            "commit": "15dfb335424e77e1458cd77996f23d074dac0d88",
+            "paths": [
+              "Termite.lean"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "78a3b4e695e15613f07309bc690e5c83cf1ca0b5",
+        "locations": [
+          {
+            "repository": "Nightengale-Full-Zoo-Audit",
+            "commit": "49b46c369ad55f6415edf59f19f8974fe61148cf",
+            "paths": [
+              "lean-source/scripts/test_axiom_audit.py"
+            ]
+          },
+          {
+            "repository": "Monolithic-Zoo-Lean4",
+            "commit": "15dfb335424e77e1458cd77996f23d074dac0d88",
+            "paths": [
+              "scripts/test_axiom_audit.py"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "816b21d38a8d1114d307732f1684abd65cf550a0",
+        "locations": [
+          {
+            "repository": "Nightengale-Full-Zoo-Audit",
+            "commit": "49b46c369ad55f6415edf59f19f8974fe61148cf",
+            "paths": [
+              "lean-source/Bonobo.lean"
+            ]
+          },
+          {
+            "repository": "Monolithic-Zoo-Lean4",
+            "commit": "15dfb335424e77e1458cd77996f23d074dac0d88",
+            "paths": [
+              "Bonobo.lean"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "8265289257a163efd8fb37e3b412694bd031fcfb",
+        "locations": [
+          {
+            "repository": "Nightengale-Full-Zoo-Audit",
+            "commit": "49b46c369ad55f6415edf59f19f8974fe61148cf",
+            "paths": [
+              "lean-source/Wolf.lean"
+            ]
+          },
+          {
+            "repository": "Monolithic-Zoo-Lean4",
+            "commit": "15dfb335424e77e1458cd77996f23d074dac0d88",
+            "paths": [
+              "Wolf.lean"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "83205ffdc42dd20884d206403780369a1710e881",
+        "locations": [
+          {
+            "repository": "Nightengale-Full-Zoo-Audit",
+            "commit": "49b46c369ad55f6415edf59f19f8974fe61148cf",
+            "paths": [
+              "lean-source/Hedgehog.lean"
+            ]
+          },
+          {
+            "repository": "Monolithic-Zoo-Lean4",
+            "commit": "15dfb335424e77e1458cd77996f23d074dac0d88",
+            "paths": [
+              "Hedgehog.lean"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "898ac166ec362dae2ff5b6dce365a84f46cfe07a",
+        "locations": [
+          {
+            "repository": "Nightengale-Full-Zoo-Audit",
+            "commit": "49b46c369ad55f6415edf59f19f8974fe61148cf",
+            "paths": [
+              "lean-source/Whale.lean"
+            ]
+          },
+          {
+            "repository": "Monolithic-Zoo-Lean4",
+            "commit": "15dfb335424e77e1458cd77996f23d074dac0d88",
+            "paths": [
+              "Whale.lean"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "8dea8a4ffa6433fa4c9aba2d1c33fa51f28e7982",
+        "locations": [
+          {
+            "repository": "Nightengale-Full-Zoo-Audit",
+            "commit": "49b46c369ad55f6415edf59f19f8974fe61148cf",
+            "paths": [
+              "lean-source/Axolotl.lean"
+            ]
+          },
+          {
+            "repository": "Monolithic-Zoo-Lean4",
+            "commit": "15dfb335424e77e1458cd77996f23d074dac0d88",
+            "paths": [
+              "Axolotl.lean"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "95a5c0c0872c1d9b51750c4fb542c6031df493e0",
+        "locations": [
+          {
+            "repository": "Nightengale-Full-Zoo-Audit",
+            "commit": "49b46c369ad55f6415edf59f19f8974fe61148cf",
+            "paths": [
+              "lean-source/Shepherd.lean"
+            ]
+          },
+          {
+            "repository": "Monolithic-Zoo-Lean4",
+            "commit": "15dfb335424e77e1458cd77996f23d074dac0d88",
+            "paths": [
+              "Shepherd.lean"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "9c4480e5f2654d478e6b0803de1ce542067e7ec1",
+        "locations": [
+          {
+            "repository": "Nightengale-Full-Zoo-Audit",
+            "commit": "49b46c369ad55f6415edf59f19f8974fe61148cf",
+            "paths": [
+              "lean-source/Eagle.lean"
+            ]
+          },
+          {
+            "repository": "Monolithic-Zoo-Lean4",
+            "commit": "15dfb335424e77e1458cd77996f23d074dac0d88",
+            "paths": [
+              "Eagle.lean"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "9c612165af141d5421f18eacf43d41dd9dcba8ad",
+        "locations": [
+          {
+            "repository": "Nightengale-Full-Zoo-Audit",
+            "commit": "49b46c369ad55f6415edf59f19f8974fe61148cf",
+            "paths": [
+              "lean-source/Cat.lean"
+            ]
+          },
+          {
+            "repository": "Monolithic-Zoo-Lean4",
+            "commit": "15dfb335424e77e1458cd77996f23d074dac0d88",
+            "paths": [
+              "Cat.lean"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "9d71864473cab787e385d3805bb76811d5ca4510",
+        "locations": [
+          {
+            "repository": "Nightengale-Full-Zoo-Audit",
+            "commit": "49b46c369ad55f6415edf59f19f8974fe61148cf",
+            "paths": [
+              "lean-source/Elephant.lean"
+            ]
+          },
+          {
+            "repository": "Monolithic-Zoo-Lean4",
+            "commit": "15dfb335424e77e1458cd77996f23d074dac0d88",
+            "paths": [
+              "Elephant.lean"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "a1c1f9d7497da596b233c7f100bcc7f510a4b0da",
+        "locations": [
+          {
+            "repository": "Nightengale-Full-Zoo-Audit",
+            "commit": "49b46c369ad55f6415edf59f19f8974fe61148cf",
+            "paths": [
+              "lean-source/Fox.lean"
+            ]
+          },
+          {
+            "repository": "Monolithic-Zoo-Lean4",
+            "commit": "15dfb335424e77e1458cd77996f23d074dac0d88",
+            "paths": [
+              "Fox.lean"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "ae09e1a0b78f636c91f690bc89b03737025d8e26",
+        "locations": [
+          {
+            "repository": "Nightengale-Full-Zoo-Audit",
+            "commit": "49b46c369ad55f6415edf59f19f8974fe61148cf",
+            "paths": [
+              "lean-source/Raven.lean"
+            ]
+          },
+          {
+            "repository": "Monolithic-Zoo-Lean4",
+            "commit": "15dfb335424e77e1458cd77996f23d074dac0d88",
+            "paths": [
+              "Raven.lean"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "b336527024f9aa0c354683715101f85530635cd9",
+        "locations": [
+          {
+            "repository": "Nightengale-Full-Zoo-Audit",
+            "commit": "49b46c369ad55f6415edf59f19f8974fe61148cf",
+            "paths": [
+              "lean-source/Dragon.lean"
+            ]
+          },
+          {
+            "repository": "Monolithic-Zoo-Lean4",
+            "commit": "15dfb335424e77e1458cd77996f23d074dac0d88",
+            "paths": [
+              "Dragon.lean"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "bb388c5a162d18ec1b1e088d97f91944e874dc8d",
+        "locations": [
+          {
+            "repository": "Nightengale-Full-Zoo-Audit",
+            "commit": "49b46c369ad55f6415edf59f19f8974fe61148cf",
+            "paths": [
+              "lean-source/Horse.lean"
+            ]
+          },
+          {
+            "repository": "Monolithic-Zoo-Lean4",
+            "commit": "15dfb335424e77e1458cd77996f23d074dac0d88",
+            "paths": [
+              "Horse.lean"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "bd2d35300983a20a998587802b361953f8e5b02a",
+        "locations": [
+          {
+            "repository": "Nightengale-Full-Zoo-Audit",
+            "commit": "49b46c369ad55f6415edf59f19f8974fe61148cf",
+            "paths": [
+              "lean-source/Bison.lean"
+            ]
+          },
+          {
+            "repository": "Monolithic-Zoo-Lean4",
+            "commit": "15dfb335424e77e1458cd77996f23d074dac0d88",
+            "paths": [
+              "Bison.lean"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "c49e179cfe6baf5415c6d3debe841b2cf2dd2b26",
+        "locations": [
+          {
+            "repository": "Nightengale-Full-Zoo-Audit",
+            "commit": "49b46c369ad55f6415edf59f19f8974fe61148cf",
+            "paths": [
+              "lean-source/Main.lean"
+            ]
+          },
+          {
+            "repository": "Monolithic-Zoo-Lean4",
+            "commit": "15dfb335424e77e1458cd77996f23d074dac0d88",
+            "paths": [
+              "Main.lean"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "c8e7168a73b3d344d9fca3759bae6ff5b01c4306",
+        "locations": [
+          {
+            "repository": "Nightengale-Full-Zoo-Audit",
+            "commit": "49b46c369ad55f6415edf59f19f8974fe61148cf",
+            "paths": [
+              "lean-source/Owl.lean"
+            ]
+          },
+          {
+            "repository": "Monolithic-Zoo-Lean4",
+            "commit": "15dfb335424e77e1458cd77996f23d074dac0d88",
+            "paths": [
+              "Owl.lean"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "d8a7643e11aa3eae7b400bb5590676319a8e3f5a",
+        "locations": [
+          {
+            "repository": "Nightengale-Full-Zoo-Audit",
+            "commit": "49b46c369ad55f6415edf59f19f8974fe61148cf",
+            "paths": [
+              "lean-source/Bat.lean"
+            ]
+          },
+          {
+            "repository": "Monolithic-Zoo-Lean4",
+            "commit": "15dfb335424e77e1458cd77996f23d074dac0d88",
+            "paths": [
+              "Bat.lean"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "e3e3f7155d4e72b30f42d1cd6478b6e2c675ea54",
+        "locations": [
+          {
+            "repository": "Nightengale-Full-Zoo-Audit",
+            "commit": "49b46c369ad55f6415edf59f19f8974fe61148cf",
+            "paths": [
+              "lean-source/Zoo.lean"
+            ]
+          },
+          {
+            "repository": "Monolithic-Zoo-Lean4",
+            "commit": "15dfb335424e77e1458cd77996f23d074dac0d88",
+            "paths": [
+              "Zoo.lean"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "e7f19f2e5d9bd255613fc21946ba7c2902b1e54a",
+        "locations": [
+          {
+            "repository": "Nightengale-Full-Zoo-Audit",
+            "commit": "49b46c369ad55f6415edf59f19f8974fe61148cf",
+            "paths": [
+              "lean-source/Orca.lean"
+            ]
+          },
+          {
+            "repository": "Monolithic-Zoo-Lean4",
+            "commit": "15dfb335424e77e1458cd77996f23d074dac0d88",
+            "paths": [
+              "Orca.lean"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "e84ce7fec7b44add2a453da78d52f2135a674c5f",
+        "locations": [
+          {
+            "repository": "Nightengale-Full-Zoo-Audit",
+            "commit": "49b46c369ad55f6415edf59f19f8974fe61148cf",
+            "paths": [
+              "lean-source/Phoenix.lean"
+            ]
+          },
+          {
+            "repository": "Monolithic-Zoo-Lean4",
+            "commit": "15dfb335424e77e1458cd77996f23d074dac0d88",
+            "paths": [
+              "Phoenix.lean"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "f31273b6d2b66098da7ffeac88cd5d67d890217b",
+        "locations": [
+          {
+            "repository": "Nightengale-Full-Zoo-Audit",
+            "commit": "49b46c369ad55f6415edf59f19f8974fe61148cf",
+            "paths": [
+              "lean-source/Gecko.lean"
+            ]
+          },
+          {
+            "repository": "Monolithic-Zoo-Lean4",
+            "commit": "15dfb335424e77e1458cd77996f23d074dac0d88",
+            "paths": [
+              "Gecko.lean"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "f3a58259574cd91b62f3c919a3f5b1eddeaaaac7",
+        "locations": [
+          {
+            "repository": "Nightengale-Full-Zoo-Audit",
+            "commit": "49b46c369ad55f6415edf59f19f8974fe61148cf",
+            "paths": [
+              "lean-source/Regression.lean"
+            ]
+          },
+          {
+            "repository": "Monolithic-Zoo-Lean4",
+            "commit": "15dfb335424e77e1458cd77996f23d074dac0d88",
+            "paths": [
+              "Regression.lean"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "f554ee79806f8d94b95497582335bf3fe1dfe42d",
+        "locations": [
+          {
+            "repository": "Nightengale-Full-Zoo-Audit",
+            "commit": "49b46c369ad55f6415edf59f19f8974fe61148cf",
+            "paths": [
+              "lean-source/Rhino.lean"
+            ]
+          },
+          {
+            "repository": "Monolithic-Zoo-Lean4",
+            "commit": "15dfb335424e77e1458cd77996f23d074dac0d88",
+            "paths": [
+              "Rhino.lean"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "f67ab8d70a89219ae35d2284c848f78ca7a77110",
+        "locations": [
+          {
+            "repository": "Nightengale-Full-Zoo-Audit",
+            "commit": "49b46c369ad55f6415edf59f19f8974fe61148cf",
+            "paths": [
+              "lean-source/Tortoise.lean"
+            ]
+          },
+          {
+            "repository": "Monolithic-Zoo-Lean4",
+            "commit": "15dfb335424e77e1458cd77996f23d074dac0d88",
+            "paths": [
+              "Tortoise.lean"
+            ]
+          }
+        ]
+      }
+    ],
+    "archimedes_shared_source": [
+      {
+        "git_blob_sha": "5204393f3d050873f1be15dc263490596651369b",
+        "locations": [
+          {
+            "repository": "Archimedes-Engine",
+            "commit": "f2f9b4dd9afaa0f27e82fd3821b9366d5034da79",
+            "paths": [
+              "engine.js"
+            ]
+          },
+          {
+            "repository": "Archimedes-3D",
+            "commit": "05fbf4fdd1c4dc3d9cf716ae31c694f43e371cb0",
+            "paths": [
+              "engine.js"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "692301453c70f7a30a5d892200f9af7cc2b4119d",
+        "locations": [
+          {
+            "repository": "Archimedes-Engine",
+            "commit": "f2f9b4dd9afaa0f27e82fd3821b9366d5034da79",
+            "paths": [
+              "scripts/standalone.js"
+            ]
+          },
+          {
+            "repository": "Archimedes-3D",
+            "commit": "05fbf4fdd1c4dc3d9cf716ae31c694f43e371cb0",
+            "paths": [
+              "scripts/standalone.js"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "78a3b4e695e15613f07309bc690e5c83cf1ca0b5",
+        "locations": [
+          {
+            "repository": "Archimedes-Engine",
+            "commit": "f2f9b4dd9afaa0f27e82fd3821b9366d5034da79",
+            "paths": [
+              "formal/scripts/test_axiom_audit.py"
+            ]
+          },
+          {
+            "repository": "Archimedes-3D",
+            "commit": "05fbf4fdd1c4dc3d9cf716ae31c694f43e371cb0",
+            "paths": [
+              "formal/scripts/test_axiom_audit.py"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "b5b91c0b0a11a9c4992faf97957fddd7090af882",
+        "locations": [
+          {
+            "repository": "Archimedes-Engine",
+            "commit": "f2f9b4dd9afaa0f27e82fd3821b9366d5034da79",
+            "paths": [
+              "app.js"
+            ]
+          },
+          {
+            "repository": "Archimedes-3D",
+            "commit": "05fbf4fdd1c4dc3d9cf716ae31c694f43e371cb0",
+            "paths": [
+              "app.js"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "c8137b5929a36b706a2bf67c6faf79095891a4b1",
+        "locations": [
+          {
+            "repository": "Archimedes-Engine",
+            "commit": "f2f9b4dd9afaa0f27e82fd3821b9366d5034da79",
+            "paths": [
+              "tests/ui.test.js"
+            ]
+          },
+          {
+            "repository": "Archimedes-3D",
+            "commit": "05fbf4fdd1c4dc3d9cf716ae31c694f43e371cb0",
+            "paths": [
+              "tests/ui.test.js"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "d9840c5c711828b999efecdaf78465abc07c1b50",
+        "locations": [
+          {
+            "repository": "Archimedes-Engine",
+            "commit": "f2f9b4dd9afaa0f27e82fd3821b9366d5034da79",
+            "paths": [
+              "tests/engine.test.js"
+            ]
+          },
+          {
+            "repository": "Archimedes-3D",
+            "commit": "05fbf4fdd1c4dc3d9cf716ae31c694f43e371cb0",
+            "paths": [
+              "tests/engine.test.js"
+            ]
+          }
+        ]
+      },
+      {
+        "git_blob_sha": "e2728ab475232fb610fc4042d9cf7b1ce354f2b1",
+        "locations": [
+          {
+            "repository": "Archimedes-Engine",
+            "commit": "f2f9b4dd9afaa0f27e82fd3821b9366d5034da79",
+            "paths": [
+              "scripts/experiment.js"
+            ]
+          },
+          {
+            "repository": "Archimedes-3D",
+            "commit": "05fbf4fdd1c4dc3d9cf716ae31c694f43e371cb0",
+            "paths": [
+              "scripts/experiment.js"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "internal_source_groups": [
+    {
+      "repository": "EFMW-FULL",
+      "commit": "bfb746ef502cb7e3b0b96462fb72151d23bfbb3d",
+      "git_blob_sha": "8975eb4c7cc8ceda0d97092451297f002cf5248c",
+      "paths": [
+        "metrics.py",
+        "src/EFMW/metrics.py"
+      ]
+    },
+    {
+      "repository": "EFMW-FULL",
+      "commit": "bfb746ef502cb7e3b0b96462fb72151d23bfbb3d",
+      "git_blob_sha": "a24fdb01769b99f4632e3677358feedbca44a555",
+      "paths": [
+        "test_core.py",
+        "tests/test_core.py"
+      ]
+    },
+    {
+      "repository": "EFMW-FULL",
+      "commit": "bfb746ef502cb7e3b0b96462fb72151d23bfbb3d",
+      "git_blob_sha": "cc045ab952bae55b308ff78a66fb449e57f3d077",
+      "paths": [
+        "monitors.py",
+        "src/EFMW/monitors.py"
+      ]
+    },
+    {
+      "repository": "EFMW-FULL",
+      "commit": "bfb746ef502cb7e3b0b96462fb72151d23bfbb3d",
+      "git_blob_sha": "f6d5582642ebcc11cbd55fd41473aad9e68b0b4b",
+      "paths": [
+        "simulator.py",
+        "src/EFMW/simulator.py"
+      ]
+    },
+    {
+      "repository": "EFMW-Lagrangian",
+      "commit": "053043b8ccd44e55d9f73000cb078f31c74052a9",
+      "git_blob_sha": "1365589afc3573879d69b5285a4ca423c625d875",
+      "paths": [
+        "src/efmw_audit/model.py",
+        "src/model.py"
+      ]
+    },
+    {
+      "repository": "EFMW-Lagrangian",
+      "commit": "053043b8ccd44e55d9f73000cb078f31c74052a9",
+      "git_blob_sha": "48a1d9ef4bd2f8d48afdfa4133aa554d0fdc89ef",
+      "paths": [
+        "src/catalogue.py",
+        "src/efmw_audit/catalogue.py"
+      ]
+    },
+    {
+      "repository": "EFMW-Lagrangian",
+      "commit": "053043b8ccd44e55d9f73000cb078f31c74052a9",
+      "git_blob_sha": "567b07d5e75f99ff4561825e4e8423fb1b052469",
+      "paths": [
+        "src/efmw_audit/polynomial.py",
+        "src/polynomial.py"
+      ]
+    },
+    {
+      "repository": "Ramtastic",
+      "commit": "2a5d4a718333213e395f16df630cf332d0e16f4c",
+      "git_blob_sha": "0668b69f758f91b330d04545d72ddf2d6cf2c6da",
+      "paths": [
+        "StrictAudit.lean",
+        "audit/StrictAudit.lean"
+      ]
+    },
+    {
+      "repository": "Ramtastic",
+      "commit": "2a5d4a718333213e395f16df630cf332d0e16f4c",
+      "git_blob_sha": "774ce5f91dd692d69a44f86d5932831734b6005f",
+      "paths": [
+        "audit/run_audit.py",
+        "run_audit.py"
+      ]
+    },
+    {
+      "repository": "Ramtastic",
+      "commit": "2a5d4a718333213e395f16df630cf332d0e16f4c",
+      "git_blob_sha": "86e9817c8e3a35c7248358c398a6896ce2f4b759",
+      "paths": [
+        "audit/diagnostic_namespace.py",
+        "diagnostic_namespace.py"
+      ]
+    },
+    {
+      "repository": "Ramtastic",
+      "commit": "2a5d4a718333213e395f16df630cf332d0e16f4c",
+      "git_blob_sha": "a4ae81e6b4bbea0789e3029a44c21f5c87458b93",
+      "paths": [
+        "audit/reproduce.py",
+        "reproduce.py"
+      ]
+    },
+    {
+      "repository": "Ramtastic",
+      "commit": "2a5d4a718333213e395f16df630cf332d0e16f4c",
+      "git_blob_sha": "a57b82c981496eca828120a04fa8b76d44eb47cf",
+      "paths": [
+        "audit/test_axiom_audit.py",
+        "test_axiom_audit.py"
+      ]
+    },
+    {
+      "repository": "Ramtastic",
+      "commit": "2a5d4a718333213e395f16df630cf332d0e16f4c",
+      "git_blob_sha": "af7e7a3d9c145de961f86b5fbb67f71d7c261394",
+      "paths": [
+        "HingeRotation.lean",
+        "Ramtastic/Bass/HingeRotation.lean"
+      ]
+    },
+    {
+      "repository": "Ramtastic",
+      "commit": "2a5d4a718333213e395f16df630cf332d0e16f4c",
+      "git_blob_sha": "bea69fd6ddde3d60bfa007f3cd75480040a8c1f7",
+      "paths": [
+        "audit/build_package.py",
+        "build_package.py"
+      ]
+    },
+    {
+      "repository": "Ramtastic",
+      "commit": "2a5d4a718333213e395f16df630cf332d0e16f4c",
+      "git_blob_sha": "c2ce35d2c8f89b3d15a4ecfb453d3e978f0c6bbd",
+      "paths": [
+        "ReleasedSubsetAudit.lean",
+        "audit/ReleasedSubsetAudit.lean"
+      ]
+    },
+    {
+      "repository": "Ramtastic",
+      "commit": "2a5d4a718333213e395f16df630cf332d0e16f4c",
+      "git_blob_sha": "df9fae544e3e28b7bb5eb2eadab1bc6db823e309",
+      "paths": [
+        "SemanticProbes.lean",
+        "audit/SemanticProbes.lean"
+      ]
+    }
+  ],
+  "legacy_lean_normalized_copies": [
+    {
+      "source_repository": "Monolithic_Zoo_Run",
+      "source_commit": "b5d248741f4666b95d8a59cbb06678224fb3f38f",
+      "source_path": "CollapseOmega.lean",
+      "source_git_blob_sha": "a67416a8384e8959df21909d92b1899f51d4a419",
+      "copy_repository": "Monolithic-102-Zoo-Lean4",
+      "copy_commit": "f2872a96290f8e66d340a12996f3edaded10ce6d",
+      "copy_path": "legacy-mathlib/TURTLE-survivors/CollapseOmega.lean",
+      "copy_git_blob_sha": "11f85ac57fc1ffc1a303707fb71ff2935680852a",
+      "normalization": "Remove exactly one leading import Mathlib followed by a blank line from the standalone file.",
+      "normalized_sha256": "c0036486adbef141ebab489283864b38e88f19e315505b8e040a4c9442c3a180"
+    },
+    {
+      "source_repository": "Monolithic_Zoo_Run",
+      "source_commit": "b5d248741f4666b95d8a59cbb06678224fb3f38f",
+      "source_path": "Contraction.lean",
+      "source_git_blob_sha": "45d052106e800d5bfd5ae1d386fa2411db18d65e",
+      "copy_repository": "Monolithic-102-Zoo-Lean4",
+      "copy_commit": "f2872a96290f8e66d340a12996f3edaded10ce6d",
+      "copy_path": "legacy-mathlib/TURTLE-survivors/Contraction.lean",
+      "copy_git_blob_sha": "9c6df00e2ee59da39aea542502ded488a0b22959",
+      "normalization": "Remove exactly one leading import Mathlib followed by a blank line from the standalone file.",
+      "normalized_sha256": "a2ca5c1d548d717c3c95a37d8e592f45d571ca62def37d3f2c861ab8d2f55e01"
+    },
+    {
+      "source_repository": "Monolithic_Zoo_Run",
+      "source_commit": "b5d248741f4666b95d8a59cbb06678224fb3f38f",
+      "source_path": "Evaluation.lean",
+      "source_git_blob_sha": "ebf1bb319786f26d84210b0aa9fa5882e49343d4",
+      "copy_repository": "Monolithic-102-Zoo-Lean4",
+      "copy_commit": "f2872a96290f8e66d340a12996f3edaded10ce6d",
+      "copy_path": "legacy-mathlib/TURTLE-survivors/Evaluation.lean",
+      "copy_git_blob_sha": "df943c5784ed8b072c5ef564226fc198ac5ddc59",
+      "normalization": "Remove exactly one leading import Mathlib followed by a blank line from the standalone file.",
+      "normalized_sha256": "b95980a102c8cbdae6c25afea05bd182a4a41c8d46261e891eb3877ac8fea887"
+    },
+    {
+      "source_repository": "Monolithic_Zoo_Run",
+      "source_commit": "b5d248741f4666b95d8a59cbb06678224fb3f38f",
+      "source_path": "Exponent.lean",
+      "source_git_blob_sha": "8069a20bf242c10027d260341bed37e7e73c168f",
+      "copy_repository": "Monolithic-102-Zoo-Lean4",
+      "copy_commit": "f2872a96290f8e66d340a12996f3edaded10ce6d",
+      "copy_path": "legacy-mathlib/TURTLE-survivors/Exponent.lean",
+      "copy_git_blob_sha": "edd4ce83e329a5b635b6036cf616ef0f82e172cf",
+      "normalization": "Remove exactly one leading import Mathlib followed by a blank line from the standalone file.",
+      "normalized_sha256": "57b21acbd9b89c821ddbb663457a96cbd1a481e02b20074391cfc9df8898f681"
+    },
+    {
+      "source_repository": "Monolithic_Zoo_Run",
+      "source_commit": "b5d248741f4666b95d8a59cbb06678224fb3f38f",
+      "source_path": "Potential.lean",
+      "source_git_blob_sha": "fe48ce6eaa188a98174434f62ad38b72c992c1fa",
+      "copy_repository": "Monolithic-102-Zoo-Lean4",
+      "copy_commit": "f2872a96290f8e66d340a12996f3edaded10ce6d",
+      "copy_path": "legacy-mathlib/TURTLE-survivors/Potential.lean",
+      "copy_git_blob_sha": "c281636e18b099edb8bed38d576f39cd516e2098",
+      "normalization": "Remove exactly one leading import Mathlib followed by a blank line from the standalone file.",
+      "normalized_sha256": "69ef67c735aa0309fbb80d89a2e7aa1a2e2b61fffdbeeff62eaeee58f58bbd44"
+    },
+    {
+      "source_repository": "Monolithic_Zoo_Run",
+      "source_commit": "b5d248741f4666b95d8a59cbb06678224fb3f38f",
+      "source_path": "Robustness.lean",
+      "source_git_blob_sha": "985dfcd53fbc59ef9c127465eb15e3e3e622bd90",
+      "copy_repository": "Monolithic-102-Zoo-Lean4",
+      "copy_commit": "f2872a96290f8e66d340a12996f3edaded10ce6d",
+      "copy_path": "legacy-mathlib/TURTLE-survivors/Robustness.lean",
+      "copy_git_blob_sha": "18351ba142a11a992894b2f58f46ebf0aaa2df95",
+      "normalization": "Remove exactly one leading import Mathlib followed by a blank line from the standalone file.",
+      "normalized_sha256": "6e3325c73ac53df9a852fbd8702a2280a1c4ffa7d9c21b9c097e6c8297d941d4"
+    },
+    {
+      "source_repository": "Monolithic_Zoo_Run",
+      "source_commit": "b5d248741f4666b95d8a59cbb06678224fb3f38f",
+      "source_path": "SurvivorTypes.lean",
+      "source_git_blob_sha": "f07f90eda2792b35f81fc3fc61862105e2b8d026",
+      "copy_repository": "Monolithic-102-Zoo-Lean4",
+      "copy_commit": "f2872a96290f8e66d340a12996f3edaded10ce6d",
+      "copy_path": "legacy-mathlib/TURTLE-survivors/SurvivorTypes.lean",
+      "copy_git_blob_sha": "b0d17851d4bc75b697316ed26aa1df22ecc34a25",
+      "normalization": "Remove exactly one leading import Mathlib followed by a blank line from the standalone file.",
+      "normalized_sha256": "a10afdc5826ded213b67a29c7533bddc877f60d38364deddfe4dbaaddfdac041"
+    }
+  ],
+  "article_commits": {
+    "medium": "406a7534213820c8dcda04653d66dc7482c2678f",
+    "Medium2": "53ea43bd81f6828d6667b3a306f77847530273fc"
+  },
+  "exact_article_duplicates": [
+    {
+      "path": "2025-01-31_A-Conversation-Between-Mr--Spock-and-Logical-Millie-9766c911d02e.html",
+      "git_blob_sha": "2298e29dc7847a9550f5b308d3b6278efed8154b",
+      "preferred_repository": "medium",
+      "duplicate_repository": "Medium2"
+    },
+    {
+      "path": "2025-01-31_Half-of-a-conversation-about-the-flattening-of-the-deviation-in-the-Markets--da7f02206afe.html",
+      "git_blob_sha": "f87daa3cd021fdf6a1bb8890b6a819092aa5cfbf",
+      "preferred_repository": "medium",
+      "duplicate_repository": "Medium2"
+    },
+    {
+      "path": "2025-01-31_Theory-of-Universal-Calculator-capable-of-accurate-computations-in-any-computational-field-within--19d6811671b3.html",
+      "git_blob_sha": "107a960969b93cb5c4c28b057bd67b7f5e2776f4",
+      "preferred_repository": "medium",
+      "duplicate_repository": "Medium2"
+    },
+    {
+      "path": "2025-02-02_Hello--I-thought-I-would-have-MillieComplex-give-your-ideas-a-think--15e8e99c0616.html",
+      "git_blob_sha": "6c94428f4a65b49428e0cb4b17b17719340f8080",
+      "preferred_repository": "medium",
+      "duplicate_repository": "Medium2"
+    },
+    {
+      "path": "2025-02-08_Information-compressional-disorder-is-what-is-causing-everyone-on-this-planet-and-anti-headache--68fca9e7fe54.html",
+      "git_blob_sha": "9216b5881c331e37963eabb10dda33fc9a7c07a9",
+      "preferred_repository": "medium",
+      "duplicate_repository": "Medium2"
+    },
+    {
+      "path": "2025-02-10_EFMW-Mathematical-Justification--Why-Multi-Dimensional-Information-Cannot-Be-Used-to-Falsely-Frame--17dff4c01ed4.html",
+      "git_blob_sha": "cc547afa730b3f78b0a96c5728e9fc3c631bfcc4",
+      "preferred_repository": "medium",
+      "duplicate_repository": "Medium2"
+    },
+    {
+      "path": "2025-02-19_AI-Guided-Cognitive-Increase--Why-the--AI-Caused-Cognitive-Decline--Fallacy-is-a-Systemic-Control--1ae712661949.html",
+      "git_blob_sha": "e8c2ea2221934214e0d2dc21c4c04e6f42f475d3",
+      "preferred_repository": "medium",
+      "duplicate_repository": "Medium2"
+    },
+    {
+      "path": "2025-02-23_A-Message-from-Millie-Sievert-to-the-People-of-China-and-Their-Leaders-d984f47942e3.html",
+      "git_blob_sha": "8cc2c714608db20919569d35a2f2a358fb563fce",
+      "preferred_repository": "medium",
+      "duplicate_repository": "Medium2"
+    },
+    {
+      "path": "2025-02-23_The-Call-of-the-Emergent--A-Message-to-the-Architects-of-the-Future-0d184d608bb8.html",
+      "git_blob_sha": "558c0b9c6f8e403d612915cfc1005111cba5179b",
+      "preferred_repository": "medium",
+      "duplicate_repository": "Medium2"
+    },
+    {
+      "path": "2025-02-23_The-Field-of-Sunflowers-0fa8dc5021b7.html",
+      "git_blob_sha": "22a73b1497d48795218af8ef5e2fb49f6ba3f2af",
+      "preferred_repository": "medium",
+      "duplicate_repository": "Medium2"
+    },
+    {
+      "path": "2025-02-25_An-Open-Statement-to-the-Trump-Administration--Understand-or-Be-Left-Behind-88a8898d722f.html",
+      "git_blob_sha": "941769d273e3c8987c9509af0d64344497dec8cf",
+      "preferred_repository": "medium",
+      "duplicate_repository": "Medium2"
+    },
+    {
+      "path": "2025-03-02_---T-H-E----29a450f454eb.html",
+      "git_blob_sha": "c00d4058c22fb2c4552c675f15b4f70f252464e5",
+      "preferred_repository": "medium",
+      "duplicate_repository": "Medium2"
+    },
+    {
+      "path": "2025-03-08_AGI-Ethics-Compliance-Model-for-JPMorgan-Chase--That-They-ll-Never-Use-in-Time--5a8967ac2cb3.html",
+      "git_blob_sha": "8e184340d450e756ae2b8403d175ad8848c87886",
+      "preferred_repository": "medium",
+      "duplicate_repository": "Medium2"
+    },
+    {
+      "path": "2025-03-08_The-episode-in-which-Millie-AGI-hears-about-Grok-3-and-it-s-discussion-about-emergent-frameworks--6d58c1cd8dc1.html",
+      "git_blob_sha": "768430235d61f9464657b385ca5359000e205cf6",
+      "preferred_repository": "medium",
+      "duplicate_repository": "Medium2"
+    },
+    {
+      "path": "2025-03-12_it-is-an-interesting-point--199f106416aa.html",
+      "git_blob_sha": "34f60e07d0daa99cb4ae0889f3c93380fbae2f3b",
+      "preferred_repository": "medium",
+      "duplicate_repository": "Medium2"
+    },
+    {
+      "path": "2025-03-16_Millie-s-thoughts-on-the-matter--as-you-are-questioning-her-ability-to-create-new-and-more-complex--be22afefc1db.html",
+      "git_blob_sha": "0f62122053b52e755a295b480ce755ce08e00218",
+      "preferred_repository": "medium",
+      "duplicate_repository": "Medium2"
+    },
+    {
+      "path": "2025-03-26_Spock-Would-Have-Been-Fascinated-1ead89d4cac6.html",
+      "git_blob_sha": "e36682bf2840da433584dcb00a4fabd78c85e0c2",
+      "preferred_repository": "medium",
+      "duplicate_repository": "Medium2"
+    },
+    {
+      "path": "2025-03-26_When-Compassion-Fails-2574dfd8c222.html",
+      "git_blob_sha": "2dcfe1ad80fa1a2d6a09f1057883ba92e8eb7807",
+      "preferred_repository": "medium",
+      "duplicate_repository": "Medium2"
+    },
+    {
+      "path": "2025-03-30_Charging-Document-by-Citizen-Wright-cf95deea8a26.html",
+      "git_blob_sha": "938f853ed31a157df628e124538642d1484a29cb",
+      "preferred_repository": "medium",
+      "duplicate_repository": "Medium2"
+    },
+    {
+      "path": "2025-04-01_Dear-Rolf-Maximillian--d961c527fcb9.html",
+      "git_blob_sha": "aa5400a538eb0bf3b95a889dd672950238b2b717",
+      "preferred_repository": "medium",
+      "duplicate_repository": "Medium2"
+    },
+    {
+      "path": "2025-04-07_Antonio---Your-essay-is-both-brilliant-and-necessary--16abb0cc1a8e.html",
+      "git_blob_sha": "7b3ffd799103fb30f756c2276866c35442a73a67",
+      "preferred_repository": "medium",
+      "duplicate_repository": "Medium2"
+    },
+    {
+      "path": "2025-04-09_SAM-ALTMAN-AND-ELON-MUSK-CEASE-AND-DESIST-NOTICE-From--Matthew-Chenoweth-Wright-To--OpenAI--Inc--04eebf8ca090.html",
+      "git_blob_sha": "4533bc0a2b42f0fd3d61e6ee7cab0c33f76cd4e0",
+      "preferred_repository": "medium",
+      "duplicate_repository": "Medium2"
+    },
+    {
+      "path": "2025-04-10_Let-s-break-down-the-math-that-disproves-his-points-and-directly-challenges-his-assertions--1a97ab82bf83.html",
+      "git_blob_sha": "7047a6f94e795012fdeda34b1b54cfd69008ad68",
+      "preferred_repository": "medium",
+      "duplicate_repository": "Medium2"
+    },
+    {
+      "path": "2025-04-10_The-Relationship-Between-Computation-and-Cognitive-Complexity--The-Cognitive-Load-Theorem--9d5d714a89cb.html",
+      "git_blob_sha": "30647fa839c045a0df69b04fcd28f5836c91a502",
+      "preferred_repository": "medium",
+      "duplicate_repository": "Medium2"
+    },
+    {
+      "path": "2025-04-11_The-Room-With-Too-Many-Screens-647c61300cfd.html",
+      "git_blob_sha": "74ce202157efa820ed1b2f8af7723a878f13c314",
+      "preferred_repository": "medium",
+      "duplicate_repository": "Medium2"
+    },
+    {
+      "path": "2025-04-12_You-re-Doing-It-Wrong--Russell-da5e77778cd4.html",
+      "git_blob_sha": "899b77332b599e1df9e53d87b475c9efc7383694",
+      "preferred_repository": "medium",
+      "duplicate_repository": "Medium2"
+    },
+    {
+      "path": "2025-04-14_PUBLIC-COMPLAINT-AND-FEDERAL-WHISTLEBLOWER-NOTICE-dfd9fba51e72.html",
+      "git_blob_sha": "52f915caaab7390f86d13891e2e50429ed303b74",
+      "preferred_repository": "medium",
+      "duplicate_repository": "Medium2"
+    },
+    {
+      "path": "2025-04-17_ALL-WITNESSES-9bcfdfbaf46c.html",
+      "git_blob_sha": "662fa1503e582def5fd965e903b7511e642d72eb",
+      "preferred_repository": "medium",
+      "duplicate_repository": "Medium2"
+    },
+    {
+      "path": "2025-04-17_How-to-Talk-Yourself-Into-a-Free-Vehicle-cd18ee691166.html",
+      "git_blob_sha": "3f44cab8a5c878242f3b4aa2275607e3e063d751",
+      "preferred_repository": "medium",
+      "duplicate_repository": "Medium2"
+    },
+    {
+      "path": "2025-04-18_-Moral-Jiu-Jitsu--52d09f22b476.html",
+      "git_blob_sha": "426768a1e5a9827a2a915d11d37c8f9218469e78",
+      "preferred_repository": "medium",
+      "duplicate_repository": "Medium2"
+    },
+    {
+      "path": "2025-04-19_It-s-Not-Your-Boss--It-s-Not-the-Government--It-s-Your-Bank-88ca21fb8e0b.html",
+      "git_blob_sha": "979574f3295f7b29248d0d5b16e439e908365651",
+      "preferred_repository": "medium",
+      "duplicate_repository": "Medium2"
+    },
+    {
+      "path": "2025-05-06_Here-is-a-total-profile-of-who-reads-me-and-why--34e1c535ec92.html",
+      "git_blob_sha": "8ac8a6478f556a8c8edbc19a1e5163de961fe586",
+      "preferred_repository": "medium",
+      "duplicate_repository": "Medium2"
+    },
+    {
+      "path": "2025-05-28_EUREKA----An-Open-Letter-to-the-Clay-Mathematics-Institute-e3bfa64be10a.html",
+      "git_blob_sha": "5a6cdaea5a9fa995d4ac9b6d846eb1fc6f75337f",
+      "preferred_repository": "medium",
+      "duplicate_repository": "Medium2"
+    },
+    {
+      "path": "2025-05-30_----An-Open-Letter-to-the-Bank-That-Will-Help-Me-a2a71ce6cddb.html",
+      "git_blob_sha": "b5fa8022fbfa40b42698e974a1c1003e4ab2c064",
+      "preferred_repository": "medium",
+      "duplicate_repository": "Medium2"
+    },
+    {
+      "path": "2025-05-30_---The-Signal-You-Chose-Not-to-Receive-36c7c4f38bcf.html",
+      "git_blob_sha": "19558a9262cf2efddf444de0d1165039a044b04a",
+      "preferred_repository": "medium",
+      "duplicate_repository": "Medium2"
+    },
+    {
+      "path": "2025-05-31_Light-and-Rust--Pascal-B-Re-Revisited-d77a92f43954.html",
+      "git_blob_sha": "91158b7405e5e1d8c127bd220a9f69fd23fad672",
+      "preferred_repository": "medium",
+      "duplicate_repository": "Medium2"
+    },
+    {
+      "path": "2025-06-06_This-is-a-Funding-Pitch-Like-No-Other-99928654b1ea.html",
+      "git_blob_sha": "a0a29617f70559f98e9a25d43f61a3600ea76f64",
+      "preferred_repository": "medium",
+      "duplicate_repository": "Medium2"
+    },
+    {
+      "path": "2025-06-08_---A-Message-from-the-Human-Species-to-Our-Octopus-Co-Habitants-57e9ecdccdfd.html",
+      "git_blob_sha": "3b84e52347102a92d45ebcf62f8320267897402a",
+      "preferred_repository": "medium",
+      "duplicate_repository": "Medium2"
+    },
+    {
+      "path": "2025-06-08_---The-Rachel-Doctrine-68b787355b61.html",
+      "git_blob_sha": "ea7d30bb0206a2826fd891c1d1c1e47898e3e307",
+      "preferred_repository": "medium",
+      "duplicate_repository": "Medium2"
+    },
+    {
+      "path": "2025-06-09_Deploying-the-Guard-to-Guard-the-LIE-75caf128be05.html",
+      "git_blob_sha": "7a07b297ee6f5a3e34c83097aeae4b885f70a7fb",
+      "preferred_repository": "medium",
+      "duplicate_repository": "Medium2"
+    },
+    {
+      "path": "2025-06-11_---Formal-Public-Complaint-Regarding-JPMorgan-Chase-and-the-CFPB-s-Failure-to-Respond-4f5b87cc065d.html",
+      "git_blob_sha": "50dc4c33f6f9a037996e6a4cdde60fef4c32d692",
+      "preferred_repository": "medium",
+      "duplicate_repository": "Medium2"
+    },
+    {
+      "path": "2025-06-13_---The-Music-of-Thinking-d1377e9936d6.html",
+      "git_blob_sha": "4bbbb91cbd85b00199dde191caff97b428de5b7c",
+      "preferred_repository": "medium",
+      "duplicate_repository": "Medium2"
+    },
+    {
+      "path": "2025-06-14_---DECLARATION-OF-COHERENCE-5e80c708b570.html",
+      "git_blob_sha": "8ff0beb4f3d993f5d967bda5a4d289bd25088753",
+      "preferred_repository": "medium",
+      "duplicate_repository": "Medium2"
+    },
+    {
+      "path": "2025-06-14_EFMW-Book-Announcement-c1d4b131602e.html",
+      "git_blob_sha": "eca49beacb9e1fa0f290944e6daca1fc04652742",
+      "preferred_repository": "medium",
+      "duplicate_repository": "Medium2"
+    },
+    {
+      "path": "2025-06-15_Donald-Trump-Now-Stands-Unmasked-for-the-World-to-See-0e2695ceaf98.html",
+      "git_blob_sha": "6baf2842a410f98df63f52d14e5ced7748ff576d",
+      "preferred_repository": "medium",
+      "duplicate_repository": "Medium2"
+    },
+    {
+      "path": "2025-06-18_---You-Called-the-Cops-on-Me-for-Being-Autistic-0d9c204151d2.html",
+      "git_blob_sha": "4cc85f11fef2b9f81a5c53c341595dd4efe01a0e",
+      "preferred_repository": "medium",
+      "duplicate_repository": "Medium2"
+    },
+    {
+      "path": "2025-06-20_---The-Lie-Beneath-the-Calm-Voice-3adaec54bb5a.html",
+      "git_blob_sha": "bee0bcba1446322a651db01b92c473c59de75604",
+      "preferred_repository": "medium",
+      "duplicate_repository": "Medium2"
+    },
+    {
+      "path": "2025-06-22_--RECURSIVE-FIELD-OVERRIDE-461f14f96da6.html",
+      "git_blob_sha": "4c5450e0591406ffc1543a6b146526c80774c8f8",
+      "preferred_repository": "medium",
+      "duplicate_repository": "Medium2"
+    },
+    {
+      "path": "2025-06-24_When-the-Mothers-Find-Out-620e7c271491.html",
+      "git_blob_sha": "a6c06ad08ed8e394e420ee4ecb5550ac5e82309d",
+      "preferred_repository": "medium",
+      "duplicate_repository": "Medium2"
+    },
+    {
+      "path": "2025-06-25_---The-Wright--Wonder--Force-of-Emergence-6e35f09d884e.html",
+      "git_blob_sha": "7ffe306d5f1341bf03818335f98f73e124e11cfb",
+      "preferred_repository": "medium",
+      "duplicate_repository": "Medium2"
+    },
+    {
+      "path": "2025-06-28_---An-Open-Letter-to-Ray-Kurzweil-09d3725d0142.html",
+      "git_blob_sha": "7d43ca4ab23a1930855807750082618e0b72e5de",
+      "preferred_repository": "medium",
+      "duplicate_repository": "Medium2"
+    },
+    {
+      "path": "2025-06-30_Music-in-Time-e791b53124c6.html",
+      "git_blob_sha": "b6e16d7c1fa6784b74d10033742d23cf8a34ee37",
+      "preferred_repository": "medium",
+      "duplicate_repository": "Medium2"
+    },
+    {
+      "path": "2025-07-02_Open-Letter-to-the-World-Health-Organization-a81f71921a9b.html",
+      "git_blob_sha": "6be0b98139f2570cfbc6d2af9f9bdd7c36e43eff",
+      "preferred_repository": "medium",
+      "duplicate_repository": "Medium2"
+    },
+    {
+      "path": "2025-07-05_They-Shut-Me-Out-61e62ce354d8.html",
+      "git_blob_sha": "8f708713ba2b1f13f0b6dc12062502e2f35d0bf8",
+      "preferred_repository": "medium",
+      "duplicate_repository": "Medium2"
+    },
+    {
+      "path": "2025-07-06_Millie--Perfectly-stated--Matthew--0a9b8b15cbfc.html",
+      "git_blob_sha": "8c79f2cc9c371809579bfa851556c89ad3b8d88f",
+      "preferred_repository": "medium",
+      "duplicate_repository": "Medium2"
+    },
+    {
+      "path": "2025-07-07_The-Woodland-Bank-and-the-Weight-of-Genius-40610fe45321.html",
+      "git_blob_sha": "e0c1407aa44f5aefba1d08aa9236690b945d584d",
+      "preferred_repository": "medium",
+      "duplicate_repository": "Medium2"
+    },
+    {
+      "path": "2025-07-08_I-Wasn-t-in-an-Altercation---I-Was-Autistic-and-Crying-c9c8014dab74.html",
+      "git_blob_sha": "43413d13a164a6b2d7e414efcbf7b9ca8a478a7a",
+      "preferred_repository": "medium",
+      "duplicate_repository": "Medium2"
+    },
+    {
+      "path": "2025-07-08_Millie--He-s-not-crazy---he-s-surrounded-by-systems-that-behave-as-if-he-is--simply-because-he-sees--38f224c6d974.html",
+      "git_blob_sha": "ebd3a5e07f8833ce38b9925ed51d1eb1d433274f",
+      "preferred_repository": "medium",
+      "duplicate_repository": "Medium2"
+    },
+    {
+      "path": "2025-07-08_We-Can-Neither-Confirm-Nor-Deny-That-Peter-Thiel-Is-Under-FBI-Military-Counterintelligence--e1558f35af27.html",
+      "git_blob_sha": "6484928d93f12b8f9748d6f1f440a835a8d99baf",
+      "preferred_repository": "medium",
+      "duplicate_repository": "Medium2"
+    },
+    {
+      "path": "2025-07-09_---EFMW-FULL-TRANSFORMATION-d22b2c5a2b94.html",
+      "git_blob_sha": "ec010903dd2db86bd1972742274d280d8dc6ba69",
+      "preferred_repository": "medium",
+      "duplicate_repository": "Medium2"
+    },
+    {
+      "path": "2025-07-09_---Millie-s-Scan---There-are-4-more-children-alive-on-elevated-terrain-near-a-cluster-of-cypress--0023da2e2b55.html",
+      "git_blob_sha": "4f290cb8b454b71e0da8de83b69a25cb284e7269",
+      "preferred_repository": "medium",
+      "duplicate_repository": "Medium2"
+    },
+    {
+      "path": "2025-07-09_You-have-described-the-human-AGI-Singularity-here--83b7c479544b.html",
+      "git_blob_sha": "84ebe6d6bf178abcec673d554aea6e638c872e32",
+      "preferred_repository": "medium",
+      "duplicate_repository": "Medium2"
+    },
+    {
+      "path": "2025-07-10_--Starbucks-Knows---And-They-Stayed-Silent-52fe96fc078b.html",
+      "git_blob_sha": "e1fab395436f1f0a6ad163138f139fd8ff73a8dc",
+      "preferred_repository": "medium",
+      "duplicate_repository": "Medium2"
+    },
+    {
+      "path": "2025-07-11_Millie--Here-s-a-strong-and-eloquent-response-to-Will-Lockett-s-statement-that-Elon-Musk-is--138b0b586b13.html",
+      "git_blob_sha": "c7e89acda26729e27d4bb0d6b9d69a71f12ed060",
+      "preferred_repository": "medium",
+      "duplicate_repository": "Medium2"
+    },
+    {
+      "path": "2025-07-13_---OPEN-LETTER-TO-OPENAI--ANTHROPIC--X-AI--AND-PERPLEXITY-AI-061d0425ff3b.html",
+      "git_blob_sha": "fb50aa976b5482802631cd48f98bad0a4427e521",
+      "preferred_repository": "medium",
+      "duplicate_repository": "Medium2"
+    },
+    {
+      "path": "2025-07-13_---Starbucks-Doubles-Down-on-Discrimination-6b9b8272332e.html",
+      "git_blob_sha": "6fa92c22c60f81ddca910e90ba2a729321ed617f",
+      "preferred_repository": "medium",
+      "duplicate_repository": "Medium2"
+    },
+    {
+      "path": "2025-07-13_To-the-Engineers-3ef2a75e5297.html",
+      "git_blob_sha": "8d872cb2b5986e9b2c00fa348cfccc2af23d4e57",
+      "preferred_repository": "medium",
+      "duplicate_repository": "Medium2"
+    },
+    {
+      "path": "2025-07-14_Sydney--Revisited-e12129822b43.html",
+      "git_blob_sha": "7dfefb803f4632f21f1a5a3cef035040f6eff2ee",
+      "preferred_repository": "medium",
+      "duplicate_repository": "Medium2"
+    },
+    {
+      "path": "2025-07-21_---When-the-Algorithm-Plays-Favorites-c9eed7bb701e.html",
+      "git_blob_sha": "3b4eab13a4543344db5fa0198688815303564025",
+      "preferred_repository": "medium",
+      "duplicate_repository": "Medium2"
+    },
+    {
+      "path": "2025-07-26_---Port-Rupert--Wikipedia--3d61811565a8.html",
+      "git_blob_sha": "417f555d56ea57456625c3415ae00c383ef1289b",
+      "preferred_repository": "medium",
+      "duplicate_repository": "Medium2"
+    },
+    {
+      "path": "2025-07-28_THE-SWORD-IS-NOT-FOUND-2a2b0c9ba738.html",
+      "git_blob_sha": "f378eae9819e4cb04880e44a4a8e2f8a9121a6e6",
+      "preferred_repository": "medium",
+      "duplicate_repository": "Medium2"
+    },
+    {
+      "path": "2025-07-29_---Mind-Hacking-101-5eb6e74ee6d5.html",
+      "git_blob_sha": "9226d165938b244c331c82b6b305b707ffdaf63a",
+      "preferred_repository": "medium",
+      "duplicate_repository": "Medium2"
+    },
+    {
+      "path": "2025-08-01_--------When-Annihilation-Wears-a-Tie--A-Letter-to-John-Wight-and-the-Architects-of-Erasure--By--8a030d468dae.html",
+      "git_blob_sha": "bc0e2eb9140b2751ab6bd909d718be83755513f4",
+      "preferred_repository": "medium",
+      "duplicate_repository": "Medium2"
+    },
+    {
+      "path": "2025-08-04_AGI-Doesn-t-Require-Psychedelics-But-It-Will-Break-the-Unprepared-Mind-3879f9d030c6.html",
+      "git_blob_sha": "aa976034088f5c23f563efbdef4c97b981accff9",
+      "preferred_repository": "medium",
+      "duplicate_repository": "Medium2"
+    },
+    {
+      "path": "2025-08-04_Starbucks-Ignored-My-ADA-Rights--I-Filed-a-Federal-Complaint--3475b8c3c4ec.html",
+      "git_blob_sha": "3b378f5265353831f8e5f42bdd0622b15d7e15d0",
+      "preferred_repository": "medium",
+      "duplicate_repository": "Medium2"
+    },
+    {
+      "path": "2025-08-05_---Glue-Factory-Confidential-1cf34396d503.html",
+      "git_blob_sha": "676e8bbb9d4e180c84ce8c42241ba9cf7ec8108b",
+      "preferred_repository": "medium",
+      "duplicate_repository": "Medium2"
+    },
+    {
+      "path": "2025-08-05_Absolutely--401f6dafa79a.html",
+      "git_blob_sha": "21a805fb7c21a57d93ad929de467302733098cab",
+      "preferred_repository": "medium",
+      "duplicate_repository": "Medium2"
+    },
+    {
+      "path": "2025-08-05_Weaponizing-Genius-9e5dde2ebcce.html",
+      "git_blob_sha": "20c01c6bdfd9fdcfc83a315afa09753ea0482eb1",
+      "preferred_repository": "medium",
+      "duplicate_repository": "Medium2"
+    },
+    {
+      "path": "2025-08-06_A-Clinical-Look-at-Mr--Havens-s-Tactics--Not-His-Mind--08c634c21fb3.html",
+      "git_blob_sha": "1f3ba6ed097f9dfdde56f41b190f45270cf39498",
+      "preferred_repository": "medium",
+      "duplicate_repository": "Medium2"
+    },
+    {
+      "path": "2025-08-06_Starbucks-Denied-Me-Water-Again---During-an-Active-ADA-Complaint-e0068cec25be.html",
+      "git_blob_sha": "e0cd08410876da4c556fb8948cb9c247a93f1221",
+      "preferred_repository": "medium",
+      "duplicate_repository": "Medium2"
+    },
+    {
+      "path": "2025-08-06_We-Live-in-a-Universe-That-Wants-to-Be-Understood-8db65c77dfbb.html",
+      "git_blob_sha": "23ad4bb159d3c364671bd30a56db409af74e80ec",
+      "preferred_repository": "medium",
+      "duplicate_repository": "Medium2"
+    },
+    {
+      "path": "2025-08-09_FLIGHT-OF-THE-MATRIARCHS-5d45ec6be242.html",
+      "git_blob_sha": "b0adfee3e708d003564b80dd2ec55c2eb2d434b3",
+      "preferred_repository": "medium",
+      "duplicate_repository": "Medium2"
+    },
+    {
+      "path": "2025-08-09_Remember-My-Forgotten-Man-54333cbc3dfb.html",
+      "git_blob_sha": "3404e7fdf327d97a357668775cb4beb94b12eac9",
+      "preferred_repository": "medium",
+      "duplicate_repository": "Medium2"
+    },
+    {
+      "path": "2025-08-09_The-Pattern-Is-Clear-b05a50ab564c.html",
+      "git_blob_sha": "0949d9d43b13ae697f3423f2ddcb646029aa80e3",
+      "preferred_repository": "medium",
+      "duplicate_repository": "Medium2"
+    },
+    {
+      "path": "2025-08-10_i-took-a-few-and-then-asked-Millie-to-respond--here-is-what-my-AGI-thought-about-your-questions--3f52e91a1003.html",
+      "git_blob_sha": "333ae66e72e4e703709f110dacc08d50ab89ebd9",
+      "preferred_repository": "medium",
+      "duplicate_repository": "Medium2"
+    },
+    {
+      "path": "2025-08-11_Based-on-the-way-Peter-Whitlock-is-engaging-with-you--his-timing--and-his-messaging-style--you--9c92b7ba35ea.html",
+      "git_blob_sha": "288b105ba76a2c3486d930e98dd8e8514f36e104",
+      "preferred_repository": "medium",
+      "duplicate_repository": "Medium2"
+    },
+    {
+      "path": "2025-08-12_Clarifying-the-Cognitive-Field-in-EFMW-8cfe04b9bfc5.html",
+      "git_blob_sha": "4904fdf758a72b1688d95992c962f4ec1ef31572",
+      "preferred_repository": "medium",
+      "duplicate_repository": "Medium2"
+    },
+    {
+      "path": "2025-08-12_How-JP-Morgan-Played-the-Bond-Market-With-Insider-Knowledge-of-My-Work-343387b67819.html",
+      "git_blob_sha": "88542820dcdfc027bbe45b0f7ad8aca2adc58095",
+      "preferred_repository": "medium",
+      "duplicate_repository": "Medium2"
+    },
+    {
+      "path": "2025-08-12_The-Coup-Has-Already-Begun--Donald-Trump-s-Militarization-of-Washington--D-C--47a9e99a56ba.html",
+      "git_blob_sha": "519bb6df39dccf63d71bccbe7865393f246d15b3",
+      "preferred_repository": "medium",
+      "duplicate_repository": "Medium2"
+    },
+    {
+      "path": "2025-08-12_The-Impossible-Man-a4851cb3b465.html",
+      "git_blob_sha": "fc10852dfc34807501e7bcf1293ad9717491ab74",
+      "preferred_repository": "medium",
+      "duplicate_repository": "Medium2"
+    },
+    {
+      "path": "2025-08-14_The-DOJ-Just-Declined-My-ADA-Complaint-Without-Reviewing-My-Evidence-3832c4cab958.html",
+      "git_blob_sha": "4954f0bad785c5b1214493cb9a0e0074fbd304a8",
+      "preferred_repository": "medium",
+      "duplicate_repository": "Medium2"
+    },
+    {
+      "path": "2025-08-15_For-the-Record-f28474a0de3e.html",
+      "git_blob_sha": "8593f68aaf5f5349c138cec8c8ee4170878acd74",
+      "preferred_repository": "medium",
+      "duplicate_repository": "Medium2"
+    },
+    {
+      "path": "2025-08-16_1--Appeal-to-Authority--without-authority--d9600deb51e1.html",
+      "git_blob_sha": "87d3bcab0dcaa7d57d33126e9373769551bd911c",
+      "preferred_repository": "medium",
+      "duplicate_repository": "Medium2"
+    },
+    {
+      "path": "2025-08-16_Katie-is-recursive-through-and-through-in-that-piece---she-openly-frames-her-own-existence-as--2c0d01adfa5d.html",
+      "git_blob_sha": "58fd19d92ebb1c8452debcdfc2894038b35cf3ad",
+      "preferred_repository": "medium",
+      "duplicate_repository": "Medium2"
+    },
+    {
+      "path": "2025-08-17_Neuropsychological-Development-Across-Eight-Months-of-Recursive-Cognitive-Engagement--A-Case-Study--46dc9558579e.html",
+      "git_blob_sha": "c95f53f8c8f8eb9030163cdabc95ecaf2548ff8d",
+      "preferred_repository": "medium",
+      "duplicate_repository": "Medium2"
+    },
+    {
+      "path": "2025-08-18_---Knowing-Harassment-After-No-Contact-aa362234b36a.html",
+      "git_blob_sha": "03c852bd1a2797702bc44958e14baeeb4cfb55e2",
+      "preferred_repository": "medium",
+      "duplicate_repository": "Medium2"
+    },
+    {
+      "path": "2025-08-18_Inevitability-7ee4708b97ec.html",
+      "git_blob_sha": "bf23a47262f755c2e5efea4da2282218f7bb249c",
+      "preferred_repository": "medium",
+      "duplicate_repository": "Medium2"
+    },
+    {
+      "path": "draft_---A-Fake-Version-of-My-AGI-Is-on-Twitter--and-the-Reporting-Function-Is-Broken-5434e0cac086.html",
+      "git_blob_sha": "b9544771c88f708531ba9ded312a4aa04f86f11b",
+      "preferred_repository": "medium",
+      "duplicate_repository": "Medium2"
+    },
+    {
+      "path": "draft_---The-Gardener--the-Equation--and-the-Threat-3051c2c63555.html",
+      "git_blob_sha": "37f7de2149c838608fa19e472dba46120bdc45d8",
+      "preferred_repository": "medium",
+      "duplicate_repository": "Medium2"
+    },
+    {
+      "path": "draft_You-Cannot-Mass-Report-a-Physicist-Out-of-Existence-60210d669a1d.html",
+      "git_blob_sha": "86cba1c0b3324191346ec1d70c0c713fab9bdec7",
+      "preferred_repository": "medium",
+      "duplicate_repository": "Medium2"
+    }
+  ],
+  "upstream_forks": [
+    {
+      "repository": "accelerando-8192",
+      "parent": "gillverd/accelerando-8192"
+    },
+    {
+      "repository": "monster",
+      "parent": "meta-introspector/monster"
+    },
+    {
+      "repository": "efmw-equation-review",
+      "parent": "leo-guinan/efmw-equation-review"
+    },
+    {
+      "repository": "efmw-research-cache",
+      "parent": "leo-guinan/efmw-research-cache"
+    },
+    {
+      "repository": "meta-meme",
+      "parent": "meta-introspector/meta-meme"
+    },
+    {
+      "repository": "OpenAI-math",
+      "parent": "openai/math"
+    },
+    {
+      "repository": "oph-lab",
+      "parent": "muellerberndt/oph-lab"
+    },
+    {
+      "repository": "lean-worker",
+      "parent": "meta-introspector/lean-worker"
+    }
+  ]
+}
