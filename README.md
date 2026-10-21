@@ -1,5 +1,8 @@
 # EFMW Post-156 Theorem & Zoo Audit
 
+> **External reviewers: START HERE → [Reviewed scope and reproduction guide](https://github.com/enuminous/EFMW_Post156_Zoo_Audit/blob/main/REVIEW_START_HERE.md) · [What this does not claim](https://github.com/enuminous/EFMW_Post156_Zoo_Audit/blob/main/WHAT_THIS_DOES_NOT_CLAIM.md) · [Claims-to-evidence register](https://github.com/enuminous/EFMW_Post156_Zoo_Audit/blob/main/CLAIMS_EVIDENCE_REGISTER.md).** These documents index evidence; they do not certify every repository.
+
+
 <!-- ENUMINOUS-LIFECYCLE:START -->
 **Lifecycle review — 2026-10-16: repository lifecycle review published.**
 
